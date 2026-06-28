@@ -145,13 +145,15 @@ def build_project(project_name: str) -> None:
     nb = nbformat.v4.new_notebook()
     cells: list = []
 
-    # Cell 0: title + Colab badge
+    # Cell 0: title + Colab badge + source link
     cells.append(
         nbformat.v4.new_markdown_cell(
-            f"# {project_name}\n\n"
+            f"# {project_name.title()}\n\n"
             f"[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]"
             f"(https://colab.research.google.com/github/{GITHUB_REPO}"
-            f"/blob/main/{project_name}/{project_name}.ipynb)"
+            f"/blob/main/{project_name}/{project_name}.ipynb)\n\n"
+            f"Source: [{GITHUB_REPO}/tree/main/{project_name}]"
+            f"(https://github.com/{GITHUB_REPO}/tree/main/{project_name})"
         )
     )
 

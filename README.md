@@ -10,10 +10,18 @@ statistics, government budgets, presidential approval, etc.
 Registered voters vs. voting-age population across all electoral rounds since
 1938.
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fabian-carini/uruguay-stats/blob/main/electoral/electoral.ipynb)
+
+<img src="electoral/electoral.png" width="400">
+
 ### `approval/`
 
 Presidential approval ratings from 1990 to 2026 using Opuy (UMAD-FCS) and
 polling data.
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fabian-carini/uruguay-stats/blob/main/approval/approval.ipynb)
+
+<img src="approval/approval.png" width="400">
 
 ### `budget/`
 
@@ -21,14 +29,30 @@ National budget composition from 1973 to 2024 across eight sectors (Education,
 Health, Social Security, Security/Defense, etc.). Combines OPP data with World
 Bank GDP figures.
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fabian-carini/uruguay-stats/blob/main/budget/budget.ipynb)
+
+<img src="budget/budget-stacked-pct.png" width="400">
+<img src="budget/budget-real-usd.png" width="400">
+<img src="budget/budget-lines.png" width="400">
+
 ### `abitab/`
 
 Abitab vs. Redpagos store counts in Montevideo from ~2015 to 2025.
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fabian-carini/uruguay-stats/blob/main/abitab/abitab.ipynb)
+
+<img src="abitab/abitab.png" width="400">
 
 ### `bus/`
 
 Montevideo bus line counts by operating company from 1920 to 2026. Tracks
 CUTCSA, AMDET, COME, UCOT, COETC, Raincoop, COTSUR, and predecessors.
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fabian-carini/uruguay-stats/blob/main/bus/bus.ipynb)
+
+<img src="bus/bus-stacked.png" width="400">
+<img src="bus/bus-per-company.png" width="400">
+<img src="bus/bus-distribution.png" width="400">
 
 ## Setup
 
