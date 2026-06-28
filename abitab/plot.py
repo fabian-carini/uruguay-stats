@@ -298,5 +298,7 @@ if __name__ == "__main__":
         raise SystemExit(0)
     output_dir = Path(__file__).parent
     png = save_chart(fig, output_dir / output_dir.name)
-    if not args.no_open:
+    if args.interactive:
+        plt.show()
+    elif not args.no_open:
         open_file(png)

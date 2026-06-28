@@ -37,23 +37,15 @@ CUTCSA, AMDET, COME, UCOT, COETC, Raincoop, COTSUR, and predecessors.
 <img src="bus/bus-per-company.png" width="400">
 <img src="bus/bus-distribution.png" width="400">
 
-### `electoral/`
+### `radios/`
 
-Registered voters vs. voting-age population across all electoral rounds since
-1938.
+Montevideo radio dial charts showing average ratings (Buró de Radios
+2017–2022 + Factum 2024–2025) per station, grouped by band.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fabian-carini/uruguay-stats/blob/main/electoral/electoral.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fabian-carini/uruguay-stats/blob/main/radios/radios.ipynb)
 
-<img src="electoral/electoral.png" width="400">
-
-### `abitab/`
-
-Abitab vs. Redpagos store counts in Montevideo from ~2015 to 2025.
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fabian-carini/uruguay-stats/blob/main/abitab/abitab.ipynb)
-
-<img src="abitab/abitab.png" width="400">
-
+<img src="radios/radios-fm-freq.png" width="400">
+<img src="radios/radios-am-freq.png" width="400">
 
 ## Setup
 

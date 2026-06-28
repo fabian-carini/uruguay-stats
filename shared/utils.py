@@ -65,6 +65,12 @@ def get_cli_args(variants: list[str] | None = None) -> argparse.Namespace:
             help="Chart variant(s), comma-separated, or 'all' (default: all)",
         )
     parser.add_argument(
+        "-i",
+        "--interactive",
+        action="store_true",
+        help="Open figure interactively with plt.show() instead of opening the image file",
+    )
+    parser.add_argument(
         "--no-open",
         action="store_true",
         help="Do not open generated files",

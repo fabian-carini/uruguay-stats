@@ -502,6 +502,8 @@ if __name__ == "__main__":
 
         stem = output_dir / f"{project_name}-{variant}"
         png = save_chart(fig, stem)
-        if not args.no_open:
+        if args.interactive:
+            plt.show()
+        elif not args.no_open:
             open_file(png)
         plt.close(fig)
