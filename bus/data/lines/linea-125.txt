@@ -1,0 +1,296 @@
+Ir al contenido
+[ ] Menú principal
+Menú principal
+mover a la barra lateral ocultar
+Navegación
+
+  • Portada
+  • Portal de la comunidad
+  • Actualidad
+  • Cambios recientes
+  • Páginas nuevas
+  • Página aleatoria
+  • Ayuda
+  • Notificar un error
+  • Páginas especiales
+
+[wikipe] Wikipedia La enciclopedia libre
+Buscar
+[                    ]
+Buscar
+
+[ ] Apariencia
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+[ ] Herramientas personales
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+Contenidos
+
+mover a la barra lateral ocultar
+
+  • Inicio
+  • 1 Características
+  • 2 Recorridos y paradas
+    Alternar subsección Recorridos y paradas
+      □ 2.1 Paradas
+      □ 2.2 Destinos intermedios
+  • 3 Referencias
+
+[ ] Cambiar a la tabla de contenidos
+
+Línea 125 (Montevideo)
+
+[ ] Añadir idiomas
+
+Añadir enlaces
+
+  • Artículo
+  • Discusión
+
+[ ] español
+
+  • Leer
+  • Editar
+  • Ver historial
+
+[ ] Herramientas
+Herramientas
+mover a la barra lateral ocultar
+Acciones
+
+  • Leer
+  • Editar
+  • Ver historial
+
+General
+
+  • Lo que enlaza aquí
+  • Cambios en enlazadas
+  • Subir archivo
+  • Enlace permanente
+  • Información de la página
+  • Citar esta página
+  • Obtener URL acortado
+  • Cambiar al analizador antiguo
+
+Imprimir/exportar
+
+  • Crear un libro
+  • Descargar como PDF
+  • Versión para imprimir
+
+En otros proyectos
+
+  • Elemento de Wikidata
+
+Apariencia
+mover a la barra lateral ocultar
+De Wikipedia, la enciclopedia libre
+
+                       124 / 124SD ← 125 → 126
+Ciudad Vieja Playa del Cerro
+
+por ● (Terminal del Cerro)
+[330px-Transporte_-_art9135ap]
+Línea 125 hacia Ciudad Vieja
+                           Área abastecida
+        Municipios          Montevideo
+                             Descripción
+           Tipo             Urbana
+          Sistema           Urbanos STM
+                              Operación
+         Longitud           Duración del viaje: 1 hora y 14 minutos.
+                             Explotación
+[editar datos en Wikidata]
+
+La línea 125 es una línea urbana de Montevideo, que une la Ciudad Vieja con
+Playa del Cerro.
+
+Características
+
+[editar]
+
+Opera en modalidad de circuito todos los días de la semana. En los días fines
+de semana su recorrido suele tener como destino intermedio a la terminal del
+Cerro.^[1]
+
+Recorridos y paradas
+
+[editar]
+
+Atraviesa en ambos sentidos los barrios Ciudad Vieja, Centro, La Aguada, Arroyo
+Seco, Bella Vista, Capurro, Prado, Paso Molino, Belvedere, La Teja y Cerro.
+
+Ida                                  Vuelta
+
+  • 25 de Mayo                         • Playa Cerro
+  • Juncal                             • Suiza
+  • Cerrito                            • Grecia
+  • Juan Lindolfo Cuestas              • Berna
+  • Buenos Aires                       • Portugal
+  • Liniers                            • Avenida Carlos María Ramírez
+  • San José                           • Avenida Doctor Santín Carlos Rossi
+  • Andes                              • Doctor Pedro Castellino
+  • Mercedes                           • ● Zona A (Terminal del Cerro)
+  • Avenida General Rondeau            • Egipto
+  • General Francisco Carballo         • Japón
+  • Avenida Agraciada                  • Rotonda salida del Cerro
+  • San Quintín                        • Avenida Carlos María Ramírez
+  • Juan B. Pandiani                   • Avenida Agraciada
+  • Avenida Carlos María Ramírez       • Paraguay
+  • Ramón Tabarez                      • Avenida del Libertador
+  • Doctor Pedro Castellino            • Avenida Uruguay
+  • ● Zona B (Terminal del Cerro)      • 25 de Mayo, continúa sin espera...
+  • Egipto
+  • Estados Unidos
+  • Grecia
+  • Inglaterra
+  • Vizcaya
+  • Suiza
+  • Playa del Cerro
+
+
+Paradas
+
+[editar]
+
+Ida
+
+Código         Paradas
+4041   Juncal
+4763   Bartolomé Mitre
+4764   Treinta Y Tres
+4765   Zabala
+4773   Pérez Castellano
+4774   Guaraní
+5106   25 de Mayo
+4929   Washington
+4769   Guaraní
+4770   Colón
+4771   Misiones
+4772   Ituzaingó
+5108   Juan Carlos Gómez
+5109   18 de Julio
+4549   Río Branco
+4023   Paraguay
+3927   Paysandú
+3928   Valparaíso
+3929   Asunción
+3930   Nicaragua
+3931   Guatemala
+567    Colombia
+568    Francisco Tajes
+569    General Caraballo
+3728   Estación Agraciada
+3729   Entre Ríos
+3730   García Morales
+3742   Evaristo Ciganda
+3743   Urdaneta
+3745   Bulevar Artigas
+1576   Juan Blanco
+1577   Capurro
+4211   Enrique Turini
+4255   Valentín Gómez
+1565   Zufriategui
+1567   Juan Antonio Artigas
+1145   José Freire
+1211   Belvedere
+1294   Vicente Basagoity
+1212   Avenida Batlle y Berres
+1296   Gobernador del Pino
+1297   Vicente Yáñez Pinzón
+1298   Real
+1299   Agustín Muñóz
+1300   Pedro Giralt
+1301   Rivera Indarte
+1302   Humboldt
+1303   Camambú
+4815   Vigo
+4925   Egipto
+4793   Grecia
+1110   Burdeos
+1111   Bélgica
+1112   Austria
+1113   Rusia
+1114   Holanda
+1115   Prusia
+1116   Juan Viacaba
+1117   Barcelona
+1118   República Argentina
+1119   Norteamérica
+1218   Chile
+1120   Bogotá
+1121   Vizcaya
+1122   Suiza
+5510   Rambla José Gurvich
+
+Destinos intermedios
+
+[editar]
+
+Ida
+
+  • Plaza Independencia
+  • Terminal del Cerro
+
+Vuelta
+
+  • Ciudadela
+  • Zufriategui (Paso Molino)
+
+Referencias
+
+[editar]
+
+ 1. ↑ «Línea de ómnibus extienden su recorrido a la Playa del Cerro». 7 de
+    enero de 2023. p. Subrayado. 
+
+Control de autoridades   • Proyectos Wikimedia
+                         • Wd Datos: Q16493723
+
+  • Wd Datos: Q16493723
+
+*
+Obtenido de «https://es.wikipedia.org/w/index.php?title=Línea_125_(Montevideo)&
+oldid=171322192»
+Categoría:
+
+  • Líneas de ómnibus de Montevideo
+
+  • Esta página se editó por última vez el 4 ene 2026 a las 04:04.
+  • La página fue renderizada con Parsoid.
+  • El texto está disponible bajo la Licencia Creative Commons
+    Atribución-CompartirIgual 4.0; pueden aplicarse cláusulas adicionales. Al
+    usar este sitio aceptas nuestros términos de uso y nuestra política de
+    privacidad.
+    Wikipedia® es una marca registrada de la Fundación Wikimedia, una
+    organización sin ánimo de lucro.
+
+  • Política de privacidad
+  • Acerca de Wikipedia
+  • Limitación de responsabilidad
+  • Contacto legal y de seguridad
+  • Código de conducta
+  • Desarrolladores
+  • Estadísticas
+  • Declaración de cookies
+  • Versión para móviles
+
+  • Wikimedia Foundation
+  • Powered by MediaWiki
+
+Buscar
+[                    ]
+Buscar
+[ ] Cambiar a la tabla de contenidos
+Línea 125 (Montevideo)
+       
+Añadir idiomas Añadir tema
+

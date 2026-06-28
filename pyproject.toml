@@ -1,0 +1,43 @@
+[project]
+name = "uruguay-stats"
+version = "0.1.0"
+description = "Uruguayan election, budget, bus, supermarket & approval-rating visualisations"
+requires-python = ">=3.14"
+dependencies = [
+    "matplotlib>=3.11.0",
+    "nbformat>=5.10",
+    "nbconvert>=7.16",
+    "ipykernel>=6.29",
+    "jupyterlab>=4.6.0",
+]
+
+[project.optional-dependencies]
+dev = ["ruff>=0.12.0", "pyright>=1.1.400"]
+
+[project.scripts]
+install-hooks = "shared.utils:install_hooks"
+
+[build-system]
+requires = ["uv_build>=0.11.8,<0.12.0"]
+build-backend = "uv_build"
+
+# Configure uv_build to add a package for shared data (`./shared`)
+[tool.uv.build-backend]
+module-name = "shared"
+module-root = ""
+
+[tool.ruff]
+line-length = 100
+target-version = "py314"
+exclude = ["*.ipynb"]
+
+[tool.ruff.format]
+quote-style = "double"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "W", "UP", "N", "RUF100"]
+
+[tool.pyright]
+pythonVersion = "3.14"
+typeCheckingMode = "basic"
+exclude = [".venv", "**/__pycache__", ".ruff_cache", ".ipynb_checkpoints"]

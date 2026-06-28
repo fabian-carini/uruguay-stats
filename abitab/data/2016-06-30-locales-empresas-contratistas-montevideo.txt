@@ -1,0 +1,477 @@
+               DIRECCIÓN                        ESQUINA              TELÉFONO              BARRIO           EMPRESA
+Av. Gral. Flores 2287                       Libres                       2203-38-44                          ABITAB
+Daniel Fernandez Crespo 2266                Madrid                       2924-86-50                          ABITAB
+Av. Fernández Crespo 1982                   Miguelete                    2924-52-48                          ABITAB
+Av. Agraciada 2329                          Gral. Cesar Díaz             2924-10-75                          ABITAB
+Nueva York 1267                                                                             AGUADA           ABITAB
+Av. Ltdor. Lavalleja 1945                   Lima                         2924-03-93                          ABITAB
+Paraguay 1962                                                                                                ABITAB
+San Martín 2366                                                          2200-81-35                         REDPAGOS
+Rondeau 2390                                Caraballo                    2929-12-04                         REDPAGOS
+Av. Libertador 1879 Bis                                                  2924-78-05                         REDPAGOS
+Av. José Batlle y Ordoñez 4123              Av. Burgues                  2200-33-31      AIRES PUROS         ABITAB
+Av. Agraciada 2545                          Gral. Aguilar                2203-35-16      ARROYO SECO         ABITAB
+San Martín 3083                                                                                              ABITAB
+Burgues 3325                                                                              ATAHUALPA          ABITAB
+Luis A. de Herrera 4125                                                  2204,7309                          REDPAGOS
+Ruta 8 Brig Juan Antonio Lavalleja 8760                                  2227-83-59   BAÑADOS DE CARRASCO   REDPAGOS
+Av. Gral. E. Garzón 425 Est. Esso Local 1   Aragón                                                           ABITAB
+San Quintín 4296 bis                        Bolognesi                    2305-48-14                          ABITAB
+San Quintín 1376                                                                                             ABITAB
+                                            Manuel Herrera y
+Av. C. M. Ramírez 266                       Obes                         2309-67-49        BELVEDERE         ABITAB
+Santa Lucía 5374                                                         2309-77-03                          ABITAB
+Millán 5784                                                                                                  ABITAB
+Mariano Sagasta 25                          Agraciada                    2305-37-82                           ANDA
+Agraciada 4295                                                                                              REDPAGOS
+Rafael 3782                                                              2514-30-91       BELLA ITALIA      REDPAGOS
+
+                                                               1 de 15
+Av. Gral. Flores 3405                     Andrés Lamas                 2203-34-43      BOLIVAR        ABITAB
+Av. L. A. de Herrera 3867                 San Martín                   2209-47-52                     ABITAB
+San Martín 3222 Macromercado                                           2205-36-97                     ABITAB
+                                                                                    BRAZO ORIENTAL
+Luis A de Herrera 3365 Shopp Nvo. Cent.                                                                ANDA
+Luis A. de Herrera 3836                                                2201-06-08                    REDPAGOS
+Av. Ramón Anador 3833 bis                 Andrés Aguiar                2628-63-77                     ABITAB
+Av. Italia 3498                                                                                       ABITAB
+Av. Rivera 3850                           Nicolás Piaggio                                             ABITAB
+Av. Mcal. F. Solano López 1891            Avda. Italia                 2506-59-05                     ABITAB
+Rivera 4219                               F. Solano López              2613-02-38                     ABITAB
+Nancy 4281 bis/001                        Carlos Lallemald                                            ABITAB
+Av. Rivera 3060                                                                                       ABITAB
+                                                                                        BUCEO
+Av. L. A. de Herrera 1203                 26 de Marzo                  2628-58-78                     ABITAB
+L.A. De Herrera 1290 Local 006            Plácido Ellauri              2628-75-24                     ABITAB
+Luis A. De Herrera 1290 Local 506                                                                     ABITAB
+Luis A. de Herrera 1290/148               Pablo Galarza                2622-46-66                    REDPAGOS
+Av. Italia 3794                                                        2508-60-41                    REDPAGOS
+Av. Italia 3428                                                                                      REDPAGOS
+Av. Rivera 4260                                                        2619-99-45                    REDPAGOS
+Av. Agraciada 3655                        Valentín Gomez                                              ABITAB
+Av. Agraciada 3054 bis                    Asencio                      2203-55-59                     ABITAB
+                                                                                       CAPURRO
+Capurro 848                               Coraceros                    2307-96-64                     ABITAB
+Br. Artigas                               Agraciada                    2308-92-35                    REDPAGOS
+Bolivia 2140                              Av. Italia                   2601-03-22                     ABITAB
+Av. Italia (Supermercado Devoto)          Santa Mónica                 2604-18-95                     ABITAB
+Av. Italia 7548                           Barradas                     2604-49-25                     ABITAB
+Av. Arocena 1568                          Carlos F. Saez               2600-58-91                     ABITAB
+Av. Bolivia 1413                          Boston                       2601-55-26                     ABITAB
+                                                             2 de 15                  CARRASCO
+Córcega 1943                   Mariano Uriarte                                            ABITAB
+                                                                          CARRASCO
+Almirante Harwood s/n          Rivera                      2604-07-75                     ABITAB
+Cooper 2115/17                 Juan B. Alberdi             2601-69-60                     ABITAB
+Arocena 1657 B                 Schoeder                    2601-65-72                    REDPAGOS
+Arocena 1565                   G. Otero                    2601-83-81                    REDPAGOS
+Shopping Portones              Bolivia                     2601-78-32                    REDPAGOS
+Arocena 1625                                               2606-21-05                    REDPAGOS
+Av. Bolivia 2831                                           2600-01-19                     ABITAB
+Cooper 2390                                                                               ABITAB
+                                                                        CARRASCO NORTE
+Av. Italia 5775 Local 107      Bolivia                     2601-80-56                      ANDA
+Av. Italia 5695                Bolivia                     2600-13-12                    REDPAGOS
+Etiopía 190                                                2311-27-27      CASABO         ABITAB
+Av. Dámaso A. Larrañaga 3640   Tomás Claramunt             2508-24-99      CASTRO         ABITAB
+Andes 1387                     Colonia                     2901-02-40                     ABITAB
+Convención 1410                Colonia                     2900-13-33                     ABITAB
+San José 892                   Convención                  2900-23-43                     ABITAB
+Av. Uruguay 1199               Cuareim                     2901-00-56                     ABITAB
+San José 827                   Florida                     2900-30-92                     ABITAB
+Andes 1373                     Colonia                     2900-81-56                     ABITAB
+W. Ferreira Aldunate 1321      San Jose                    2900-52-60                     ABITAB
+Ejido 1364                     18 de Julio                 2900-38-78                     ABITAB
+Colonia 992                                                                               ABITAB
+Convención 1366                18 de Julio                 2900-02-27                     ABITAB
+Av. 18 de Julio 1326 y 1328    Yaguarón                    2900-38-08                     ABITAB
+Andes 1490                     Av. Uruguay                 2900-08-70                     ABITAB
+Andes 1422                     Colonia                     2908-72-57                     ABITAB
+Río Negro 1457                 Mercedes                    2902-78-87                     ABITAB
+Paraguay 1315                  San Jose                    2903-11-51                     ABITAB
+                                                 3 de 15
+Zelmar Michelini 1344       18 de Julio                2900-66-68             ABITAB
+Av. 18 de Julio 1395        Germán Barbato             2900-28-10             ABITAB
+Paysandú 1341               Ejido                      2901-10-40             ABITAB
+Dr. Aquiles Lanza 1281      San Jose                   2908-50-56             ABITAB
+Av. 18 de Julio 1204        Cuareim                    2902-09-09             ABITAB
+Andes 1288                  Soriano                    2900-30-96             ABITAB
+                                                                    CENTRO
+San José 1200                                                                 ABITAB
+Avda. Uruguay 1252          Yí                         2900-76-72             ABITAB
+Río Negro 1149              Maldonado                  2902-18-87             ABITAB
+Colonia 1169                Rondeau                    2902-34-24             ABITAB
+Av. 18 de Julio 975         Río Branco                 2908-39-70             ABITAB
+Dr. Aquiles Lanza 1332      San Jose                   2901-04-35             ABITAB
+Av. Ltdor. Lavalleja 1644   Galicia                    2900-58-06             ABITAB
+Ejido 1315                  San Jose                   2901-25-65             ABITAB
+Mercedes 1151               Rondeau                    2908-50-61             ABITAB
+Río Negro 1341              18 de Julio                2908-74-14             ABITAB
+Yaguarón 1450               Mercedes                   2908-09-07             ABITAB
+Ejido 1520                  Uruguay                    2900-13-13             ABITAB
+Uruguay 1032                Río Negro                  2900-05-81             ABITAB
+18 de Julio 1250            Carlos Quijano                                     ANDA
+18 de Julio 1046            Río Negro                  2902-09-24            REDPAGOS
+18 de Julio 853             Andes                      2901-24-00            REDPAGOS
+18 de Julio 959 loc. 001    Río Branco                 2908-47-63            REDPAGOS
+Galicia 1200                                           2902-09-61            REDPAGOS
+18 de Julio 1118            Paraguay                   2908-12-48            REDPAGOS
+18 de Julio 949                                        2902-36-37            REDPAGOS
+18 de Julio 1126            Paraguay                   2900-43-04            REDPAGOS
+18 de Julio 1302            Yaguarón                   2901-72-64            REDPAGOS
+
+                                             4 de 15
+Paysandú 1338                                              095-298344                            REDPAGOS
+San Martín 4250               Chimborazo                                                          ABITAB
+Francisco A. de Lemos 4155    Gral. Flores                 2211-42-40                             ABITAB
+Av. Gral San Martín 3737      Bruno Mendez                 2211-75-67                             ABITAB
+San Martín 3699 A             José B. y Ordoñez            2215-34-96   CERRITO DE LA VICTORIA   REDPAGOS
+Gral. Flores 4051             León Perez                   2215-49-40                            REDPAGOS
+Santa Ana 4108                Burgues                      2211-39-48                            REDPAGOS
+Grecia 3401                                                                                       ABITAB
+Carlos Ma. Ramírez 2389 Bis   Cno. Cibils                  2314-08-67                             ABITAB
+Grecia 4249                   Japón                        2311-15-29                             ABITAB
+Av. C. M. Ramírez 1698        Grecia                       2311-14-96                             ABITAB
+Grecia 3816                                                                                       ABITAB
+                                                                                CERRO
+China 2248                                                                                        ABITAB
+Carlos María Ramirez 1715     Grecia                                                               ANDA
+Bogotá 4289                                                2311-20-76                            REDPAGOS
+Carlos Ma. Ramírez 1490                                    2314-66-34                            REDPAGOS
+Cno. Cibils 4484                                           2311-09-29                            REDPAGOS
+Piedras 249                   Perez Castellano             2915-40-66                             ABITAB
+Colón 1499                                                 2916-64-03                             ABITAB
+Piedras 405                   Zabala                       2915-51-89                             ABITAB
+
+Juncal 1335                   Plaza Independencia          2916-18-11                             ABITAB
+Ituzaingó 1433                Rincon                       2915-80-19                             ABITAB
+Zabala 1384                   Rincón                       2915-21-66                             ABITAB
+Sarandí 633                   Juan C. Gomez                2915-90-36                             ABITAB
+Misiones 1482                 Cerrito                                                             ABITAB
+Misiones 1414                 Rincón                       2915-89-10                             ABITAB
+Perez Castellanos 1599                                                                            ABITAB
+                                                                            CIUDAD VIEJA
+                                                 5 de 15
+Colonia 836                                                  2908-52-35     CIUDAD VIEJA      ABITAB
+Sarandí 546                     Ituzaingó                    2917-02-88                       ABITAB
+Rincón 725                      Florida                                                       ABITAB
+Sarandí 556                     Ituzaingó                    2915-08-00                      REDPAGOS
+25 de Mayo 466                  Misiones                                                     REDPAGOS
+Misiones 1374                                                2915-86-21                      REDPAGOS
+Rincón 464                      Misiones                     2916-33-33                      REDPAGOS
+Rincón 483                      Misiones                     2915-33-10                      REDPAGOS
+Misiones 1428                   Rincón                       2917-00-15                      REDPAGOS
+Rincón 477                      Misiones                     2915-16-15                      REDPAGOS
+Misiones 1544/46                Piedras                      2916-55-55                      REDPAGOS
+Sarandí 670                     Bacacay                      2915-30-33                      REDPAGOS
+Misiones 1484                                                2916-71-00                      REDPAGOS
+Misiones 1476                                                2916-05-06                      REDPAGOS
+Rambla 25 de Agosto 260                                      2917-00-14                      REDPAGOS
+25 de Mayo 452                                               2917-29-17                      REDPAGOS
+Misiones 1375 L. 001                                         2916-77-77                      REDPAGOS
+Perez Castellanos 1564                                       2917-00-14                      REDPAGOS
+Avda. Garzón 1367               Pintos Cardeiro                                               ABITAB
+Av. Garzón 1697                 Casavalle                                                     ABITAB
+Plaza Vidiella 5632 bis         Garzón                       2320-93-78        COLON          ABITAB
+Garzón 1923                     Lanús                        2321-34-41                        ANDA
+Garzón 1927 bis                 Lezica                       2320-28-54                      REDPAGOS
+Av. Cesar Mayo Gutierrez 2416                                2320-78-21                      REDPAGOS
+Yegros 2062                     Andrés Giot                  2320-89-55   COMPLEJO AMERICA   REDPAGOS
+Carafi 1148 bis                 Batlle y Ordoñez             2354-07-12     CONCILIACION      ABITAB
+Av. 18 de Julio 1927            Arenal Grande                2400-28-97                       ABITAB
+Av. 18 de Julio 1497            Vazquez                      2400-51-16                       ABITAB
+                                                   6 de 15
+Minas 1479                    18 de Julio                2408-35-73                      ABITAB
+Av. 18 de Julio 1969          Arenal Grande              2401-41-61                      ABITAB
+Pablo de María 1446           Ana Monterroso             2402-37-65                      ABITAB
+Constituyente 1661            José E. Rodó                                               ABITAB
+Colonia 1854                  Eduardo Acevedo            2402-08-18                      ABITAB
+Constituyente 1459 Local 14                              2400,03,21                      ABITAB
+Av. 18 de Julio 1841          Eduardo Acevedo            2408-33-87                      ABITAB
+Eduardo Acevedo 1527          Colonia                    2400-59-33                      ABITAB
+Tristán Narvaja 1661          Uruguay                    2400-19-78                      ABITAB
+Constituyente 1726            Minas                      2408-43-53                      ABITAB
+Colonia 1755 bis              Gaboto                     2400-01-92       CORDON         ABITAB
+Vázquez 1468                  Mercedes                   2401-15-21                      ABITAB
+18 de Julio 2013              Pablo de María                                             ABITAB
+Av. Gral. Rivera 2204         Acevedo Díaz               2408-72-79                      ABITAB
+Av. 18 de Julio 1552          Tacuarembó                 2408-56-77                      ABITAB
+Av. Fernández Crespo 1759     Paysandú                                                   ABITAB
+Arenal Grande 1570            Colonia                    2400-07-14                       ANDA
+18 de Julio 1581              Tacuarembó                 2401-16-46                     REDPAGOS
+18 de Julio 2063              M. C. Martinez             2400-98-82                     REDPAGOS
+Rivera 2348 local 39          Br. Artigas                2408-33-57                     REDPAGOS
+18 de Julio 1701              Magallanes                 2408-92-29                     REDPAGOS
+18 de Julio 1923              Fernandez Crespo                                          REDPAGOS
+Constituyente 1477            Barrios Amorín             2402-30-13                     REDPAGOS
+Rivera 2098                   Joaquín de Salterain       2402-68-77                     REDPAGOS
+José Enrique Rodó 1801                                   2409-24-14                     REDPAGOS
+Miguelete 2224                                                                          REDPAGOS
+Arenal Grande 1385            Rivera                     2403-37-88                     REDPAGOS
+Gaboto 1481                                              2401-64-22                     REDPAGOS
+Camino Durán 5986             Yegros                     2320-85-13      FERROCARRIL    REDPAGOS
+Cam. Maldonado 5502           Celiar                     2511-71-35                      ABITAB
+Del Fuerte 5302                                          2511-92-54   FLOR DE MAROÑAS   REDPAGOS
+Av. Gral. Flores 2540         Concepción Arenal          2203-49-73                      ABITAB
+Av. Gral. Flores 2332         Marcelino Berthelot        2203-48-54                      ABITAB
+Blandengues 1551              Rocha                      2209-71-19                      ABITAB
+                                                                           GOES
+                                               7 de 15
+Av. Gral. Flores 2505                     Carlos Reyles               2209-00-34            GOES             ABITAB
+Av. Gral. Flores 2422                     Blandengues                 2200-23-61                             ABITAB
+José L. Terra 2220                                                    2203-64-28                             ABITAB
+Gral. Flores 2595                         Concepción Arenal           2203-70-58                            REDPAGOS
+Cno. Maldonado 5803                       Rafael                                        HIPODROMO            ABITAB
+Br. Gral. Artigas 3003                    Enrique Martinez            2200-16-67                             ABITAB
+Br. Artigas 3528                          Lorenzo Fernandez           2209-10-19        JACINTO VERA         ABITAB
+Av. Luis A de Herrera 3365 L 145 Shopp.                               2201-30-13                             ABITAB
+Nápoles 3402                                                                                                 ABITAB
+Camino Maldonado 5757                     Libia                       2511-52-70   JARDINES DEL HIPODROMO   REDPAGOS
+Av. Italia 3243                           Francisco Simón             2481-86-31                             ABITAB
+Luis A. de Herrera 2251                   Rep. Dominicana                                                    ABITAB
+Br. Artigas 2474/8                        Colorado                                                           ABITAB
+Av. Italia 2801                           Centenario                  2480-71-16                             ABITAB
+                                                                                       LA BLANQUEADA
+Av. 8 de Octubre 2953                     Jaime Cibils                2480-16-14                             ABITAB
+Br. Artigas 2151                          Nueva Palmira               2408-37-90                            REDPAGOS
+Fco. Simón 2150                                                                                             REDPAGOS
+Hocquard 2139                             Cufré                       2409-66-28                             ABITAB
+Justicia 2015 bis                         Lima                        2401-09-12        LA COMERCIAL         ABITAB
+Garibaldi 2550                            Monte Caseros               2480-91-82                            REDPAGOS
+Av. Gral. Flores 2788                     Garibaldi                   2203-50-70                             ABITAB
+Guadalupe 2155 bis                        Garibaldi                   2200-34-83                             ABITAB
+                                                                                         LA FIGURITA
+San Martín 2952                                                       2203-36-07                            REDPAGOS
+Gral. Flores 2935                                                     2208-49-09                            REDPAGOS
+Av. C. M. Ramírez 574 loc.6               Ameghino                    2308-59-56                             ABITAB
+Av. C. M. Ramírez 888                                                 2309-78-97                             ABITAB
+Manuel Herrera y Obes 4289                                                                 LA TEJA          REDPAGOS
+Martín Berinduague 870                                                2309-14-63                            REDPAGOS
+Carlos M. Ramirez 474                                                 2306-29-26                            REDPAGOS
+Bvar. Batlle y Ordoñez S/N                Altamirano                                                         ABITAB
+Cádiz 3044                                Luis A. De Herrera          2480-68-06                             ABITAB
+Av. Garibaldi 2539                        Monte Caseros               2480-32-04                             ABITAB
+                                                                                         LARRAÑAGA
+                                                            8 de 15
+                                                                           LARRAÑAGA
+Monte Caseros 3099                                           2487-82-64                  REDPAGOS
+8 de Octubre 3117                                            2481-79-04                  REDPAGOS
+José Batlle y Ordoñez 3573                                   2487-36-69                  REDPAGOS
+Av. Gral. Flores 4699           Possolo                      2216-64-40    LAS ACACIAS    ABITAB
+Alberto Zum Felde 2057 bis                                                LAS CANTERAS   REDPAGOS
+Av. De las Instrucciones 1456   Edison                       2354-03-95     LAVALLEJA     ABITAB
+Av. Lezica 6339                 Guanahany                    2323-51-89                   ABITAB
+                                                                             LEZICA
+Av. Lezica 6406                                              2322-83-29                  REDPAGOS
+Orinoco 5011                    Michigan                     2619-77-17                   ABITAB
+Mississipi 1649                                              2613-87-79                   ABITAB
+Legrand 4864                                                                              ABITAB
+
+H. Yrigoyen 1407 loc.001        Rbla. Rep. De Chile          2619-76-39     MALVIN        ABITAB
+Av. Italia 4474                                                                           ABITAB
+Colombes 1433                   Rivera                       2619-78-02                   ABITAB
+Orinoco 5009                                                 2614-11-57                  REDPAGOS
+Almería 4704                                                 2614-08-45
+Pedro de Mendoza 5365 bis       Carlos A. Lopez              2227-26-03                   ABITAB
+Av. José Belloni 5344                                                                     ABITAB
+                                                                            MANGA
+Pedro de Mendoza 5398                                        2222-52-37                  REDPAGOS
+José Belloni 6389                                            2220-19-09                  REDPAGOS
+Alberto Zum Felde 2051                                       2524-49-60                   ABITAB
+H. Yrigoyen 2054                Iguá                         2625-96-97                   ABITAB
+Veracierto 2851                                                                           ABITAB
+Cno. Carrasco 4337              20 de Febrero                             MALVIN NORTE    ABITAB
+Cno. Carrasco 4672              Veracierto                   2525-26-35                   ABITAB
+Camino Carrasco 4598            Estado de Israel                                           ANDA
+Cno. Carrasco 4656                                           2525-70-89                  REDPAGOS
+                                                   9 de 15
+Guarapiru 3812/16/18             Gral. Flores                                                ABITAB
+8 de Octubre 4764                                                                            ABITAB
+                                                                            MAROÑAS
+Av. 8 de Octubre 4639            Gobernador Vigodet         2506-00-76                       ABITAB
+Juan José Belloni 3342 Local 3   Saint Rosas                2511-78-49                       ABITAB
+José Vasconcellos 3294                                      2514-00-39                      REDPAGOS
+María Orticochea 5643                                                                        ABITAB
+                                                                           NUEVO PARIS
+María Orticochea 5621/41                                    2305-40-67                      REDPAGOS
+Mesa y Castro 7995               Leal de Ibarra             2312-13-46    PAJAS BLANCAS     REDPAGOS
+Carlos María Morales 902         Cebollatí                  2410-48-08                      REDPAGOS
+                                                                            PALERMO
+Minas 1118                       Durazno                    2418-45-80                      REDPAGOS
+Ramón Anador 3410                Luis A. De Herrera         2481-76-07                       ABITAB
+Francisco Soca 1420              Rivera                     2707-66-99    PARQUE BATLLE     REDPAGOS
+20 de Setiembre 1521 L.2                                    2707-05-52                      REDPAGOS
+
+Felipe Carapé 4502 y 4600        Eusebio Valdenegro                      PARQUE POSADAS      ABITAB
+Pascual Costa 3879 Local 13      Felipe Carapé              2336-02-57                      REDPAGOS
+Av. Gonzalo Ramírez 1951         Jackson                    2409-56-63                       ABITAB
+Constituyente 2025               Jackson                    2403-69-31                       ABITAB
+                                                                          PARQUE RODO
+Canelones 2202                   Juan Paullier              2408-33-08                       ABITAB
+Br. Artigas 1149                                            2401-54-23                      REDPAGOS
+Luis B. Berres 6149                                                                          ABITAB
+Av. L. B. Berres 6602            Camino Tomkinson           2312-40-60                       ABITAB
+Camino Cibils 5967               Los Nogales                                                 ABITAB
+                                                                         PASO DE LA ARENA
+Camino Tomkinson 2493            Camino Cibils              2312-38-37                      REDPAGOS
+Luis B. Berres 6603              Tomkinson                  2312-37-65                      REDPAGOS
+Av. Ideario Artiguista 2016                                 2311-67-16                      REDPAGOS
+Av. Agraciada 3961               San Miguel                 2305-38-88                       ABITAB
+                                                 10 de 15
+                                                                          PASO MOLINO
+Av. Agraciada 4109                   Emilio Romero               2309-50-96                        ABITAB
+Agraciada 4143                       C. M. Ramirez               2309-84-53     PASO MOLINO       REDPAGOS
+Angel Salvo 149                      Uruguayana                  2300-00-02                       REDPAGOS
+Av. Agraciada 4089                   Emilio Romero               2309-21-57                       REDPAGOS
+Bvar. A. Saravia 4620                Coronel Raiz                2309-79-56                        ABITAB
+Br. Batlle y Ordoñez 5550            Coronel Raiz                2359-33-12       PEÑAROL          ABITAB
+Coronel Raíz 1714                    Casavalle                   2354-70-25                       REDPAGOS
+Dámaso A. Larrañaga 4508             Corrales                                                      ABITAB
+Rafael Eguren 3498                   Gral. Flores                             PEREZ CASTELLANOS    ABITAB
+D.A. Larrañaga 3301 S. Multiahorro   Elcano                      2216-96-29                        ABITAB
+J. Belloni 4964                      Domingo Arena               2220-09-18                        ABITAB
+Capitán Tula 4711                                                2227-29-10                        ABITAB
+Av. Belloni 4402                     Cap. Tula                   2222-06-48                        ABITAB
+Av. Gral. Flores 5483                Cabarí                      2216-91-69                        ABITAB
+José Belloni 4179 bis                Gral. Flores                2216-69-27                         ANDA
+                                                                              PIEDRAS BLANCAS
+José Belloni 4208                    Teniente Galeano            2514-28-69                       REDPAGOS
+José Belloni 5493                    Pettirosi                   2227-34-36                       REDPAGOS
+Gral. Flores 5499                                                2211-42-61                       REDPAGOS
+José Belloni 4355 Bis                                            2227-80-90                       REDPAGOS
+Av. Gral. Flores 4735 Bis                                        2219-3290                        REDPAGOS
+Av. Brasil 2531                      Brito del Pino              2707-36-48                        ABITAB
+Av. Sarmiento 2651                   Fco. Aguilar                                                  ABITAB
+Av. Gral. Rivera 3475                Marco Bruto                 2622-56-50                        ABITAB
+Av. Rivera 2406                                                                                    ABITAB
+21 de Setiembre 2458                 Libertad                    2711-49-39                        ABITAB
+Av. Brasil 3086                                                                                    ABITAB
+Gral. Rivera 2684 bis                Soca                        2707-85-77                        ABITAB
+Gabriel Pereira 3150                 26 de Marzo                 2709-66-66                        ABITAB
+                                                      11 de 15
+Cristobal Echevarriarza 3249               Buxareo                      2708-95-59               ABITAB
+21 de Setiembre 2980                       Roque Graseras               2712-34-67               ABITAB
+Juan Benito Blanco 914                     Br. España                                            ABITAB
+J. Benito Blanco 898                                                    2711-51-94              REDPAGOS
+L.A. de Herrera 1248                       26 de Marzo                  2622-12-18              REDPAGOS
+J. Benito Blanco 927                       Avda. Brasil                 2709-61-25              REDPAGOS
+                                                                                     POCITOS
+21 de Setiembre 2737 Local 2                                            2711-10-88              REDPAGOS
+P. C. Shopping local 123                   Montero                      2711-32-96              REDPAGOS
+Marti 3407                                                              2707-76-53              REDPAGOS
+21 de Setiembre 2859                       Ellauri                      2710-42-13              REDPAGOS
+
+Gabriel Pereira 3270                       Alejandro Chucarro           2708-27-83              REDPAGOS
+21 de Setiembre 3001                                                    2711-67-47              REDPAGOS
+Juan C. Dighiero 2516                      Br. España                   2712-20-27              REDPAGOS
+21 de Setiembre 2850                       Plácido Ellauri              2711-66-80              REDPAGOS
+Gestido 2851                               Guayaquí                     2707-53-30              REDPAGOS
+Berro 1323                                 Pagola                       2708-17-19              REDPAGOS
+Echevarriarza 3267                                                      2622-96-62              REDPAGOS
+Av. Brasil 2401                                                         2706-82-89              REDPAGOS
+Av. Brasil 2954                                                         2707-64-61              REDPAGOS
+Gabriel Pereira 3025                                                    2709-62-20              REDPAGOS
+Luis A. De Herrera 1196                                                 2628-12-20              REDPAGOS
+26 de Marzo 1366                                                        2708-81-84              REDPAGOS
+Av. Brasil 2615                                                         2708-81-84              REDPAGOS
+Libertad 2675                                                                                   REDPAGOS
+Rivera 3240                                                             2628-49-50              REDPAGOS
+Scosería 2628                                                           2716-15-45              REDPAGOS
+Av. Italia 5775 Shopping Portones L. 286                                2601-63-31               ABITAB
+                                                                                     PORTONES
+                                                             12 de 15
+                                                                                          PORTONES
+Av. Italia 5775 Shopping Portones L. K 81                                 2601-98-61                       ABITAB
+Av. Millán 4249                              Ernesto Herrera              2304-44-37                       ABITAB
+Camino Castro 253                            Molinos de Raffo                            PRADO NORTE       ABITAB
+Bvar. J. B. y Ordoñez 5155                   Zubiria                                                       ABITAB
+Av. Agraciada 3778                           Lucas Obes                   2309-33-25                       ABITAB
+Av. Joaquín Suarez 3406                      Cisplatina                   2200-44-71                       ABITAB
+Av. Millán 3782                              Luis A. De Herrera           2336-33-14      PRADO SUR        ABITAB
+Av.Millán 3794 bis                                                        2336-56-36                      REDPAGOS
+Joaquín Suarez 3458                                                       2336-81-82                      REDPAGOS
+                                             Zorrilla de San
+José Ellauri 395                             Martín                                                        ABITAB
+Cnel. Mora 571                               Gregorio Suarez              2710-02-39                       ABITAB
+                                                                                        PUNTA CARRETAS
+José Ellauri 359                             Hector Miranda                                                 ANDA
+Patria 553                                                                2712-22-24                      REDPAGOS
+21 de Setiembre 2534 Estación ESSO           Sarmiento                    2711-21-75                      REDPAGOS
+Camino Maldonado 6817                        Cam. Guerra                  2321-03-94                       ABITAB
+                                                                                        PUNTA DE RIELES
+Camino Guerra 6770                           Ruta 8                       2513-89-36                      REDPAGOS
+Rivera 5647                                  Hernani                                                       ABITAB
+Av. Gral. Paz 1449                           Caramurú                     2600-55-18     PUNTA GORDA       ABITAB
+Gral. Paz 1445                               Caramurú                     2601-79-23                      REDPAGOS
+Ruta 8 Km 17,500 Ed. Beta 3 Local 14 Z. F.                                2518-2727    PUNTAS DE MANGA     ABITAB
+Ruta 8 G. Brig A Lavalleja 7724              Cam. Repetto                 2222-93-74                       ABITAB
+Av. Millán 2971                              Br. Artigas                  2204-51-65                       ABITAB
+San Martín 2654                              Guadalupe                    2200-92-19                       ABITAB
+                                                                                           REDUCTO
+Rbla. Baltasar Brum 3038                     12 de Diciembre                                               ABITAB
+Av. Burgues 2757                             San Martín                   2203-04-18                       ABITAB
+Ruben Darío 3450                                                                        SANTA CATALINA     ABITAB
+Batlle Berres 148                            La Guardia                   2312-04-20   SANTIAGO VAZQUEZ    ABITAB
+                                                               13 de 15
+Av. Millán 4518                             Molinos de Raffo             2309-70-69                   ABITAB
+Av. Millán 4480 Hall San. Casa de Galicia                                2356-19-76                   ABITAB
+Br. José Batlle y Ordoñez 5967 bis          Bell                         2356-50-98                   ABITAB
+Cno. Ariel 4945                             28 de Febrero                2359-06-09                   ABITAB
+Camino Ariel 4626 Local 2                   Tomás Texera                                              ABITAB
+                                                                                        SAYAGO
+Millán 4499                                 Molinos de Raffo             2307-44-08                  REDPAGOS
+
+Av. Garzón 1599                             Br. Aparicio Saravia         2320-18-37                  REDPAGOS
+Ariel 4765                                  Sayago                       2355-53-04                  REDPAGOS
+Molinos de Raffo 976                                                     2357-63-11                  REDPAGOS
+Ejido 1000                                  Gonzalo Ramirez              2901-92-46       SUR         ABITAB
+Av. 18 de Julio 2258                        Acevedo Díaz                 2409-89-68                   ABITAB
+Av. 8 de Octubre 2527                       Presidente Berro             2486-03-49                   ABITAB
+Dr. Salvador Ferrer Serra 2320              Acevedo Díaz                 2401-29-11                   ABITAB
+Shopping Tres Cruces Local 113                                           4277,0188                    ABITAB
+Br. Artigas 1825 Sh Tres Cruces L B20                                    2409-84-29                   ABITAB
+Daniel Muñoz 2200                           Juan Paullier                2401-50-20                   ABITAB
+Br. Artigas 1649                                                                      TRES CRUCES     ABITAB
+                                            Salvador Ferrer
+Br. Artigas 1825                            Serra                        2409-10-65                    ANDA
+Shopping Tres Cruces                        Galicia                      2408-40-60                  REDPAGOS
+Salvador Ferrer Serra 2350                  Mario Cassinoi               2401-52-52                  REDPAGOS
+Br. Artigas 1777                                                         2402-06-96                  REDPAGOS
+Br. Artigas 1825 L. 123                                                  2400-31-77                  REDPAGOS
+José Belloni 6400                           Instrucciones                             TOLEDO CHICO    ABITAB
+8 de Octubre 3621                           Comercio                                                  ABITAB
+Av. 8 de Octubre 3340 Superm. TA-TA                                      2482,05,16                   ABITAB
+Av. 8 de Octubre 3829                       Larravide                    2508-95-04                   ABITAB
+                                                              14 de 15
+Av. 8 de Octubre 3468 bis                Carlos Crocker               2508-94-41                     ABITAB
+Av. 8 de Octubre 3990                    Silvestre Pérez                                             ABITAB
+Av. 8 de Octubre 4142/44                 Joanicó                      2507-11-17                     ABITAB
+Lombardini 3624                          Comercio                     2508-94-42                     ABITAB
+Av. 8 de Octubre 3758                                                 2504-76-81                     ABITAB
+                                                                                       UNION
+8 de Octubre 3823                        Larravide                                                    ANDA
+8 de Octubre 3742                                                     2508-03-49                    REDPAGOS
+8 de Octubre 3839                        Larravide                    2509-32-52                    REDPAGOS
+8 de Octubre 3602                        Pernas                       2507-31-70                    REDPAGOS
+8 de Octubre 3671                        Comercio                     2508-15-15                    REDPAGOS
+8 de Octubre 3412                                                     2508-15-43                    REDPAGOS
+8 de Octubre 3310                                                                                   REDPAGOS
+8 de Octubre 4083                                                     2508-24-12                    REDPAGOS
+21 de Setiembre 2696                     Williman                     2710-31-89   VILLA BIARRITZ    ABITAB
+Camino Corrales 3003                                                                                 ABITAB
+Av. José Pedro Varela 3385                                            2216-22-99   VILLA ESPAÑOLA   REDPAGOS
+Av. Dámaso A. Larrañaga 3648                                          2505-7380                     REDPAGOS
+Ruta 8 Km. 21 N° 11278                   Hércules y 17 M              2222-10-35                     ABITAB
+                                                                                    VILLA GARCIA
+Ruta 8 Km. 17,500 Ed Biotec Zonamerica                                2518-48-61                    REDPAGOS
+Justicia 2301                            Amézaga                      2203-36-64                     ABITAB
+Joaquín Requena 2350                     Amézaga                      2203-52-26                     ABITAB
+                                         Ramón del Valle                            VILLA MUÑOZ
+Blandengues 1751                         Inclán                                                      ABITAB
+Justicia 2400                                                         2200-10-80                    REDPAGOS
+
+
+
+
+                                                           15 de 15
+

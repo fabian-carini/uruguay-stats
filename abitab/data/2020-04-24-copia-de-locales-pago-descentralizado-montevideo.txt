@@ -1,0 +1,540 @@
+                                      LOCALES DE MONTEVIDEO DE LAS EMPRESAS CONTRATISTAS
+
+  0                     DIRECCION                         ESQUINA         TELEFONO            BARRIO         EMPRESA
+  1   Av. Gral. Flores 2287                       Libres                  2203-38-44                          ABITAB
+  2   Daniel Fernandez Crespo 2266                Madrid                  2924-86-50                          ABITAB
+  3   Av. Fernández Crespo 1982                   Miguelete               2924-52-48                          ABITAB
+  4   Av. Agraciada 2329                          Gral. Cesar Díaz        2924-10-75                          ABITAB
+  5   Nueva York 1267                                                                                         ABITAB
+  6   Av. Ltdor. Lavalleja 1945                   Lima                    2924-03-93          AGUADA          ABITAB
+  7   Paraguay 1962                                                                                           ABITAB
+  8   San Martín 2366                                                      22094331                          REDPAGOS
+  9   Rondeau 2390                                Caraballo               2929-12-04                         REDPAGOS
+ 10   Av. Libertador 1879 Bis                                             2924-78-05                         REDPAGOS
+ 11   Av. Millan 2764                                                      22007247                          REDPAGOS
+ 12   Av. José Batlle y Ordoñez 4123              Av. Burgues             2200-33-31                          ABITAB
+ 13   Av. Luis Alberto de Herrera 4462            Tienda Inglesa          2337 47 55        AIRES PUROS      REDPAGOS
+ 14   Av. Agraciada 2545                          Gral. Aguilar           2203-35-16        ARROYO SECO       ABITAB
+ 15   San Martín 3083                                                                                         ABITAB
+ 16   Burgues 3325                                                                           ATAHUALPA        ABITAB
+ 17   Av. Dr. Luis alberto de Herrera 4125                                2205 12 58                         REDPAGOS
+ 18   Ruta 8 Brig Juan Antonio Lavalleja 8760                             2227-83-59                         REDPAGOS
+                                                                                       BAÑADOS DE CARRASCO
+ 19   Cmno Carrasco 6955 Local 003                Brunel                   26059337                           ABITAB
+ 20   Av. Gral. E. Garzón 425 Est. Esso Local 1   Aragón                                                      ABITAB
+ 21   San Quintín 4296 bis                        Bolognesi               2305-48-14                          ABITAB
+ 22   San Quintín 1376                                                                                        ABITAB
+ 23   Av. C. M. Ramírez 266                       Manuel Herrera y Obes   2309-67-49         BELVEDERE        ABITAB
+ 24   Santa Lucía 5374                                                    2309-77-03                          ABITAB
+ 25   Millán 5784                                                                                             ABITAB
+ 26   Av. Agraciada 4134 esq. M.Sagasta           Agraciada                                                    ANDA
+ 27   Rafael 3782                                                         2514-30-91        BELLA ITALIA     REDPAGOS
+ 28   Av. Gral. Flores 3405                       Andrés Lamas            2203-34-43          BOLIVAR         ABITAB
+ 29   Av. L. A. de Herrera 3867                   San Martín              2209-47-52                          ABITAB
+ 30   San Martín 3222 Macromercado                                        2205-36-97                          ABITAB
+                                                                                           BRAZO ORIENTAL
+ 31   Luis A de Herrera 3365 Shopp Nvo. Cent.                                                                  ANDA
+ 32   Gral. San Martin 3382                                               2205 97 27                         REDPAGOS
+ 33   Av. Ramón Anador 3833 bis                   Andrés Aguiar           2628-63-77                          ABITAB
+ 34   Av. Italia 3498                                                                                         ABITAB
+ 35   Av. Rivera 3850                             Nicolás Piaggio                                             ABITAB
+
+
+24/04/202015:55                                                                 1-13                               Locales Pago Descentralizado Montevideo
+                                     LOCALES DE MONTEVIDEO DE LAS EMPRESAS CONTRATISTAS
+
+  0                     DIRECCION                       ESQUINA        TELEFONO              BARRIO        EMPRESA
+ 36   Av. Mcal. F. Solano López 1883            Avda. Italia           2506-59-05                           ABITAB
+ 37   Rivera 4219                               F. Solano López        2613-02-38                           ABITAB
+ 38   Nancy 4281 bis/001                        Carlos Lallemald                                            ABITAB
+ 39   Av. Rivera 3060                                                                                       ABITAB
+ 40   Av. L. A. de Herrera 1203                 26 de Marzo            2628-58-78             BUCEO         ABITAB
+ 41   L.A. De Herrera 1290 Local 006            Plácido Ellauri        2628-75-24            AGUADA         ABITAB
+ 42   Luis A. De Herrera 1290 Local 506                                                                     ABITAB
+ 43   Luis A. de Herrera 1290/148               Pablo Galarza          2622-46-66                          REDPAGOS
+ 44   Av. Italia 3794                                                  2508-60-41                          REDPAGOS
+ 45   Av. Italia 3428                                                                                      REDPAGOS
+ 46   Av. Rivera 4260                                                  2619-99-45                          REDPAGOS
+ 47   Av Dr. Luis A de Herrera 1290                                     26284023                           REDPAGOS
+ 48   Av. Agraciada 3655                        Valentín Gomez                                              ABITAB
+ 49   Av. Agraciada 3054 bis                    Asencio                2203-55-59                           ABITAB
+                                                                                             CAPURRO
+ 50   Capurro 848                               Coraceros              2307-96-64                           ABITAB
+ 51   Br. Artigas                               Agraciada              2308-92-35                          REDPAGOS
+ 52   Bolivia 2140                              Av. Italia             2601-03-22                           ABITAB
+ 53   Av. Italia (Supermercado Devoto)          Santa Mónica           2604-18-95                           ABITAB
+ 54   Av. Italia 7548                           Barradas               2604-49-25                           ABITAB
+ 55   Av. Arocena 1568                          Carlos F. Saez         2600-58-91                           ABITAB
+ 56   Av. Bolivia 1413                          Boston                 2601-55-26                           ABITAB
+ 57   Córcega 1943                              Mariano Uriarte                                             ABITAB
+ 58   Almirante Harwood s/n                     Rivera                 2604-07-75           CARRASCO        ABITAB
+ 59   Arocena 1657 B                            Schoeder               2601-65-72                          REDPAGOS
+ 60   Arocena 1565                              G. Otero               2601-83-81                          REDPAGOS
+ 61   Shopping Portones                         Bolivia                2601-78-32                          REDPAGOS
+ 62   Arocena 1625                                                     2606-21-05                          REDPAGOS
+ 63   Av Italia 5820                                                   2603 02 08                          REDPAGOS
+ 64   Cooper 2117                                                      2601 45 47                          REDPAGOS
+ 65   Av. Bolivia 2831                                                 2600-01-19                           ABITAB
+ 66   Cooper 2474                                                      2604 45 81                           ABITAB
+                                                                                          CARRASCO NORTE
+ 67   Av. Italia 5775 Local 107                 Bolivia                2601-80-56                            ANDA
+ 68   Av. Italia 5695                           Bolivia                2600-13-12                          REDPAGOS
+
+
+
+24/04/202015:55                                                              2-13                                Locales Pago Descentralizado Montevideo
+                                  LOCALES DE MONTEVIDEO DE LAS EMPRESAS CONTRATISTAS
+
+  0                   DIRECCION                     ESQUINA         TELEFONO           BARRIO   EMPRESA
+ 69 Etiopía 190                                                     2311-27-27         CASABO    ABITAB
+ 70 Andes 1387                               Colonia                2901-02-40                   ABITAB
+ 71 Convención 1410                          Colonia                2900-13-33                   ABITAB
+ 72 San José 892                             Convención             2900-23-43                   ABITAB
+ 73 Av. Uruguay 1199                         Cuareim                2901-00-56                   ABITAB
+ 74 San José 827                             Florida                2900-30-92         AGUADA    ABITAB
+ 75 Andes 1373                               Colonia                2900-81-56                   ABITAB
+ 76 W. Ferreira Aldunate 1321                San Jose               2900-52-60                   ABITAB
+ 77 Ejido 1364                               18 de Julio            2900-38-78                   ABITAB
+ 78 Colonia 992                                                                                  ABITAB
+ 79 Convención 1366                          18 de Julio            2900-02-27                   ABITAB
+ 80 Av. 18 de Julio 1326 y 1328              Yaguarón               2900-38-08                   ABITAB
+ 81 Andes 1490                               Av. Uruguay            2900-08-70                   ABITAB
+ 82 Andes 1422                               Colonia                2908-72-57                   ABITAB
+ 83 Río Negro 1457                           Mercedes               2902-78-87                   ABITAB
+ 84 Paraguay 1315                            San Jose               2903-11-51                   ABITAB
+ 85 Zelmar Michelini 1344                    18 de Julio            2900-66-68                   ABITAB
+ 86 Av. 18 de Julio 1395                     Germán Barbato         2900-28-10                   ABITAB
+ 87 Paysandú 1341                            Ejido                  2901-10-40                   ABITAB
+ 88 Dr. Aquiles Lanza 1281                   San Jose               2908-50-56                   ABITAB
+ 89 Av. 18 de Julio 1204                     Cuareim                2902-09-09                   ABITAB
+ 90 Andes 1288                               Soriano                2900-30-96                   ABITAB
+ 91 Avda. Uruguay 1252                       Yí                     2900-76-72                   ABITAB
+                                                                                       CENTRO
+ 92 Río Negro 1149                           Maldonado              2902-18-87                   ABITAB
+ 93 Colonia 1169                             Rondeau                2902-34-24                   ABITAB
+ 94 Av. 18 de Julio 975                      Río Branco             2908-39-70                   ABITAB
+ 95 Dr. Aquiles Lanza 1332                   San Jose               2901-04-35                   ABITAB
+ 96 Av. Ltdor. Lavalleja 1644                Galicia                2900-58-06                   ABITAB
+ 97 Ejido 1315                               San Jose               2901-25-65                   ABITAB
+ 98 Mercedes 1151                            Rondeau                2908-50-61                   ABITAB
+ 99 Río Negro 1341                           18 de Julio            2908-74-14                   ABITAB
+100 Yaguarón 1450                            Mercedes               2908-09-07                   ABITAB
+101 Ejido 1520                               Uruguay                2900-13-13                   ABITAB
+102 Uruguay 1032                             Río Negro              2900-05-81                   ABITAB
+103 18 de Julio 1250                         Carlos Quijano                                       ANDA
+104 18 de Julio 1046                         Río Negro              2902-09-24                  REDPAGOS
+
+
+24/04/202015:55                                                           3-13                        Locales Pago Descentralizado Montevideo
+                                    LOCALES DE MONTEVIDEO DE LAS EMPRESAS CONTRATISTAS
+
+ 0                    DIRECCION                        ESQUINA        TELEFONO             BARRIO           EMPRESA
+105 18 de Julio 853                            Andes                  2901-24-00                            REDPAGOS
+106 18 de Julio 959 loc. 001                   Río Branco             2908-47-63                            REDPAGOS
+107 Galicia 1200                                                      2902-09-61                            REDPAGOS
+108 18 de Julio 1118                           Paraguay               2908-12-48                            REDPAGOS
+109 18 de Julio 949                                                   2902-36-37                            REDPAGOS
+110 18 de Julio 1126                           Paraguay               2900-43-04           AGUADA           REDPAGOS
+111 18 de Julio 1302                           Yaguarón               2901-72-64                            REDPAGOS
+112 Paysandú 1338                                                     095-298344                            REDPAGOS
+113 18 de Julio 843                                                   2902 60 34                            REDPAGOS
+114 San Martín 4250                            Chimborazo                                                    ABITAB
+115 Francisco A. de Lemos 4155                 Gral. Flores           2211-42-40                             ABITAB
+116 Av. Gral San Martín 3737                   Bruno Mendez           2211-75-67                             ABITAB
+117 San Martín 3699 A                          José B. y Ordoñez      2215-34-96   CERRITO DE LA VICTORIA   REDPAGOS
+118 Gral. Flores 4051                          León Perez             2215-49-40                            REDPAGOS
+119 Santa Ana 4108                             Burgues                2211-39-48                            REDPAGOS
+120 Av Jose Batlle y Ordoñez 3770                                      22161688                             REDPAGOS
+121 Grecia 3401                                                                                              ABITAB
+122 Carlos Ma. Ramírez 2389 Bis                Cno. Cibils            2314-08-67                             ABITAB
+123 Grecia 4249                                Japón                  2311-15-29                             ABITAB
+124 Av. C. M. Ramírez 1698                     Grecia                 2311-14-96                             ABITAB
+125 Grecia 3816                                                                                              ABITAB
+126 China 2248                                                                              CERRO            ABITAB
+127 Carlos María Ramirez 1715                  Grecia                                                         ANDA
+128 Bogotá 4289                                                       2311-20-76                            REDPAGOS
+129 Carlos Ma. Ramírez 1490                                           2314-66-34                            REDPAGOS
+130 Cno. Cibils 4484                                                  2311-09-29                            REDPAGOS
+131 Canelones 1354 Barrio Centro                                      2900-94-18                            REDPAGOS
+132 Piedras 249                                Perez Castellano       2915-40-66                             ABITAB
+133 Colón 1499                                                        2916-64-03                             ABITAB
+134 Piedras 405                                Zabala                 2915-51-89                             ABITAB
+135 Juncal 1335                                Plaza Independencia    2916-18-11                             ABITAB
+136 Ituzaingó 1433                             Rincon                 2915-80-19                             ABITAB
+137 Zabala 1384                                Rincón                 2915-21-66                             ABITAB
+138 Sarandí 633                                Juan C. Gomez          2915-90-36                             ABITAB
+139 Misiones 1482                              Cerrito                                                       ABITAB
+140 Misiones 1414                              Rincón                 2915-89-10                             ABITAB
+
+
+24/04/202015:55                                                             4-13         CIUDAD VIEJA             Locales Pago Descentralizado Montevideo
+                                    LOCALES DE MONTEVIDEO DE LAS EMPRESAS CONTRATISTAS
+
+ 0                    DIRECCION                       ESQUINA         TELEFONO             BARRIO       EMPRESA
+141 Perez Castellanos 1599                                                                               ABITAB
+142 Colonia 836                                                       2908-52-35                         ABITAB
+                                                                                         CIUDAD VIEJA
+143 Sarandí 546                                Ituzaingó              2917-02-88                         ABITAB
+144 Rincón 725                                 Florida                                                   ABITAB
+145 Sarandí 556                                Ituzaingó              2915-08-00                        REDPAGOS
+146 Misiones 1418                                                     2916 32 70           AGUADA       REDPAGOS
+147 Misiones 1374                                                     2915-86-21                        REDPAGOS
+148 Rincón 464                                 Misiones               2916-33-33                        REDPAGOS
+149 Rincón 483                                 Misiones               2915-33-10                        REDPAGOS
+150 Misiones 1428                              Rincón                 2917-00-15                        REDPAGOS
+151 Rincón 477                                 Misiones               2915-16-15                        REDPAGOS
+152 Misiones 1544/46                           Piedras                2916-55-55                        REDPAGOS
+153 Sarandí 670                                Bacacay                2915-30-33                        REDPAGOS
+154 Misiones 1484                                                     2916-71-00                        REDPAGOS
+155 Misiones 1476                                                     2916-05-06                        REDPAGOS
+156 25 de Mayo 452                                                    2917-29-17                        REDPAGOS
+157 Misiones 1375 L. 001                                              2916-77-77                        REDPAGOS
+158 Calle 25 de Mayo 453                                              2914-8440                         REDPAGOS
+159 Soriano 929                                                       2900 16 34                        REDPAGOS
+160 Perez Castellanos 1564                                            2917-00-14                        REDPAGOS
+161 Avda. Garzón 1367                          Pintos Cardeiro                                           ABITAB
+162 Av. Garzón 1697                            Casavalle                                                 ABITAB
+163 Plaza Vidiella 5632 bis                    Garzón                 2320-93-78           COLON         ABITAB
+164 Garzón 1923                                Lanús                  2321-34-41                          ANDA
+165 Garzón 1927 bis                            Lezica                 2320-28-54                        REDPAGOS
+166 Av. Cesar Mayo Gutierrez 2416                                     2320-78-21                        REDPAGOS
+167 Yegros 2062                                Andrés Giot            2320-89-55     COMPLEJO AMERICA   REDPAGOS
+168 Carafi 1148 bis                            Batlle y Ordoñez       2354-07-12       CONCILIACION      ABITAB
+169 Av. 18 de Julio 1927                       Arenal Grande          2400-28-97                         ABITAB
+170 Av. 18 de Julio 1497                       Vazquez                2400-51-16                         ABITAB
+171 Minas 1479                                 18 de Julio            2408-35-73                         ABITAB
+172 Av. 18 de Julio 1969                       Arenal Grande          2401-41-61                         ABITAB
+173 Pablo de María 1446                        Ana Monterroso         2402-37-65                         ABITAB
+174 Constituyente 1661                         José E. Rodó                                              ABITAB
+175 Colonia 1854                               Eduardo Acevedo        2402-08-18                         ABITAB
+
+
+
+24/04/202015:55                                                             5-13                              Locales Pago Descentralizado Montevideo
+                                  LOCALES DE MONTEVIDEO DE LAS EMPRESAS CONTRATISTAS
+
+ 0                    DIRECCION                       ESQUINA       TELEFONO             BARRIO      EMPRESA
+176 Constituyente 1459 Local 14                                     2400,03,21                        ABITAB
+177 Av. 18 de Julio 1841                     Eduardo Acevedo        2408-33-87                        ABITAB
+178 Eduardo Acevedo 1527                     Colonia                2400-59-33                        ABITAB
+179 Tristán Narvaja 1661                     Uruguay                2400-19-78                        ABITAB
+180 Constituyente 1751                                              2407-40-55                        ABITAB
+181 Colonia 1755 bis                         Gaboto                 2400-01-92          AGUADA        ABITAB
+182 Vázquez 1468                             Mercedes               2401-15-21          CORDON        ABITAB
+183 18 de Julio 2013                         Pablo de María                                           ABITAB
+184 Av. Gral. Rivera 2204                    Acevedo Díaz           2408-72-79                        ABITAB
+185 Av. 18 de Julio 1552                     Tacuarembó             2408-56-77                        ABITAB
+186 Arenal Grande 1570                       Colonia                2400-07-14                         ANDA
+187 18 de Julio 1581                         Tacuarembó             2401-16-46                       REDPAGOS
+188 18 de Julio 2063                         M. C. Martinez         2400-98-82                       REDPAGOS
+189 Rivera 2348 local 39                     Br. Artigas            2408-33-57                       REDPAGOS
+190 18 de Julio 1701                         Magallanes             2408-92-29                       REDPAGOS
+191 18 de Julio 1923                         Fernandez Crespo                                        REDPAGOS
+192 CI¿ONSTITUYENTE 1477                                            2402 30 13                       REDPAGOS
+193 Rivera 2098                              Joaquín de Salterain   2402-68-77                       REDPAGOS
+194 José Enrique Rodó 1801                                          2409-24-14                       REDPAGOS
+195 Miguelete 2224                                                                                   REDPAGOS
+196 ARENAL GRANDE 1360 BIS                                           24072315                        REDPAGOS
+197 Gaboto 1481                                                     2401-64-22                       REDPAGOS
+198 Camino Durán 5986                        Yegros                 2320-85-13         FERROCARRIL   REDPAGOS
+199 Cam. Maldonado 5502                      Celiar                 2511-71-35                        ABITAB
+200 Del Fuerte 5302                                                 2511-92-54                       REDPAGOS
+                                                                                   FLOR DE MAROÑAS
+201 Av. Jose Belloni N° 4575                                        2512 60 72                       REDPAGOS
+202 Veracierto 3125                                                 2509 28 75                       REDPAGOS
+203 Av. Gral. Flores 2540                    Concepción Arenal      2203-49-73                        ABITAB
+204 Av. Gral. Flores 2332                    Marcelino Berthelot    2203-48-54                        ABITAB
+205 Blandengues 1551                         Rocha                  2209-71-19                        ABITAB
+206 Av. Gral. Flores 2505                    Carlos Reyles          2209-00-34            GOES        ABITAB
+207 Av. Gral. Flores 2422                    Blandengues            2200-23-61                        ABITAB
+208 José L. Terra 2220                                              2203-64-28                        ABITAB
+209 Gral. Flores 2595                        Concepción Arenal      2203-70-58                       REDPAGOS
+
+
+24/04/202015:55                                                           6-13                             Locales Pago Descentralizado Montevideo
+                                   LOCALES DE MONTEVIDEO DE LAS EMPRESAS CONTRATISTAS
+
+ 0                     DIRECCION                      ESQUINA        TELEFONO              BARRIO         EMPRESA
+210 Cno. Maldonado 5803                       Rafael                                     HIPODROMO         ABITAB
+211 Br. Gral. Artigas 3003                    Enrique Martinez       2200-16-67                            ABITAB
+212 Br. Artigas 3528                          Lorenzo Fernandez      2209-10-19          JACINTO VERA      ABITAB
+213 Av. Luis A de Herrera 3365 L 145 Shopp.                          2201-30-13                            ABITAB
+214 Nápoles 3402                                                                                           ABITAB
+                                                                                  JARDINESAGUADA
+                                                                                          DEL HIPODROMO
+215 Camino Maldonado 5757                     Libia                  2511-52-70                           REDPAGOS
+216 Av. Italia 3243                           Francisco Simón        2481-86-31                            ABITAB
+217 Luis A. de Herrera 2251                   Rep. Dominicana                                              ABITAB
+218 Br. Artigas 2474/8                        Colorado                                                     ABITAB
+219 Av. Italia 2801                           Centenario             2480-71-16         LA BLANQUEADA      ABITAB
+220 Av. 8 de Octubre 2953                     Jaime Cibils           2480-16-14                            ABITAB
+221 Br. Artigas 2151                          Nueva Palmira          2408-37-90                           REDPAGOS
+222 Fco. Simón 2150                                                                                       REDPAGOS
+223 Av. 8 de Octubre 4822                                            2511 24 11                           REDPAGOS
+224 Hocquard 2139                             Cufré                  2409-66-28                            ABITAB
+225 Justicia 2015 bis                         Lima                   2401-09-12                            ABITAB
+                                                                                        LA COMERCIAL
+226 Garibaldi 2550                            Monte Caseros          2480-91-82                           REDPAGOS
+227 Arenal Grande 2506                                                                                      ANDA
+228 Av. Gral. Flores 2788                     Garibaldi              2203-50-70                            ABITAB
+229 Guadalupe 2155 bis                        Garibaldi              2200-34-83                            ABITAB
+                                                                                         LA FIGURITA
+230 San Martín 2952                                                  2203-36-07                           REDPAGOS
+231 Gral. Flores 2935                                                2208-49-09                           REDPAGOS
+232 Av. C. M. Ramírez 574 loc.6               Ameghino               2308-59-56                            ABITAB
+233 Av. C. M. Ramírez 888                                            2309-78-97                            ABITAB
+234 Manuel Herrera y Obes 4289                                                                            REDPAGOS
+                                                                                           LA TEJA
+235 Martín Berinduague 870                                           2309-14-63                           REDPAGOS
+236 Carlos Maria Ramirez 1094                                         23038624                            REDPAGOS
+237 Carlos M. Ramirez 474                                            2306-29-26                           REDPAGOS
+238 Bvar. Batlle y Ordoñez S/N                Altamirano                                                   ABITAB
+239 Cádiz 3044                                Luis A. De Herrera     2480-68-06                            ABITAB
+240 Av. Garibaldi 2539                        Monte Caseros          2480-32-04                            ABITAB
+                                                                                         LARRAÑAGA
+241 Monte Caseros 3099                                               2487-82-64                           REDPAGOS
+242 8 de Octubre 3117                                                2481-79-04                           REDPAGOS
+243 José Batlle y Ordoñez 3573                                       2487-36-69                           REDPAGOS
+244 Av. Gral. Flores 4699                     Possolo                2216-64-40          LAS ACACIAS       ABITAB
+
+
+24/04/202015:55                                                            7-13                                 Locales Pago Descentralizado Montevideo
+                                 LOCALES DE MONTEVIDEO DE LAS EMPRESAS CONTRATISTAS
+
+ 0                    DIRECCION                      ESQUINA       TELEFONO              BARRIO       EMPRESA
+245 Alberto Zum Felde 2057 bis                                                        LAS CANTERAS    REDPAGOS
+246 Av. De las Instrucciones 1456           Edison                 2354-03-95           LAVALLEJA      ABITAB
+247 Av. Lezica 6339                         Guanahany              2323-51-89                          ABITAB
+                                                                                         LEZICA
+248 Av. Lezica 6406                                                2322-83-29                         REDPAGOS
+249 Orinoco 5011                            Michigan               2619-77-17                          ABITAB
+                                                                                        AGUADA
+250 Mississipi 1649                                                2613-87-79                          ABITAB
+251 Legrand 4864                                                                                       ABITAB
+252 H. Yrigoyen 1407 loc.001                Rbla. Rep. De Chile    2619-76-39                          ABITAB
+                                                                                         MALVIN
+253 Av. Italia 4474                                                                                    ABITAB
+254 Colombes 1433                           Rivera                 2619-78-02                          ABITAB
+255 Orinoco 5009                                                   2614-11-57                         REDPAGOS
+256 Almería 4704                                                   2614-08-45                         REDPAGOS
+257 Pedro de Mendoza 5365 bis               Carlos A. Lopez        2227-26-03                          ABITAB
+258 Av. José Belloni 5344                                                                              ABITAB
+259 Pedro de Mendoza 5398                                          2222-52-37            MANGA        REDPAGOS
+260 José Belloni 6389                                              2220-19-09                         REDPAGOS
+261 Av Don Pedro de Mendoza 6049                                   2222 65 24                         REDPAGOS
+262 Alberto Zum Felde 2051                                         2524-49-60                          ABITAB
+263 H. Yrigoyen 2054                        Iguá                   2625-96-97                          ABITAB
+264 Veracierto 2851                                                                                    ABITAB
+265 Cno. Carrasco 4337                      20 de Febrero                             MALVIN NORTE     ABITAB
+266 Cno. Carrasco 4672                      Veracierto             2525-26-35                          ABITAB
+267 Camino Carrasco 4598                    Estado de Israel                                            ANDA
+268 Cno. Carrasco 4656                                             2525-70-89                         REDPAGOS
+269 Guarapiru 3812/16/18                    Gral. Flores                                               ABITAB
+270 8 de Octubre 4764                                                                                  ABITAB
+271 Av. 8 de Octubre 4639                   Gobernador Vigodet     2506-00-76           MAROÑAS        ABITAB
+272 Juan José Belloni 3342 Local 3          Saint Rosas            2511-78-49                          ABITAB
+273 José Vasconcellos 3294                                         2514-00-39                         REDPAGOS
+274 María Orticochea 5643                                                                              ABITAB
+275 María Orticochea 5621/41                                       2305-40-67         NUEVO PARIS     REDPAGOS
+276 Carlos de la Vega 5201                                         2306 03 77                         REDPAGOS
+277 Mesa y Castro 7995                      Leal de Ibarra         2312-13-46         PAJAS BLANCAS   REDPAGOS
+278 Carlos María Morales 902                Cebollatí              2410-48-08                         REDPAGOS
+                                                                                        PALERMO
+279 Minas 1118                              Durazno                2418-45-80                         REDPAGOS
+
+
+24/04/202015:55                                                          8-13                               Locales Pago Descentralizado Montevideo
+                                  LOCALES DE MONTEVIDEO DE LAS EMPRESAS CONTRATISTAS
+
+ 0                  DIRECCION                        ESQUINA        TELEFONO               BARRIO        EMPRESA
+280 Ramón Anador 3410                        Luis A. De Herrera     2481-76-07                            ABITAB
+281 Francisco Soca 1420                      Rivera                 2707-66-99         PARQUE BATLLE     REDPAGOS
+282 20 de Setiembre 1521 L.2                                        2707-05-52                           REDPAGOS
+283 Felipe Carapé 4502 y 4600                Eusebio Valdenegro                                           ABITAB
+                                                                                       PARQUE POSADAS
+284 Pascual Costa 3879 Local 13              Felipe Carapé          2336-02-57                           REDPAGOS
+                                                                                          AGUADA
+285 Av. Gonzalo Ramírez 1951                 Jackson                2409-56-63                            ABITAB
+286 Constituyente 2025                       Jackson                2403-69-31                            ABITAB
+                                                                                        PARQUE RODO
+287 Canelones 2202                           Juan Paullier          2408-33-08                            ABITAB
+288 Br. Artigas 1149                                                2401-54-23                           REDPAGOS
+289 Luis B. Berres 6149                                                                                   ABITAB
+290 Av. L. B. Berres 6602                    Camino Tomkinson       2312-40-60                            ABITAB
+291 Camino Cibils 5967                       Los Nogales                                                  ABITAB
+                                                                                   PASO DE LA ARENA
+292 Camino Tomkinson 2493                    Camino Cibils          2312-38-37                           REDPAGOS
+293 Luis B. Berres 6645                      Tomkinson               23153704                            REDPAGOS
+294 Av. Ideario Artiguista 2016                                     2311-67-16                           REDPAGOS
+295 Av. Agraciada 3961                       San Miguel             2305-38-88                            ABITAB
+296 Av. Agraciada 4109                       Emilio Romero          2309-50-96                            ABITAB
+297 AVDA AGRACIADA 4176                                             2309 52 02                           REDPAGOS
+                                                                                        PASO MOLINO
+298 Angel Salvo 149                          Uruguayana             2300-00-02                           REDPAGOS
+299 Av. Agraciada 4089                       Emilio Romero          2309-21-57                           REDPAGOS
+300 Agraciada 4273                                                  2307 06 66                           REDPAGOS
+301 Bvar. A. Saravia 4620                    Coronel Raiz           2309-79-56                            ABITAB
+302 Br. Batlle y Ordoñez 5550                Coronel Raiz           2359-33-12            PEÑAROL         ABITAB
+303 Coronel Raíz 1711 Bis                    Casavalle              2354-70-25                           REDPAGOS
+304 Dámaso A. Larrañaga 4508                 Corrales                                                     ABITAB
+305 Rafael Eguren 3498                       Gral. Flores                          PEREZ CASTELLANOS      ABITAB
+306 D.A. Larrañaga 3301 S. Multiahorro       Elcano                 2216-96-29                            ABITAB
+307 J. Belloni 4964                          Domingo Arena          2220-09-18                            ABITAB
+308 Capitán Tula 4711                                               2227-29-10                            ABITAB
+309 Av. Belloni 4402                         Cap. Tula              2222-06-48                            ABITAB
+310 Av. Gral. Flores 5483                    Cabarí                 2216-91-69                            ABITAB
+311 José Belloni 4179 bis                    Gral. Flores           2216-69-27                             ANDA
+312 José Belloni 4208                        Teniente Galeano       2514-28-69         PIEDRAS BLANCAS   REDPAGOS
+313 José Belloni 5493                        Pettirosi              2227-34-36                           REDPAGOS
+314 Gral. Flores 5499                                               2211-42-61                           REDPAGOS
+
+
+24/04/202015:55                                                           9-13                                 Locales Pago Descentralizado Montevideo
+                                   LOCALES DE MONTEVIDEO DE LAS EMPRESAS CONTRATISTAS PIEDRAS BLANCAS
+
+ 0                    DIRECCION                           ESQUINA    TELEFONO            BARRIO         EMPRESA
+315 José Belloni 4355 Bis                                            2227-80-90                         REDPAGOS
+316 Av. Gral. Flores 4735 Bis                                        2219-3290                          REDPAGOS
+317 Ricardo Mackinnon 5065                                           2215 50 22                         REDPAGOS
+318 Av. Brasil 2531                             Brito del Pino       2707-36-48                          ABITAB
+319 Francisco Aguilar 843                       Scoseria              27121912                           ABITAB
+320 Av. Gral. Rivera 3475                       Marco Bruto          2622-56-50          AGUADA          ABITAB
+321 Av. Rivera 2406                                                                                      ABITAB
+322 21 de Setiembre 2458                        Libertad              2711-49-39                         ABITAB
+323 Av. Brasil 3086                                                                                      ABITAB
+324 Gral. Rivera 2684 bis                       Soca                  2707-85-77                         ABITAB
+325 Gabriel Pereira 3150                        26 de Marzo           2709-66-66                         ABITAB
+326 Cristobal Echevarriarza 3249                Buxareo               2708-95-59                         ABITAB
+327 21 de Setiembre 2980                        Roque Graseras        2712-34-67                         ABITAB
+328 Juan Benito Blanco 895                                            2716-4020                          ABITAB
+329 J. Benito Blanco 898                                              2711-51-94                        REDPAGOS
+                                                                                         POCITOS
+330 L.A. de Herrera 1248                        26 de Marzo           2622-12-18                        REDPAGOS
+331 J. Benito Blanco 914                                              2709 61 25                        REDPAGOS
+332 21 de Setiembre 2737 Local 2                                      2711-10-88                        REDPAGOS
+333 P. C. Shopping local 123                    Montero               2711-32-96                        REDPAGOS
+334 Marti 3407                                                        2707-76-53                        REDPAGOS
+335 21 de Setiembre 2859                        Ellauri               2710-42-13                        REDPAGOS
+336 21 de Setiembre 3001                                              2711-67-47                        REDPAGOS
+337 21 de Setiembre 2850                        Plácido Ellauri       2711-66-80                        REDPAGOS
+338 Gestido 2851                                Guayaquí              2707-53-30                        REDPAGOS
+339 Echevarriarza 3267                                                2622-96-62                        REDPAGOS
+340 Av. Brasil 2401                                                   2706-82-89                        REDPAGOS
+341 Av. Brasil 2954                                                   2707-64-61                        REDPAGOS
+342 Gabriel Pereira 3025                                              2709-62-20                        REDPAGOS
+343 26 DE MARZO 3508                                                  2628 12 20                        REDPAGOS
+344 26 de Marzo 1366                                                  2708-81-84                        REDPAGOS
+345 Av. Brasil 2557                                                   2706 42 02                        REDPAGOS
+346 Libertad 2675                                                     2707-0409                         REDPAGOS
+347 Rivera 3240                                                       2628-49-50                        REDPAGOS
+348 Scosería 2628                                                     2716-15-45                        REDPAGOS
+349 Av. Italia 5775 Shopping Portones L. 286                          2601-63-31                         ABITAB
+                                                                                        PORTONES
+350 Av. Italia 5775 Shopping Portones L. K 81                         2601-98-61                         ABITAB
+
+
+24/04/202015:55                                                            10-13                              Locales Pago Descentralizado Montevideo
+                                    LOCALES DE MONTEVIDEO DE LAS EMPRESAS CONTRATISTAS
+
+ 0                    DIRECCION                          ESQUINA          TELEFONO          BARRIO         EMPRESA
+351 Av. Millán 4249                              Ernesto Herrera          2304-44-37                        ABITAB
+352 Camino Castro 253                            Molinos de Raffo                                           ABITAB
+353 Bvar. J. B. y Ordoñez 5155                   Zubiria                                  PRADO NORTE       ABITAB
+354 Millán 4146 BIS                                                       2308 88 38                       REDPAGOS
+355 Av. Agraciada 3778                           Lucas Obes               2309-33-25                        ABITAB
+356 Av. Joaquín Suarez 3406                      Cisplatina               2200-44-71        AGUADA          ABITAB
+357 Av. Millán 3782                              Luis A. De Herrera       2336-33-14       PRADO SUR        ABITAB
+358 Av.Millán 3794 bis                                                    2336-56-36                       REDPAGOS
+359 Joaquín Suarez 3458                                                   2336-81-82                       REDPAGOS
+360 José Ellauri 395                             Zorrilla de San Martín                                     ABITAB
+361 Cnel. Mora 571                               Gregorio Suarez          2710-02-39                        ABITAB
+                                                                                         PUNTA CARRETAS
+362 José Ellauri 359                             Hector Miranda                                              ANDA
+363 Patria 553                                                            2712-22-24                       REDPAGOS
+364 Camino Maldonado 6817                        Cam. Guerra              2321-03-94                        ABITAB
+                                                                                         PUNTA DE RIELES
+365 Camino Guerra 6770                           Ruta 8                   2513-89-36                       REDPAGOS
+366 Rivera 5647                                  Hernani                                                    ABITAB
+367 Av. Gral. Paz 1449                           Caramurú                 2600-55-18      PUNTA GORDA       ABITAB
+368 Gral. Paz 1445                               Caramurú                 2601-79-23                       REDPAGOS
+369 Ruta 8 Km 17,500 Ed. Beta 3 Local 14 Z. F.                            2518-2727                         ABITAB
+                                                                                       PUNTAS DE MANGA
+370 Ruta 8 G. Brig A Lavalleja 7724              Cam. Repetto             2222-93-74                        ABITAB
+371 Av. Millán 2971                              Br. Artigas              2204-51-65                        ABITAB
+372 San Martín 2654                              Guadalupe                2200-92-19                        ABITAB
+                                                                                            REDUCTO
+373 Rbla. Baltasar Brum 3038                     12 de Diciembre                                            ABITAB
+374 Av. Burgues 2757                             San Martín               2203-04-18                        ABITAB
+375 Ruben Darío 3450                                                                    SANTA CATALINA      ABITAB
+376 Batlle Berres 148                            La Guardia               2312-04-20   SANTIAGO VAZQUEZ     ABITAB
+377 Av. Millán 4518                              Molinos de Raffo         2309-70-69                        ABITAB
+378 Av. Millán 4480 Hall San. Casa de Galicia                             2356-19-76                        ABITAB
+379 Br. José Batlle y Ordoñez 5967 bis           Bell                     2356-50-98                        ABITAB
+380 Cno. Ariel 4941                                                       2359-06-09                        ABITAB
+                                                                                            SAYAGO
+381 Camino Ariel 4626 Local 2                    Tomás Texera                                               ABITAB
+382 Millán 4499                                  Molinos de Raffo         2307-44-08                       REDPAGOS
+383 Av. Garzón 1599                              Br. Aparicio Saravia     2320-18-37                       REDPAGOS
+384 Camino Ariel 4919                            Sayago                   2355 90 20                       REDPAGOS
+385 Ejido 1000                                   Gonzalo Ramirez          2901-92-46          SUR           ABITAB
+
+
+24/04/202015:55                                                                11-13                             Locales Pago Descentralizado Montevideo
+                                 LOCALES DE MONTEVIDEO DE LAS EMPRESAS CONTRATISTAS
+
+ 0                  DIRECCION                        ESQUINA         TELEFONO            BARRIO        EMPRESA
+386 Av. 18 de Julio 2258                     Acevedo Díaz            2409-89-68                         ABITAB
+387 Av. 8 de Octubre 2527                    Presidente Berro        2486-03-49                         ABITAB
+388 Dr. Salvador Ferrer Serra 2320           Acevedo Díaz            2401-29-11                         ABITAB
+389 Shopping Tres Cruces Local 113                                   4277,0188                          ABITAB
+390 Br. Artigas 1825 Sh Tres Cruces L B20                            2409-84-29                         ABITAB
+391 Daniel Muñoz 2200                        Juan Paullier           2401-50-20          AGUADA         ABITAB
+                                                                                       TRES CRUCES
+392 Br. Artigas 1649                                                                                    ABITAB
+393 Br. Artigas 1825                         Salvador Ferrer Serra   2409-10-65                          ANDA
+394 Shopping Tres Cruces                     Galicia                 2408-40-60                        REDPAGOS
+395 Salvador Ferrer Serra 2350               Mario Cassinoi          2401-52-52                        REDPAGOS
+396 Br. Artigas 1777                                                 2402-06-96                        REDPAGOS
+397 Br. Artigas 1825 L. 123                                          2400-31-77                        REDPAGOS
+398 José Belloni 6400                        Instrucciones                            TOLEDO CHICO      ABITAB
+399 8 de Octubre 3621                        Comercio                                                   ABITAB
+400 Av. 8 de Octubre 3340 Superm. TA-TA                              2482,05,16                         ABITAB
+401 Av. 8 de Octubre 3829                    Larravide               2508-95-04                         ABITAB
+402 Av. 8 de Octubre 3468 bis                Carlos Crocker          2508-94-41                         ABITAB
+403 Av. 8 de Octubre 3990                    Silvestre Pérez                                            ABITAB
+404 Av. 8 de Octubre 4142/44                 Joanicó                 2507-11-17                         ABITAB
+405 Lombardini 3624                          Comercio                2508-94-42                         ABITAB
+406 8 de Octubre 3823                        Larravide                                    UNION          ANDA
+407 8 de Octubre 3742                                                2508-03-49                        REDPAGOS
+408 8 de Octubre 3839                        Larravide               2509-32-52                        REDPAGOS
+409 8 de Octubre 3602                        Pernas                  2507-31-70                        REDPAGOS
+410 8 de Octubre 3671                        Comercio                2508-15-15                        REDPAGOS
+411 8 de Octubre 3412                                                2508-15-43                        REDPAGOS
+412 8 de Octubre 3310                                                                                  REDPAGOS
+413 8 de Octubre 4083                                                2508-24-12                        REDPAGOS
+414 21 de Setiembre 2696                     Williman                2710-31-89       VILLA BIARRITZ    ABITAB
+415 Camino Corrales 3003                                                                                ABITAB
+416 Av. José Pedro Varela 3385                                       2216-22-99       VILLA ESPAÑOLA   REDPAGOS
+417 Av. Dámaso A. Larrañaga 3648                                     2505-7380                         REDPAGOS
+418 Ruta 8 Km. 21 N° 11278                   Hércules y 17 M         2222-10-35                         ABITAB
+                                                                                       VILLA GARCIA
+419 Ruta 8 Km. 17,500 Ed Biotec Zonamerica                           2518-48-61                        REDPAGOS
+420 Justicia 2301                            Amézaga                 2203-36-64                         ABITAB
+
+                                                                                       VILLA MUÑOZ
+24/04/202015:55                                                           12-13                              Locales Pago Descentralizado Montevideo
+                                LOCALES DE MONTEVIDEO DE LAS EMPRESAS CONTRATISTAS
+
+ 0                  DIRECCION                     ESQUINA           TELEFONO           BARRIO      EMPRESA
+421 Arenal Grande 2514                                              2201 86 57                      ABITAB
+422 Joaquín Requena 2350                   Amézaga                  2203-52-26       VILLA MUÑOZ    ABITAB
+423 Blandengues 1751                       Ramón del Valle Inclán                                   ABITAB
+424 Justicia 2400                                                   2200-10-80                     REDPAGOS
+
+                                                                                       AGUADA
+
+
+
+
+24/04/202015:55                                                          13-13                           Locales Pago Descentralizado Montevideo
+

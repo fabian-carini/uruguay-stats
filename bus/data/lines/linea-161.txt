@@ -1,0 +1,398 @@
+Ir al contenido
+[ ] Menú principal
+Menú principal
+mover a la barra lateral ocultar
+Navegación
+
+  • Portada
+  • Portal de la comunidad
+  • Actualidad
+  • Cambios recientes
+  • Páginas nuevas
+  • Página aleatoria
+  • Ayuda
+  • Notificar un error
+  • Páginas especiales
+
+[wikipe] Wikipedia La enciclopedia libre
+Buscar
+[                    ]
+Buscar
+
+[ ] Apariencia
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+[ ] Herramientas personales
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+Contenidos
+
+mover a la barra lateral ocultar
+
+  • Inicio
+  • 1 Características
+  • 2 Recorrido
+  • 3 Paradas
+  • 4 Historia
+  • 5 Barrios
+  • 6 Referencias
+
+[ ] Cambiar a la tabla de contenidos
+
+Línea 161 (Montevideo)
+
+[ ] Añadir idiomas
+
+Añadir enlaces
+
+  • Artículo
+  • Discusión
+
+[ ] español
+
+  • Leer
+  • Editar
+  • Ver historial
+
+[ ] Herramientas
+Herramientas
+mover a la barra lateral ocultar
+Acciones
+
+  • Leer
+  • Editar
+  • Ver historial
+
+General
+
+  • Lo que enlaza aquí
+  • Cambios en enlazadas
+  • Subir archivo
+  • Enlace permanente
+  • Información de la página
+  • Citar esta página
+  • Obtener URL acortado
+  • Cambiar al analizador antiguo
+
+Imprimir/exportar
+
+  • Crear un libro
+  • Descargar como PDF
+  • Versión para imprimir
+
+En otros proyectos
+
+  • Elemento de Wikidata
+
+Apariencia
+mover a la barra lateral ocultar
+De Wikipedia, la enciclopedia libre
+
+              158 ← 161 → 163
+Ciudad Vieja Barrio Bolívar
+
+              Área abastecida
+       Municipios        Montevideo
+                Descripción
+          Tipo           Urbana
+        Sistema          Urbanas STM
+      Inauguración       1937
+       Supresión         Marzo de 2019
+                 Operación
+                           • Ida: 10,64 km
+        Longitud           • Vuelta: 12,5 km
+
+                           • Ida: 38
+        Paradas            • Vuelta: 42
+
+                Explotación
+         Estado          Inactiva
+        Operador         Cutcsa
+[editar datos en Wikidata]
+
+La línea 161 fue una línea de ómnibus urbana de Montevideo, que unía el barrio
+Bolívar con la Ciudad Vieja.
+
+Características
+
+[editar]
+
+Fue creada en los años treinta por la entonces Cooperativa de Ómnibus Línea H,
+la cual en 1937, tras la confirmación de la Compañía Uruguay del Transporte
+Colectivo se convirtió en la línea 161.^[1]
+
+Unía específicamente la Planta José Añón de la Compañía Cutcsa, ubicada sobre
+la Avenida Luis Alberto de Herrera, aunque posteriormente con la mudanza de
+esta hacia la Avenida José Pedro Varela la línea fue extendida hacia esta nueva
+ubicación, conectando de esta manera el barrio Bolívar con la Ciudad Vieja.^[2]
+
+En marzo de 2019, con el comienzo de los horarios de invierno, esta línea, al
+igual que la 164 quedaron definitivamente suprimidas, pero aún en algunas
+paradas de Montevideo se conserva sus carteles indicadores.
+
+Recorrido
+
+[editar]
+
+El último recorrido de la línea comenzaba y finalizaba en la nueva planta José
+Añón, de la empresa Cutcsa, ya que su pasaje por la Ciudad Vieja era sin
+interrupciones. Sin embargo, a efectos de facilitar la visualización del mismo,
+se lo divide en ida y vuelta siguiendo el criterio de los destinos que los
+ómnibus de la línea despliegan en sus carteles.
+
+IDA (hacia Ciudad Vieja)                  VUELTA
+
+  • Isabela                                 • Cerrito
+  • Avenida Jacobo Varela                   • Juan Lindolfo Cuestas
+  • Marne                                   • Buenos Aires
+  • Avenida Luis Alberto de Herrera         • Liniers
+  • Monte Caseros                           • Ciudadela
+  • Nueva Palmira                           • Maldonado
+  • Bulevar Artigas                         • Minas
+  • Goes                                    • Mercedes
+  • Juan Paullier                           • Avenida Daniel Fernández Crespo
+  • La Paz                                  • Miguelete
+  • Justicia                                • Justicia
+  • La Paz                                  • Prof. Juan Carlos Patrón
+  • Arenal Grande                           • Inca
+  • Avenida Uruguay                         • Domingo Aramburú
+  • Magallanes                              • Avenida General Flores
+  • Soriano                                 • Bulevar José Batlle y Ordóñez
+  • Ciudadela                               • Avenida Jacobo Varela
+  • Circunvalación Plaza Independencia      • Isabela (planta José Añón)
+  • Ciudadela
+  • 25 de Mayo
+  • Juncal
+  • Cerrito
+
+
+Paradas
+
+[editar]
+
+Nº parada → Calle (y) Cruce
+
+IDA                                     VUELTA
+
+ 1. 5770 Isabela y Valladolid            1. 4763 Cerrito y Bartolomé Mitre
+ 2. 5772 Isabela y Av. Jacobo Varela     2. 4764 Cerrito y Treinta y Tres
+ 3. 3533 Av. Jacobo Varela y Bv. José    3. 4765 Cerrito y Zabala
+    Batlle y Ordóñez                     4. 4773 Cerrito y Pérez Castellano
+ 4. 3534 Marne y Juan José Quesada       5. 4774 Cerrito y Juan Lindolfo
+ 5. 2783 Marne y Av. Luis Alberto de        Cuestas
+    Herrera                              6. 4929 Juan Lindolfo Cuestas y
+ 6. 3453 Av. Luis Alberto de Herrera y      Washington
+    Valladolid                           7. 4769 Buenos Aires y Guaraní
+ 7. 3454 Av. Luis Alberto de Herrera y   8. 4770 Buenos Aires y Colón
+    Dulcinea                             9. 4771 Buenos Aires y Misiones
+ 8. 3455 Av. Luis Alberto de Herrera y  10. 4772 Buenos Aires y Ituzaingó
+    Canstatt                            11. 4757 Liniers y Reconquista
+ 9. 3456 Av. Luis Alberto de Herrera y  12. 3242 Maldonado y Florida
+    Cádiz                               13. 2207 Maldonado y Convención
+10. 3457 Av. Luis Alberto de Herrera y  14. 2208 Maldonado y Julio Herrera y
+    Emilio Raña                             Obes
+11. 3458 Av. Luis Alberto de Herrera y  15. 2209 Maldonado y Héctor Gutiérrez
+    Monte Caseros                           Ruiz
+12. 3504 Monte Caseros y Mariano Moreno 16. 2210 Maldonado y Dr Aquiles R.
+13. 3505 Monte Caseros y Jaime Cibils       Lanza
+14. 3506 Monte Caseros y Cnel. Lucas    17. 2211 Maldonado y Dr Javier Barrios
+    Píriz                                   Amorín
+15. 3507 Monte Caseros y Av. Gral. José 18. 2212 Maldonado y Lorenzo Carnelli
+    Garibaldi                           19. 4558 Minas y Canelones
+16. 3508 Monte Caseros y Nueva Palmira  20. 4560 Minas y Constituyente
+17. 2104 Bv. Gral. Artigas y Gral.      21. 4562 Minas y José Enrique Rodó
+    Pagola                              22. 4559 Minas y Colonia
+18. 2107 Bv. Gral. Artigas y Miguelete  23. 4547 Mercedes y Gaboto
+19. 3810 Goes y Duvimioso Terra         24. 4546 Mercedes y Eduardo Acevedo
+20. 3812 Juan Paullier y La Paz         25. 3835 Av. Daniel Fernández Crespo y
+21. 3813 La Paz y Defensa                   Cerro Largo
+22. 3814 La Paz y Democracia            26. 3837 Av. Daniel Fernández Crespo y
+23. 3815 La Paz y República                 Miguelete
+24. 3831 Arenal Grande y Cerro Largo    27. 3823 Miguelete y República
+25. 3832 Arenal Grande y Av. Uruguay    28. 3706 Justicia y Lima
+26. 4031 Av. Uruguay y Tristán Narvaja  29. 3707 Justicia y Gral. Pagola
+27. 4533 Magallanes y Mercedes          30. 3708 Justicia y Nueva Palmira
+28. 4528 Magallanes y Av. 18 de Julio   31. 3709 Justicia y Dr. Juan José de
+29. 4532 Magallanes y José Enrique Rodó     Amézaga
+30. 4530 Magallanes y Constituyente     32. 2461 Inca y Blandengues
+31. 3871 Soriano y Lorenzo Carnelli     33. 2462 Domingo Aramburú y Ramón del
+32. 4611 Soriano y Dr. Javier Barrios       Valle Inclán
+    Amorín                              34. 2464 Domingo Aramburú y Av. Gral.
+33. 3174 Soriano y Dr. Aquiles R. Lanza     Flores
+34. 3175 Soriano y Héctor Gutiérrez     35. 2418 Av. Gral. Flores y Rivadavia
+    Ruiz                                36. 3805 Av. Gral. Flores y Av. Gral.
+35. 3176 Soriano y W. Ferreira Aldunate     José Garibaldi
+36. 5033 Soriano y Florida              37. 3806 Av. Gral. Flores y Gustavo
+37. 5124 Ciudadela y Mercedes               Gallinal
+38. 4041 Juncal y Cerrito               38. 3807 Av. Gral. Flores y Bv. Gral.
+                                            Artigas
+                                        39. 2340 Av. Gral. Flores y Av. Luis
+                                            Alberto de Herrera
+                                        40. 2341 Av. Gral. Flores y Juan José
+                                            Quesada
+                                        41. 5771 Av. Jacobo Varela y Saladero
+                                            Fariña
+                                        42. 5768 Isabela y Valladolid
+
+
+Historia
+
+[editar]
+
+Originalmente, la línea 161 tenía su punto de partida en la terminal de la
+Aduana, situada en la Ciudad Vieja (en una zona de este barrio también conocida
+como Guruyú), desde donde se dirigía hasta la intersección de las avenidas
+General Flores y Luis Alberto de Herrera (antiguamente denominada Larrañaga)
+para retornar a su origen sin interrumpir el viaje —lo que se conoce también
+por el anglicismo loop—, tomando un camino distinto al de la ida. Su circuito
+era y sigue siendo complementado con el de la línea 164, que realiza buena
+parte de su recorrido en sentido inverso a la 161: el que una hace en la ida,
+la otra lo hace en la vuelta. Esto se daba en otras líneas de la compañía
+Cutcsa, como la 117 y la 122, la 171 y la 172, y la 181 y la 183, conservándose
+solamente el de las últimas dos.
+
+En los años sesenta su recorrido era el siguiente: Terminal de la Aduana;
+Rambla Roosevelt; Zabala; Rincón; Mercedes; Avenoda Fernández Crespo;
+Miguelete; Justicia; Arenal Grande; Domingo Aramburú; Avenida Gral. Flores;
+Avenida Luis Alberto de Herrera; Monte Caseros; Bulevar Artigas; Miguelete;
+Justicia; La Paz; Avenida Fernández Crespo; Avenida Uruguay; Eduardo Acevedo;
+Juan A. Lavalleja (actual José E. Rodó); Magallanes; Soriano; Reconquista; Juan
+Lindolfo Cuestas; Terminal de la Aduana.^[3] Desde entonces, el mismo se ha
+mantenido con pocas modificaciones, que responden a cambios de circulación en
+algunas calles (son los casos de Fernández Crespo y Rodó) o a restricciones en
+la circulación de ómnibus en ciertas vías (como la Rambla Roosevelt, Rincón y
+Zabala).
+
+Con la reducción de servicios de transporte colectivo que la Intendencia de
+Montevideo aplicó para la Ciudad Vieja desde julio de 2005, la línea 161 dejó
+de circular dentro del casco histórico de la ciudad, modificando su recorrido,
+que pasó a ser por las calles Soriano, Río Branco, Colonia, Florida,
+Circunvalación Plaza Independencia (parando en la creada terminal de trasbordos
+de la plaza), Liniers, Camacuá hasta la terminal de Plaza España, su nuevo
+destino. A su vez, en el sentido inverso el trayecto pasaba a ser: Terminal de
+Plaza España, Camacuá, Ituzaingó, Buenos Aires (parando en la creada terminal
+de trasbordos de dicha calle), Liniers, Maldonado.^[4] Sin embargo, esta
+modificación duró tan solo un mes, ya que en el marco de las correcciones que
+realizó el gobierno de Montevideo respectó al nuevo sistema desde su
+implementación, la línea volvió a ser incorporada al circuito de la Ciudad
+Vieja, entendiéndose que su recorrido primario servía a los niños de ese barrio
+que concurrían a las escuelas N° 15 República de Cuba (matutina) y N° 131
+República de Chile (vespertina), que compartían el mismo local en el barrio Sur
+(en 2012 fueron fusionadas bajo la N° 131).^[5] El ingreso a la zona pasó a ser
+por las calles Río Branco, Avenida Uruguay, 25 de Mayo, Juncal, Cerrito y Juan
+Lindolfo Cuestas, saliendo por Buenos Aires, Liniers, Ciudadela y Maldonado.
+Como el paso por la Ciudad Vieja quedó sin interrupciones (loop), el destino de
+espera de la línea debió trasladarse a la otra punta de su recorrido, quedando
+en la planta José Añón de la empresa Cutcsa, situada entonces en la Avenida
+Luis Alberto de Herrera y Gualeguay.^[6] En septiembre de 2006 se realizó un
+pequeño cambio al trayecto para que la línea también en la ida cubriera a los
+estudiantes de las escuelas N° 15 y N° 131, quedando: Soriano, Ciudadela,
+Circunvalación Plaza Independencia, Juncal, Cerrito.^[7]
+
+Al trasladarse la planta José Añón de Cutcsa a fines del año 2010 al predio
+comprendido por la Avenida José Pedro Varela, el Bulevar José Batlle y Ordóñez
+y la calle Valladolid, en el barrio Bolívar, se produjo la última modificación
+en el recorrido de la línea, adecuándose a su nueva terminal: Avenida Gral.
+Flores, Bulevar José Batlle y Ordóñez, Avenida Jacobo Varela e Isabela hasta el
+ingreso de la planta Añón en su intersección con Valladolid.^[8]
+
+Considerándose como una línea que durante mucho tiempo supo contar con altas
+frecuencias, en sus últimos años de servicio las mismas fueron disminuyendo
+significativamente, a tal punto que en enero de 2017 en los días hábiles tenía
+solamente cuatro viajes por jornada, con tres horas y media de intervalo entre
+uno y otro.^[9] Esto incidió en que la cantidad de pasajeros transportados se
+haya reducido drásticamente, siendo común que en un tramo (ida o vuelta) del
+recorrido asciendan menos de diez personas.
+
+
+En marzo de 2019, con el comienzo de los horarios de invierno, esta línea, al
+igual que la 164 quedaron definitivamente suprimidas.
+
+Barrios
+
+[editar]
+
+En su recorrido, la línea 161 atravesaba los barrios: Fraternidad, Bolívar,
+Larrañaga, La Blanqueada, Tres Cruces, Cordón Norte, Cordón Sur, Centro, Ciudad
+Vieja, Sur, Villa Muñoz, Goes, La Figurita y Jacinto Vera.
+
+Referencias
+
+[editar]
+
+ 1. ↑ «72 años de Cutcsa, la época pre-Cutcsa». 30 de agosto de 2009. p. Grupo
+    Aclo. Consultado el 27 de setiembre de 2023. 
+ 2. ↑ «Modificar parcialmente el recorrido de las líneas 161 y 164». 15 de
+    agosto de 2005. p. Intendencia de Montevideo. Consultado el 27 de setiembre
+    de 2023. 
+ 3. ↑ Guía de Montevideo (edición 1971). 1971. 
+ 4. ↑ Intendencia Municipal de Montevideo - Departamento de Acondicionamiento
+    Urbano (1 de julio de 2005). «Resolución N° 3048/05 - Aprobar nueva
+    organización transporte colectivo urbano en Ciudad Vieja». Consultado el 23
+    de enero de 2017. 
+ 5. ↑ «La escuela y los beneficios de un plan». El Observador. 14 de setiembre
+    de 2014. Consultado el 23 de enero de 2017. 
+ 6. ↑ Intendencia Municipal de Montevideo - Departamento de Acondicionamiento
+    Urbano (15 de agosto de 2005). «Resolución N° 698/05/4000 - Modificar
+    parcialmente el recorrido de la Línea 161 de la empresa Cutcsa». Consultado
+    el 23 de enero de 2017. 
+ 7. ↑ Intendencia Municipal de Montevideo - Departamento de Acondicionamiento
+    Urbano (12 de setiembre de 2006). «Resolución N° 792/06/4000 - Modificar
+    parcialmente el recorrido de la Línea 161 con destino Ciudad Vieja».
+    Consultado el 23 de enero de 2017. 
+ 8. ↑ Intendencia de Montevideo - Departamento de Movilidad (18 de octubre de
+    2010). «Resolución N° 197/10/1500 - Modificar el recorrido de la línea N°
+    161, en la zona adyacente al destino "Luis Alberto de Herrera"». Consultado
+    el 23 de enero de 2017. 
+ 9. ↑ Intendencia de Montevideo. «Línea 161 - Horarios aprobados por la
+    Intendencia de Montevideo (vigencia desde 2 de energo de 2017)». Consultado
+    el 23 de enero de 2017. 
+
+Control de autoridades   • Proyectos Wikimedia
+                         • Wd Datos: Q16493806
+
+  • Wd Datos: Q16493806
+
+*
+Obtenido de «https://es.wikipedia.org/w/index.php?title=Línea_161_(Montevideo)&
+oldid=172394763»
+Categoría:
+
+  • Líneas de ómnibus de Montevideo fuera de servicio
+
+  • Esta página se editó por última vez el 8 mar 2026 a las 02:53.
+  • La página fue renderizada con Parsoid.
+  • El texto está disponible bajo la Licencia Creative Commons
+    Atribución-CompartirIgual 4.0; pueden aplicarse cláusulas adicionales. Al
+    usar este sitio aceptas nuestros términos de uso y nuestra política de
+    privacidad.
+    Wikipedia® es una marca registrada de la Fundación Wikimedia, una
+    organización sin ánimo de lucro.
+
+  • Política de privacidad
+  • Acerca de Wikipedia
+  • Limitación de responsabilidad
+  • Contacto legal y de seguridad
+  • Código de conducta
+  • Desarrolladores
+  • Estadísticas
+  • Declaración de cookies
+  • Versión para móviles
+
+  • Wikimedia Foundation
+  • Powered by MediaWiki
+
+Buscar
+[                    ]
+Buscar
+[ ] Cambiar a la tabla de contenidos
+Línea 161 (Montevideo)
+       
+Añadir idiomas Añadir tema
+

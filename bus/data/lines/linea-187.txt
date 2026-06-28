@@ -1,0 +1,318 @@
+Ir al contenido
+[ ] Menú principal
+Menú principal
+mover a la barra lateral ocultar
+Navegación
+
+  • Portada
+  • Portal de la comunidad
+  • Actualidad
+  • Cambios recientes
+  • Páginas nuevas
+  • Página aleatoria
+  • Ayuda
+  • Notificar un error
+  • Páginas especiales
+
+[wikipe] Wikipedia La enciclopedia libre
+Buscar
+[                    ]
+Buscar
+
+[ ] Apariencia
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+[ ] Herramientas personales
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+Contenidos
+
+mover a la barra lateral ocultar
+
+  • Inicio
+  • 1 Recorridos y paradas
+    Alternar subsección Recorridos y paradas
+      □ 1.1 Sentido Palacio de la Luz
+      □ 1.2 Sentido Ciudad Vieja
+      □ 1.3 Destinos Intermedios
+  • 2 Referencias
+  • 3 Enlaces externos
+
+[ ] Cambiar a la tabla de contenidos
+
+Línea 187 (Montevideo)
+
+[ ] Añadir idiomas
+
+Añadir enlaces
+
+  • Artículo
+  • Discusión
+
+[ ] español
+
+  • Leer
+  • Editar
+  • Ver historial
+
+[ ] Herramientas
+Herramientas
+mover a la barra lateral ocultar
+Acciones
+
+  • Leer
+  • Editar
+  • Ver historial
+
+General
+
+  • Lo que enlaza aquí
+  • Cambios en enlazadas
+  • Subir archivo
+  • Enlace permanente
+  • Información de la página
+  • Citar esta página
+  • Obtener URL acortado
+  • Cambiar al analizador antiguo
+
+Imprimir/exportar
+
+  • Crear un libro
+  • Descargar como PDF
+  • Versión para imprimir
+
+En otros proyectos
+
+  • Elemento de Wikidata
+
+Apariencia
+mover a la barra lateral ocultar
+De Wikipedia, la enciclopedia libre
+
+                      186 ← 187 → 188
+Ciudad Vieja Palacio de la Luz
+
+[500px-Montevideo_]
+Línea 187 hacia el Palacio de la Luz
+                      Área abastecida
+           Municipios             Montevideo
+                        Descripción
+              Tipo                Urbano
+             Sistema              Urbanos STM
+                         Operación
+            Longitud              1 hora
+             Paradas              41 / 31
+                        Explotación
+            Operador              CUTCSA
+            Autoridad             Intendencia de Montevideo
+[editar datos en Wikidata]
+
+La línea 187 de la red urbana de Montevideo, une la Ciudad Vieja o la Plaza
+Independencia con el Palacio de la Luz.
+
+Recorridos y paradas
+
+[editar]
+
+^[1]
+
+La línea 187 conecta el área de Ciudad Vieja con la zona del Palacio de la Luz,
+atravesando importantes arterias y barrios de Montevideo como Centro, Cordón,
+Tres Cruces, Parque Batlle, La Blanqueada, La Comercial, Goes, Aguada y Arroyo
+Seco.
+
+En cuanto a su operativa, cuenta con una variante de ida que inicia en Plaza
+Independencia, incorporándose al recorrido habitual sobre Avenida 18 de Julio.
+El servicio mantiene un trazado estable tanto en días hábiles como en fines de
+semana, asegurando la conexión entre el centro y el barrio Aguada.
+
+Sentido Palacio de la Luz
+
+[editar]
+
+El recorrido comienza en la calle Ciudadela, continúa por la calles 25 de Mayo,
+Juncal, Cerrito y Juan Lindolfo Cuestas. Luego sigue por Buenos Aires hasta
+llegar a la Plaza Independencia, donde toma la Avenida 18 de Julio. Prosigue
+por Bulevar General Artigas, Avenida Italia y Avenida Dr. Américo Ricaldoni,
+continuando por Avenida Dr. Manuel Albo y Gerardo Grasso. Luego avanza por
+Avenida Gral. José Garibaldi y José L. Terra, para incorporarse a la Avenida
+General Venancio Flores.
+
+El trayecto continúa por la Avenida de las Leyes, sigue por la calle Colombia y
+Avenida General Rondeau, para luego tomar Gral. Pacheco y Mendoza, finalizando
+en el Palacio de la Luz.
+
+  Sentido: Palacio de la Luz
+Código          Parada
+5124   Mercedes
+4041   Juncal
+4763   Bartolomé Mitre
+4764   Treinta Y Tres
+4765   Zabala
+4773   Pérez Castellano
+4774   Guaraní
+5106   25 de Mayo
+4929   Washington
+4769   Guaraní
+4770   Colón
+4771   Misiones
+4772   Ituzaingó
+5108   Juan Carlos Gómez
+3177   Wilson Ferreira Aldunate
+4189   Plaza Cagancha
+3179   Ejido
+4204   Tacuarembó
+4202   Gaboto
+3180   Arenal Grande
+4005   Joaquín Requena
+4007   Mario Cassinoni
+2071   Morales
+2121   Pte. Lorenzo Batlle
+2122   Avenida Ricaldoni
+3793   Avenida 8 de Octubre
+3234   Juan Ramon Gomez
+3235   Monte Caseros
+3236   Emilio Raña
+3795   Cuñapirú
+3796   Rivadavia
+3797   Vilardebo
+3798   Martin C. Martinez
+3799   Guaviyu
+2406   Avenida Jose Garibaldi
+2407   Rivadavia
+2409   Domingo Aramburu
+2410   Libres
+2411   Isidoro De Maria
+2412   Yatay
+4326   Francisco De Paula
+4327   Avenida Rondeau
+568    Francusco Tajes
+4416   Paraguay
+
+
+Sentido Ciudad Vieja
+
+[editar]
+
+El recorrido comienza en la calle Mendoza, continúa por Gral. Francisco
+Caraballo y Avenida Agraciada. Luego toma la Avenida de las Leyes y sigue por
+Avenida General Venancio Flores. Prosigue por Avenida Gral. José Garibaldi,
+Avenida Dr. Manuel Albo y Avenida Italia, continuando por Salvador Ferrer Serra
+y Juan Paullier hasta alcanzar Avenida 18 de Julio.
+
+Luego circula por Plaza Independencia, tomando ppr las calles Ciudadela, 25 de
+Mayo, Juncal y Cerrito, donde finaliza el recorrido.
+
+     Sentido: Ciudad Vieja
+Código          Parada
+3923   Francisco Caraballo
+3726   Francisco Tajes
+3736   Freire
+3746   César Díaz
+3663   Guatemala
+3665   Hocquart
+5248   Avenida de las Leyes
+3803   Isidoro De Maria
+2417   Libres
+3883   Domingo Aramburu
+2418   Rivadavia
+3805   Avenida Jose Garibaldi
+3787   Porongos
+3789   Vilardebo
+3790   Rivadavia
+3809   Juan Jose de Amezaga
+3237   Emilio Raña
+3238   Monte Caseros
+3239   
+3240   Avenida 8 de Octubre
+3791   Avenida Italia
+2192   Presidente Berro
+2193   Shopping de Tres Cruces
+6863   Daniel Muñoz
+6864   Colonia
+4009   Martín C. Martínez
+4011   Arenal Grande
+4013   Gaboto
+4014   Carlos Roxlo
+4016   Ejido
+3913   Plaza Cagancha
+4018   Convención
+
+
+Destinos Intermedios
+
+[editar]
+
+IDA
+
+ 1. Palacio Legislativo
+ 2. General Flores y Garibaldi
+
+VUELTA
+
+ 1. Plaza Independencia
+
+Referencias
+
+[editar]
+
+ 1. ↑ «Once líneas de ómnibus cambiaron su recorrido y». El País (Uruguay). 11
+    de setiembre de 2023. 
+
+Enlaces externos
+
+[editar]
+
+ 1. https://www.montevideo.gub.uy/buses/mapaBuses.html / Mapa online oficial de
+    IMM en conjunto con MTOP, consulte la ubicación de esta línea en tiempo
+    real.
+ 2. http://www.cutcsa.com.uy/
+
+Control de autoridades   • Proyectos Wikimedia
+                         • Wd Datos: Q16493840
+
+  • Wd Datos: Q16493840
+
+*
+Obtenido de «https://es.wikipedia.org/w/index.php?title=Línea_187_(Montevideo)&
+oldid=173326466»
+Categoría:
+
+  • Líneas de ómnibus de Montevideo
+
+  • Esta página se editó por última vez el 6 may 2026 a las 05:21.
+  • La página fue renderizada con Parsoid.
+  • El texto está disponible bajo la Licencia Creative Commons
+    Atribución-CompartirIgual 4.0; pueden aplicarse cláusulas adicionales. Al
+    usar este sitio aceptas nuestros términos de uso y nuestra política de
+    privacidad.
+    Wikipedia® es una marca registrada de la Fundación Wikimedia, una
+    organización sin ánimo de lucro.
+
+  • Política de privacidad
+  • Acerca de Wikipedia
+  • Limitación de responsabilidad
+  • Contacto legal y de seguridad
+  • Código de conducta
+  • Desarrolladores
+  • Estadísticas
+  • Declaración de cookies
+  • Versión para móviles
+
+  • Wikimedia Foundation
+  • Powered by MediaWiki
+
+Buscar
+[                    ]
+Buscar
+[ ] Cambiar a la tabla de contenidos
+Línea 187 (Montevideo)
+       
+Añadir idiomas Añadir tema
+

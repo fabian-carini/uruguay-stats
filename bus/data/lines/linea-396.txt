@@ -1,0 +1,266 @@
+Ir al contenido
+[ ] Menú principal
+Menú principal
+mover a la barra lateral ocultar
+Navegación
+
+  • Portada
+  • Portal de la comunidad
+  • Actualidad
+  • Cambios recientes
+  • Páginas nuevas
+  • Página aleatoria
+  • Ayuda
+  • Notificar un error
+  • Páginas especiales
+
+[wikipe] Wikipedia La enciclopedia libre
+Buscar
+[                    ]
+Buscar
+
+[ ] Apariencia
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+[ ] Herramientas personales
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+Contenidos
+
+mover a la barra lateral ocultar
+
+  • Inicio
+  • 1 Características
+    Alternar subsección Características
+      □ 1.1 Frecuencia
+  • 2 Recorridos
+    Alternar subsección Recorridos
+      □ 2.1 Ida
+      □ 2.2 Regreso
+      □ 2.3 Destinos intermedios
+      □ 2.4 Vuelta
+  • 3 Referencias
+  • 4 Enlaces externos
+
+[ ] Cambiar a la tabla de contenidos
+
+Línea 396 (Montevideo)
+
+[ ] Añadir idiomas
+
+Añadir enlaces
+
+  • Artículo
+  • Discusión
+
+[ ] español
+
+  • Leer
+  • Editar
+  • Ver historial
+
+[ ] Herramientas
+Herramientas
+mover a la barra lateral ocultar
+Acciones
+
+  • Leer
+  • Editar
+  • Ver historial
+
+General
+
+  • Lo que enlaza aquí
+  • Cambios en enlazadas
+  • Subir archivo
+  • Enlace permanente
+  • Información de la página
+  • Citar esta página
+  • Obtener URL acortado
+  • Cambiar al analizador antiguo
+
+Imprimir/exportar
+
+  • Crear un libro
+  • Descargar como PDF
+  • Versión para imprimir
+
+En otros proyectos
+
+  • Elemento de Wikidata
+
+Apariencia
+mover a la barra lateral ocultar
+De Wikipedia, la enciclopedia libre
+
+                      370 ← 396 → 402
+Mendoza e Instrucciones Ciudadela
+
+[330px-Avenida_San_Martin_-_20201123dicim]
+                      Área abastecida
+              Municipios                Montevideo
+                        Descripción
+                 Tipo                   Urbano
+                Sistema                 Urbanos STM
+                         Operación
+                                        Duración del viaje:
+               Longitud
+                                          • 56 minutos
+
+                        Explotación
+               Operador                 UCOT
+                    Sucesión de líneas
+Línea 96 Línea 396 (Montevideo)
+
+[editar datos en Wikidata]
+
+La línea 396 de la red de transporte urbano de Montevideo une la terminal
+Ciudadela con la intersección de las avenidas Mendoza e Instrucciones.
+
+Características
+
+[editar]
+
+Fue creada en los años setenta a modo de sustitución de la línea 96 adquirida
+por la Unión Cooperativa Obrera como consecuencia del cierre de la
+Administración Municipal de Transporte.
+
+Frecuencia
+
+[editar]
+
+En los días hábiles y sábados su circulación cuenta con una frecuencia cada 13
+minutos y 17 minutos respectivamente en horarios picos, disminuyendo hacia el
+final del día a un vehículo cada 60 minutos aproximadamente. Los días festivos
+su circulación es cada 57 minutos.
+
+┌──────────────────────────────────────────┬───────────────────┬───────────────────┬───────────────────┐
+│                Línea 396                 │   Días hábiles    │      Sábados      │   Días festivos   │
+├──────────────────────────────────────────┼───────────────────┼───────────────────┼───────────────────┤
+│       Primera salida desde Mendoza       │       5:00        │       5:04        │       8:45        │
+├──────────────────────────────────────────┼───────────────────┼───────────────────┼───────────────────┤
+│       Última salida desde Mendoza        │       20:24       │       20:20       │       20:49       │
+├──────────────────────────────────────────┼───────────────────┼───────────────────┼───────────────────┤
+│      Primera salida desde Ciudadela      │       5:56        │       5:58        │       7:42        │
+├──────────────────────────────────────────┼───────────────────┼───────────────────┼───────────────────┤
+│      Última salida desde Ciudadela       │       21:00       │       21:13       │       21:43       │
+└──────────────────────────────────────────┴───────────────────┴───────────────────┴───────────────────┘
+
+
+Recorridos
+
+[editar]
+
+Circula en ambos sentidos por los barrios Jardines de Instrucciones, Casavalle,
+Borro, Barrio Cóppola, Cerrito de la Victoria, Brazo Oriental, Reducto, La
+Aguada, Cordón, Centro y Ciudad Vieja.
+
+Ida                                       Regreso
+
+  • Terminal Ciudadela                      • Terminal Mendoza
+  • Juncal                                  • Avenida de las Instrucciones
+  • Piedras                                 • Antillas
+  • Cerro Largo                             • Querétaro
+  • Florida                                 • Los Ángeles
+  • Mercedes                                • Avenida General San Martín
+  • Avenida Daniel Fernández Crespo         • Orsini Bertani
+  • Avenida de las Leyes                    • Doctor José Martirené
+  • Batoví                                  • Víctor Escardó y Anaya
+  • Yatay                                   • Justo Montes Pareja
+  • Avenida General San Martín              • Isidro Mas de Ayala
+  • Hum                                     • Doctor José Martirené
+  • Juan Arteaga                            • Bulevar Aparicio Saravia
+  • Chimborazo                              • Avenida General San Martín
+  • Avenida Burgues                         • Rancagua
+  • Rancagua                                • Avenida Burgues
+  • Avenida General San Martín              • Hum
+  • Bulevar Aparicio Saravia                • Avenida General San Martín
+  • Pasaje 322                              • Avenida Agraciada
+  • Camino General Leandro Gómez            • Avenida de las Leyes
+  • Doctor José Martirené                   • Madrid
+  • Isidro Mas de Ayala                     • Magallanes
+  • Justo Montes Pareja                     • Miguelete
+  • Víctor Escardó y Anaya                  • Arenal Grande
+  • Doctor José Martirené                   • Avenida Uruguay
+  • Orsini Bertani                          • Eduardo Acevedo
+  • Avenida General San Martín              • Colonia
+  • Antillas                                • Rio branco
+  • Avenida de las Instrucciones            • Avenida Uruguay
+  • Terminal Mendoza                        • Piedras
+                                            • Juncal
+                                            • Terminal Ciudadela
+                                          
+
+^[1]
+
+Destinos intermedios
+
+[editar]
+
+Vuelta
+
+[editar]
+
+  • Caja de Jubilaciones (Domingos)
+
+Referencias
+
+[editar]
+
+ 1. ↑ «Once líneas de ómnibus cambiaron su recorrido». El Pais. 11 de setiembre
+    de 2023. 
+
+Enlaces externos
+
+[editar]
+
+  • Sitio oficial de UCOT
+
+Control de autoridades   • Proyectos Wikimedia
+                         • Wd Datos: Q5986313
+
+  • Wd Datos: Q5986313
+
+*
+Obtenido de «https://es.wikipedia.org/w/index.php?title=Línea_396_(Montevideo)&
+oldid=170329256»
+Categoría:
+
+  • Líneas de ómnibus de Montevideo
+
+  • Esta página se editó por última vez el 5 nov 2025 a las 14:00.
+  • La página fue renderizada con Parsoid.
+  • El texto está disponible bajo la Licencia Creative Commons
+    Atribución-CompartirIgual 4.0; pueden aplicarse cláusulas adicionales. Al
+    usar este sitio aceptas nuestros términos de uso y nuestra política de
+    privacidad.
+    Wikipedia® es una marca registrada de la Fundación Wikimedia, una
+    organización sin ánimo de lucro.
+
+  • Política de privacidad
+  • Acerca de Wikipedia
+  • Limitación de responsabilidad
+  • Contacto legal y de seguridad
+  • Código de conducta
+  • Desarrolladores
+  • Estadísticas
+  • Declaración de cookies
+  • Versión para móviles
+
+  • Wikimedia Foundation
+  • Powered by MediaWiki
+
+Buscar
+[                    ]
+Buscar
+[ ] Cambiar a la tabla de contenidos
+Línea 396 (Montevideo)
+       
+Añadir idiomas Añadir tema
+

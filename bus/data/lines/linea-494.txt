@@ -1,0 +1,292 @@
+Ir al contenido
+[ ] Menú principal
+Menú principal
+mover a la barra lateral ocultar
+Navegación
+
+  • Portada
+  • Portal de la comunidad
+  • Actualidad
+  • Cambios recientes
+  • Páginas nuevas
+  • Página aleatoria
+  • Ayuda
+  • Notificar un error
+  • Páginas especiales
+
+[wikipe] Wikipedia La enciclopedia libre
+Buscar
+[                    ]
+Buscar
+
+[ ] Apariencia
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+[ ] Herramientas personales
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+Contenidos
+
+mover a la barra lateral ocultar
+
+  • Inicio
+  • 1 Características
+    Alternar subsección Características
+      □ 1.1 Frecuencias
+  • 2 Recorridos
+    Alternar subsección Recorridos
+      □ 2.1 Destinos intermedios
+  • 3 Referencias
+  • 4 Enlaces externos
+
+[ ] Cambiar a la tabla de contenidos
+
+Línea 494 (Montevideo)
+
+[ ] Añadir idiomas
+
+Añadir enlaces
+
+  • Artículo
+  • Discusión
+
+[ ] español
+
+  • Leer
+  • Editar
+  • Ver historial
+
+[ ] Herramientas
+Herramientas
+mover a la barra lateral ocultar
+Acciones
+
+  • Leer
+  • Editar
+  • Ver historial
+
+General
+
+  • Lo que enlaza aquí
+  • Cambios en enlazadas
+  • Subir archivo
+  • Enlace permanente
+  • Información de la página
+  • Citar esta página
+  • Obtener URL acortado
+  • Cambiar al analizador antiguo
+
+Imprimir/exportar
+
+  • Crear un libro
+  • Descargar como PDF
+  • Versión para imprimir
+
+En otros proyectos
+
+  • Elemento de Wikidata
+
+Apariencia
+mover a la barra lateral ocultar
+De Wikipedia, la enciclopedia libre
+
+                                468 ← 494 → 495
+                     Barra Santa Lucía
+Cementerio del Buceo ━━━━━━━━━━━━━━━━━
+                     Delta del Tigre
+
+por ● Terminal de Paso de la Arena
+[330px-Coche3-COETC]
+Línea 494 en Santiago Vázquez
+                                Área abastecida
+        Municipios          Montevideo, Santiago Vázquez y Ciudad del Plata
+                                  Descripción
+           Tipo             Urbana
+          Sistema           Urbanos STM
+                              • Delta del Tigre
+          Ramales             • Barra de Santa Lucía
+
+                                   Operación
+                            Duración del viaje:
+
+         Longitud             • 1 hora y 32 minutos (hasta Delta del Tigre)
+                              • 1 hora y 31 minutos (hasta Ruta 1 kilómetro 26)
+                              • 1 hora y 21 minutos (hasta Barra Santa Lucía)
+
+                                  Explotación
+          Estado            Activa
+         Operador           COETC
+[editar datos en Wikidata]
+
+La línea 494 de la red de transporte urbano de Montevideo une el Cementerio del
+Buceo con Delta del Tigre.
+
+Características
+
+[editar]
+
+[330px-Av]
+Línea 494 circulando por la Avenida Luis Batlle Berres
+
+En algunos recorridos el servicio es extendido hasta Delta del Tigre o el
+kilómetro 26 de la Ruta 1, en el departamento de San José, quedando los
+destinos de la La Barra y Delta del Tigre como destinos intermedios.
+
+Dicho recorrido fue creado en los años setenta, como un ramal un ramal de la
+entonces línea 95, la cual en los años noventa, con la desaparición de la
+Cooperativa de Transportes del Sur, y al ser adquirida por la Cooperativa de
+Obreros y Empleados del Transporte Colectivo el histórico ramal es convertido
+en una línea independiente, con la denominación actual de 494.
+
+Frecuencias
+
+[editar]
+┌──────────────────────────────────────────┬───────────────────┬───────────────────┬───────────────────┐
+│                Línea 494                 │   Días hábiles    │      Sábados      │     Domingos      │
+├──────────────────────────────────────────┼───────────────────┼───────────────────┼───────────────────┤
+│    Primera salida de Cementerio Buceo    │       00:25       │       00:25       │       00:23       │
+├──────────────────────────────────────────┼───────────────────┼───────────────────┼───────────────────┤
+│    Última salida de Cementerio Buceo     │       22:52       │       22:56       │       22:54       │
+├──────────────────────────────────────────┼───────────────────┼───────────────────┼───────────────────┤
+│   Primera salida de Barra Santa Lucía    │       01:41       │       01:44       │       01:45       │
+├──────────────────────────────────────────┼───────────────────┼───────────────────┼───────────────────┤
+│    Última salida de Barra Santa Lucía    │       21:13       │       23:28       │       21:49       │
+└──────────────────────────────────────────┴───────────────────┴───────────────────┴───────────────────┘
+┌──────────────────────────────────────────┬───────────────────┬───────────────────┬───────────────────┐
+│                Línea 494                 │   Días hábiles    │      Sábados      │     Domingos      │
+├──────────────────────────────────────────┼───────────────────┼───────────────────┼───────────────────┤
+│      Primera salida de Ruta 1 km 26      │       05:35       │       06:00       │       05:35       │
+├──────────────────────────────────────────┼───────────────────┼───────────────────┼───────────────────┤
+│      Última salida de Ruta 1 km 26       │       22:55       │       22:29       │       22:26       │
+├──────────────────────────────────────────┼───────────────────┼───────────────────┼───────────────────┤
+│    Primera salida de Delta del Tigre     │       06:02       │       05:14       │       06:02       │
+├──────────────────────────────────────────┼───────────────────┼───────────────────┼───────────────────┤
+│     Última salida de Delta del Tigre     │       22:26       │       22:55       │       22:55       │
+└──────────────────────────────────────────┴───────────────────┴───────────────────┴───────────────────┘
+
+Recorridos
+
+[editar]
+
+En varios sentidos circula por los barrios montevideanos Buceo, Pocitos Nuevo,
+Parque Batlle, Tres Cruces, Cordón, Centro, La Aguada, Arroyo Seco, Bella
+Vista, Prado, Paso Molino, Belvedere, Nuevo París, Barrio Sarandí, Paso de la
+Arena, el pueblo de Santiago Vázquez y el barrio Delta del Tigre de Ciudad del
+Plata.
+
+En algunas ocasiones y durante los días de vista, accede a los accesos de la
+Unidad Penitenciaria de Santiago Vázquez.
+
+Ida                                      • Delta del Tigre
+                                         • Goleta
+  • Cementerio del Buceo                 • Avenida del Malecón
+  • Bulevar José Batlle y Ordóñez        • Manila
+  • Avenida Ramón Anador                 • Las Perlas
+  • Avenida Alfredo Navarro              • Avenida Al Delta
+  • Avenida Américo Ricaldoni            • Ruta 1 (vieja)
+  • Avenida Italia                       • Avenida Luis Batlle Berres
+  • Salvador Ferrer Serra                • ●(Terminal de Paso de la Arena)
+  • Juan Paullier                        • Avenida Luis Batlle Berres
+  • Colonia                              • Eduardo Paz Aguirre
+  • Avenida General Rondeau              • Santa Lucía
+  • General Francisco Caraballo          • Córdoba
+  • Avenida Agraciada                    • José Llupes
+  • San Quintín                          • Avenida Agraciada
+  • Santa Lucía                          • Paraguay
+  • Eduardo Paz Aguirre                  • Avenida del Libertador
+  • Avenida Luis Batlle Berres           • Mercedes
+                                         • Eduardo Víctor Haedo
+●(Terminal de Paso de la Arena)          • Avenida Italia
+                                         • Avenida Américo Ricaldoni
+  • Avenida Luis Batlle Berres           • Avenida Alfredo Navarro
+  • Ruta 1 (vieja)                       • Avenida Ramón Anador
+  • Avenida Al Delta                     • Bulevar José Batlle y Ordóñez
+  • Las Perlas                           • Cementerio del Buceo
+  • Manila
+  • Avenida del Malecón
+  • Goleta
+  • Las Perlas
+  • Delta del Tigre
+
+
+
+^[1]En caso de que su recorrido finalice en el kilómetro 26 de la ruta 1, el
+mismo circula por el antiguo emplazamiento de la ruta 1 y continúa por las
+calles Rivera, San José, Rocha, Florida y Rivera hasta llegar a su destino. En
+su regreso circula por las mismas calles hasta su recorrido habitual.
+
+Destinos intermedios
+
+[editar]
+
+Ida
+
+ 1. Paso de la Arena
+ 2. Barra Santa Lucia
+
+
+Vuelta
+
+ 1. Palacio de la Luz
+ 2. Estadio Centenario
+
+Referencias
+
+[editar]
+
+ 1. ↑ «Once líneas de ómnibus cambiaron su recorrido y». El País (Uruguay). 11
+    de setiembre de 2023. 
+
+Enlaces externos
+
+[editar]
+
+Control de autoridades   • Proyectos Wikimedia
+                         • Wd Datos: Q16493895
+
+  • Wd Datos: Q16493895
+
+*
+Obtenido de «https://es.wikipedia.org/w/index.php?title=Línea_494_(Montevideo)&
+oldid=170371176»
+Categorías:
+
+  • Líneas de ómnibus de Montevideo
+  • Líneas de ómnibus de Ciudad del Plata
+
+  • Esta página se editó por última vez el 7 nov 2025 a las 23:40.
+  • La página fue renderizada con Parsoid.
+  • El texto está disponible bajo la Licencia Creative Commons
+    Atribución-CompartirIgual 4.0; pueden aplicarse cláusulas adicionales. Al
+    usar este sitio aceptas nuestros términos de uso y nuestra política de
+    privacidad.
+    Wikipedia® es una marca registrada de la Fundación Wikimedia, una
+    organización sin ánimo de lucro.
+
+  • Política de privacidad
+  • Acerca de Wikipedia
+  • Limitación de responsabilidad
+  • Contacto legal y de seguridad
+  • Código de conducta
+  • Desarrolladores
+  • Estadísticas
+  • Declaración de cookies
+  • Versión para móviles
+
+  • Wikimedia Foundation
+  • Powered by MediaWiki
+
+Buscar
+[                    ]
+Buscar
+[ ] Cambiar a la tabla de contenidos
+Línea 494 (Montevideo)
+       
+Añadir idiomas Añadir tema
+

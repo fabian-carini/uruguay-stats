@@ -1,0 +1,410 @@
+Ir al contenido
+[ ] Menú principal
+Menú principal
+mover a la barra lateral ocultar
+Navegación
+
+  • Portada
+  • Portal de la comunidad
+  • Actualidad
+  • Cambios recientes
+  • Páginas nuevas
+  • Página aleatoria
+  • Ayuda
+  • Notificar un error
+  • Páginas especiales
+
+[wikipe] Wikipedia La enciclopedia libre
+Buscar
+[                    ]
+Buscar
+
+[ ] Apariencia
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+[ ] Herramientas personales
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+Contenidos
+
+mover a la barra lateral ocultar
+
+  • Inicio
+  • 1 Recorridos
+    Alternar subsección Recorridos
+      □ 1.1 Destinos intermedios
+  • 2 Paradas
+  • 3 Referencias
+  • 4 Enlaces externos
+
+[ ] Cambiar a la tabla de contenidos
+
+Línea 407 (Montevideo)
+
+[ ] Añadir idiomas
+
+Añadir enlaces
+
+  • Artículo
+  • Discusión
+
+[ ] español
+
+  • Leer
+  • Editar
+  • Ver historial
+
+[ ] Herramientas
+Herramientas
+mover a la barra lateral ocultar
+Acciones
+
+  • Leer
+  • Editar
+  • Ver historial
+
+General
+
+  • Lo que enlaza aquí
+  • Cambios en enlazadas
+  • Subir archivo
+  • Enlace permanente
+  • Información de la página
+  • Citar esta página
+  • Obtener URL acortado
+  • Cambiar al analizador antiguo
+
+Imprimir/exportar
+
+  • Crear un libro
+  • Descargar como PDF
+  • Versión para imprimir
+
+En otros proyectos
+
+  • Elemento de Wikidata
+
+Apariencia
+mover a la barra lateral ocultar
+De Wikipedia, la enciclopedia libre
+
+                                405 ← 407 → 409
+Plaza España Portones Shopping
+
+[330px-Bus-hibrido-coetc407]
+                                Área abastecida
+             Municipios               Montevideo
+                                  Descripción
+                Tipo                  Urbano
+               Sistema                Urbanos STM
+                                   Operación
+              Longitud                Duración del viaje: 1 hora y 10 minutos.
+                                  Explotación
+                                        • Yutong ZK6125CHEVG (Híbrido)^[1]
+                Flota                   • Yutong E12LF Eléctrico
+
+              Operador                COETC
+                                    Esquema
+fKBHFa 0m      Plaza EspañaOrigen
+fHST   5-9m    Maldonado y Aquiles Lanza
+fHST   12-16m  Parque Rodó
+fHST   24-28m  Estadio Centenario
+fHST   35-39m  Avenida Italia y Comercio
+fHST   50-54m  Camino Carrasco
+fHST   56m-1h  La Cruz de Carrasco
+fKBHFe 1h 2-6m PortonesDestino
+[editar datos en Wikidata]
+
+[250px-Bus_stop_]
+Línea 407 en una unidad Volvo Ciferal
+
+La línea 407 de la red de transporte urbano de Montevideo une la plaza España
+con Portones Shopping.
+
+Recorridos
+
+[editar]
+
+[250px-Caio_Vitoria_COETC]
+Línea 407 con destino hacia el Templo Inglés.
+
+Circula en ambos sentidos por los barrios Ciudad Vieja, Centro, Barrio Sur,
+Palermo, Parque Rodó, Cordón, Tres Cruces, Parque Batlle, Buceo, Malvín, Malvín
+Norte, La Cruz de Carrasco y Carrasco.^[2]
+
+Ida
+
+  • ● (Terminal Plaza España)
+  • Camacuá
+  • Brecha
+  • Buenos Aires
+  • Liniers
+  • Ciudadela
+  • Maldonado
+  • Doctor Aquiles Lanza
+  • Avenida Gonzalo Ramírez
+  • Avenida Julio Herrera y Reissig
+  • Avenida Tomás Giribaldi
+  • Bulevar General Artigas
+  • Avenida Italia
+  • Avenida Estanislao López
+  • Hipólito Yrigoyen
+  • Godoy
+  • Tarragona
+  • Iguá
+  • Mataojo
+  • Mallorca
+  • Pirán
+  • Camino Carrasco
+  • Avenida Bolivia
+  • Guillermo Arrospide
+  • Catania
+  • Messina
+  • ● (Terminal Portones)
+
+Vuelta
+
+  • ● (Terminal Portones)
+  • Avenida Bolivia
+  • Camino Carrasco
+  • Pirán
+  • Mallorca
+  • Mataojo
+  • Iguá
+  • Hipólito Yrigoyen
+  • Avenida Italia
+  • Avelino Miranda
+  • Bulevar General Artigas
+  • Bulevar España
+  • Acevedo Díaz
+  • San Salvador
+  • Juan Paullier
+  • Avenida Gonzalo Ramírez
+  • Ejido
+  • Soriano
+  • Florida
+  • Canelones
+  • Camacuá
+  • ● (Terminal Plaza España)
+
+Destinos intermedios
+
+Ida
+
+  • Cruz de Carrasco
+
+Vuelta
+
+  • Estadio Centenario
+  • Parque Rodó
+  • Intendencia (Palacio Municipal)
+
+Paradas
+
+
+                               Sentido: Portones
+Código                     Parada                              Conexión
+5642   Brecha y Camacuá (Terminal Plaza España)        409
+4042   Buenos Aires y Bartolomé Mitre
+4757   Liniers y Soriano
+3242   Maldonado y Florida
+2207   Maldonado y Convención
+2208   Maldonado y Julio Herrera y Obes
+2209   Maldonado y Zelmar Michelini
+2210   Maldonado y Aquiles Lanza
+4993   Aquiles Lanza y Durazno
+4052   Avenida Gonzalo Ramírez y Ejido
+4072   Avenida Gonzalo Ramírez y Salto
+4073   Avenida Gonzalo Ramírez y Minas
+4418   Avenida Gonzalo Ramírez y Abadie Santos
+4074   Avenida Gonzalo Ramírez y Juan D. Jackson
+4085   Avenida Gonzalo Ramírez y Joaquín Requena
+2118   Avenida Julio Herrera y Reissig y Tomás
+       Giribaldi
+2065   Bulevar Artigas y 21 de Septiembre
+2066   Bulevar Artigas y Bulevar España
+2067   Bulevar Artigas y Alfredo Baldomir
+2068   Bulevar Artigas y Canelones
+2069   Bulevar Artigas y Guaná
+2070   Bulevar Artigas y Palmar
+2109   Bulevar Artigas y Lord Ponsomby
+2071   Avenida Italia y Morales
+2121   Avenida Italia y Presidente Lorenzo Batlle
+2122   Avenida Italia y Avenida Ricaldoni
+2123   Estadio Centenario
+2124   Hospital de Clínicas
+2126   Avenida Italia y Avenida Luis Alberto de
+       Herrera
+4094   Avenida Italia y Francisco Simón
+2127   Avenida Italia y Magariños Cervantes
+2128   Avenida Italia y Bulevar José Batlle y Ordóñez
+2129   Avenida Italia y Alicia Goyena
+2130   Avenida Italia y Luis Alberto Causa
+2131   Avenida Italia y Solano López
+2132   Avenida Italia y Solferino
+2133   Avenida Italia y Alto Perú
+2134   Avenida Italia y Mariscala
+2135   Avenida Italia y Santana
+2136   Avenida Italia y Caldas
+3397   Avenida Estanislao López y Candelaria
+4839   Hipólito Yrigoyen y Avenida Italia
+2913   Hipólito Yrigoyen y Julio Sosa
+4840   Hipólito Yrigoyen y Godoy
+5705   Godoy y Tarragona
+2905   Iguá y Hipólito Yrigoyen
+2906   Iguá y Calle 31
+2907   Iguá y Calle 124
+2908   Iguá y Senda 3
+2898   Mataojo y Calle 5
+2896   Mallorca y Euskal Erría
+2894   Mallorca y Euskal Erría
+2877   Mallorca y Pirán
+2892   Pirán y Emilio Castelar
+4588   Pirán y Camino Carrasco
+2790   Camino Carrasco y Aguacero
+2791   Camino Carrasco y Estado de Israel
+2792   Camino Carrasco y Veracierto
+6797   Camino Carrasco y Murillo
+2793   Camino Carrasco y Alejandro Gallinal
+2794   Camino Carrasco y Pedro Cosio
+4313   Camino Carrasco y Alberto Zum Felde
+5197   Camino Carrasco y Ana María Rubens
+2795   Camino Carrasco y Oncativo
+2796   Camino Carrasco y Avenida Bolivia
+2947   Avenida Bolivia
+2948   Avenida Bolivia y Elías Régules
+2949   Avenida Bolivia y Verona
+2950   Avenida Bolivia y Villa de Masnou
+2951   Avenida Bolivia y Guillermo Arrospide
+5386   Messina y Avenida Bolivia (Terminal Portones)   G 21 60 64 151 370 497
+                                                       546
+
+
+                             Sentido: Plaza España
+Código                     Parada                              Conexión
+4836   Messina y Avenida Bolivia (Terminal Portones)   G 21 60 64 151 370 497
+                                                       546
+2953   Avenida Bolivia y Ordeig                        105 546
+2954   Avenida Bolivia y Verona
+2955   Avenida Bolivia y Elías Regules
+2956   Avenida Bolivia
+2957   Avenida Bolivia y Manuel Techera
+2816   Camino Carrasco y Oncativo                      105 109 151 546
+2817   Camino Carrasco y Lugo
+2818   Camino Carrasco y Alberto Zum Felde
+4314   Camino Carrasco y Pedro Cosio
+5687   Camino Carrasco y Miguel Lapeyre
+2821   Camino Carrasco y Hipolito Yrigoyen
+2822   Camino Carrasco y Heraclio Ruggia
+2823   Camino Carrasco y Aguacero
+2891   Piran y Emilio Castelar
+2893   Piran y Mallorca
+2876   Mallorca y Euskal Erria
+2875   Mallorca y Euskal Erria
+2897   Mataojo y Calle 5
+2899   Igua y Senda 3
+2900   Igua y Calle 124
+2901   Igua y Calle 31
+2902   Igua e Hipólito Yrigoyen
+2914   Hipólito Yrigoyen y Godoy
+2912   Hipólito Yrigoyen y Avenida Italia
+2177   Avenida Italia y Erevan
+2178   Avenida Italia y Caldas
+2179   Avenida Italia y Alejandro Korn
+2180   Avenida Italia y Mataojo
+2181   Avenida Italia y Alto Perú
+2182   Avenida Italia y Ramallo
+2184   Avenida Italia y Juan de Díos Peza
+2185   Avenida Italia y Alicia Goyena
+2816   Avenida Italia y Bulevar José Batlle y Ordóñez
+3885   Avenida Italia y Margariños Cervantes
+2187   Avenida Italia y Francisco Simón
+2188   Avenida Italia y Avenida Luis Alberto de
+       Herrera
+2189   Hospital de Clínicas
+2190   Avenida Italia y Avenida Centenario
+2192   Avenida Italia y Presidente Berro
+2108   Tres Cruces
+2110   Bulevar Artigas y Francisco Canaro
+556    Bulevar Artigas y Avenida General Rivera
+2112   Bulevar Artigas y Guana
+2113   Bulevar Artigas y Canelones
+2055   Bulevar Artigas y Hugo Pratto
+4252   Acevedo Díaz y San Salvador
+4084   Avenida Gonzalo Ramírez y Joaquín Requena
+4066   Avenida Gonzalo Ramírez y Juan D. Jackson
+4067   Avenida Gonzalo Ramírez y Gaboto
+4068   Avenida Gonzalo Ramírez y Minas
+4069   Avenida Gonzalo Ramírez y Andrés Martínez
+       Trueba
+4070   Avenida Gonzalo Ramírez y Ejido
+3840   Ejido y Durazno
+4372   Ejido y Canelones
+3174   Soriano y Carlos Quijano
+3175   Soriano y Héctor Gutiérrez Ruíz
+6314   Soriano y Rio Negro
+3176   Soriano y Wilson Ferreira Aldunate
+5033   Soriano y Andes
+4758   Canelones y Ciudadela
+4760   Brecha y Camacuá (Terminal Plaza España)        409
+
+Referencias
+
+ 1. ↑ «¿Cómo son los nuevos ómnibus que presentan este viernes la intendencia y
+    COETC?». Montevideo Portal. Consultado el 27 de junio de 2022. 
+ 2. ↑ «Este martes 1º de octubre comienzan a regir cambios en nueve líneas de
+    transporte». La Red. 30 de setiembre de 2019. 
+
+Enlaces externos
+
+ 1. Línea 407
+ 2. Sitio oficial de COETC Archivado el 3 de julio de 2020 en Wayback Machine.
+
+Control de autoridades   • Proyectos Wikimedia
+                         • Wd Datos: Q16493883
+
+  • Wd Datos: Q16493883
+
+*
+Obtenido de «https://es.wikipedia.org/w/index.php?title=Línea_407_(Montevideo)&
+oldid=171783644»
+Categoría:
+
+  • Líneas de ómnibus de Montevideo
+
+  • Esta página se editó por última vez el 29 ene 2026 a las 14:15.
+  • La página fue renderizada con Parsoid.
+  • El texto está disponible bajo la Licencia Creative Commons
+    Atribución-CompartirIgual 4.0; pueden aplicarse cláusulas adicionales. Al
+    usar este sitio aceptas nuestros términos de uso y nuestra política de
+    privacidad.
+    Wikipedia® es una marca registrada de la Fundación Wikimedia, una
+    organización sin ánimo de lucro.
+
+  • Política de privacidad
+  • Acerca de Wikipedia
+  • Limitación de responsabilidad
+  • Contacto legal y de seguridad
+  • Código de conducta
+  • Desarrolladores
+  • Estadísticas
+  • Declaración de cookies
+  • Versión para móviles
+
+  • Wikimedia Foundation
+  • Powered by MediaWiki
+
+Buscar
+[                    ]
+Buscar
+[ ] Cambiar a la tabla de contenidos
+Línea 407 (Montevideo)
+       
+Añadir idiomas Añadir tema
+

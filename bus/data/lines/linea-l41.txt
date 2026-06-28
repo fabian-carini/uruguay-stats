@@ -1,0 +1,251 @@
+Ir al contenido
+[ ] Menú principal
+Menú principal
+mover a la barra lateral ocultar
+Navegación
+
+  • Portada
+  • Portal de la comunidad
+  • Actualidad
+  • Cambios recientes
+  • Páginas nuevas
+  • Página aleatoria
+  • Ayuda
+  • Notificar un error
+  • Páginas especiales
+
+[wikipe] Wikipedia La enciclopedia libre
+Buscar
+[                    ]
+Buscar
+
+[ ] Apariencia
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+[ ] Herramientas personales
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+Contenidos
+
+mover a la barra lateral ocultar
+
+  • Inicio
+  • 1 Historia
+  • 2 Recorridos
+  • 3 Referencias
+  • 4 Enlaces externos
+
+[ ] Cambiar a la tabla de contenidos
+
+Línea L41 (Montevideo)
+
+[ ] Añadir idiomas
+
+Añadir enlaces
+
+  • Artículo
+  • Discusión
+
+[ ] español
+
+  • Leer
+  • Editar
+  • Ver historial
+
+[ ] Herramientas
+Herramientas
+mover a la barra lateral ocultar
+Acciones
+
+  • Leer
+  • Editar
+  • Ver historial
+
+General
+
+  • Lo que enlaza aquí
+  • Cambios en enlazadas
+  • Subir archivo
+  • Enlace permanente
+  • Información de la página
+  • Citar esta página
+  • Obtener URL acortado
+  • Cambiar al analizador antiguo
+
+Imprimir/exportar
+
+  • Crear un libro
+  • Descargar como PDF
+  • Versión para imprimir
+
+En otros proyectos
+
+  • Elemento de Wikidata
+
+Apariencia
+mover a la barra lateral ocultar
+De Wikipedia, la enciclopedia libre
+
+                                L40 ← L41 → L46
+●                        Avenida Luis Braille
+(Intercambiador Belloni) Vista Linda
+
+por ● (Intercambiador Belloni)
+[330px-L]
+Línea L41 en el Intercambiador Belloni.
+                                Área abastecida
+           Municipios             ● Montevideo
+                                  Descripción
+              Tipo                Local
+             Sistema              Sistema de Transporte Metropolitano
+                                   Operación
+                                    • 23 minutos (hacia Intercambiador Belloni)
+            Longitud                • 20 minutos (hacia Avenida Luis Braille)
+
+                                    • 19 (hacia Intercambiador Belloni)
+             Paradas                • 16 (hacia Avenida Luis Braille)
+
+                                  Explotación
+             Estado               Activa
+           Frecuencia             Cada 25 a 30 minutos
+            Operador              CUTCSA
+            Autoridad             Intendencia de Montevideo
+                                    Esquema
+fKBHFa 0m      Avenida Luis BrailleOrigen
+fHST   0m-2m   Sebastopol / Calle 3
+fHST   1m-3m   Juana Manso / Calle 1
+fHST   2m-4m   Avenida Luis Braille / Sebastopol
+fHST   3m-5m   Avenida Luis Braille / 12 de Octubre
+fHST   4m-6m   Marcos Salcedo / Jiménez de Aréchaga
+fHST   5m-7m   12 de Octubre / Peteroa
+fHST   7m-9m   Santiago Arrieta / Ulises Favaro
+fHST   9m-11m  Juana Manso / Cochabamba
+fHST   10m-12m Del Fuerte / Cochabamba
+fBHF   12m-14m Complejo Cultural CRECE
+fHST   13m-15m Rubén Darío / Sebastopol
+fHST   14m-16m María Manrupe / Débora Vitale D'Amico
+fHST   15m-17m Itapeby / Timbo
+fHST   17m-19m Adagio a mi país / Crece desde el pie
+fHST   18m-20m Veracierto / Calle 5
+fHST   19m-21m Veracierto / Puntas de Soto
+fHST   20m-22m Escuela Técnica de Flor de Maroñas
+fKBHFe 22m-24m Intercambiador BelloniDestino
+[editar datos en Wikidata]
+
+La línea L41 es una línea local del Intercambiador Belloni, uniendo dicho
+intercambiador con el barrio Vista Linda.
+
+Historia
+
+[editar]
+
+Fue creada con el fin de sustituir al entonces ramal rojo de la línea 141, que
+unía la Plaza España con el Parque Guaraní, dicho ramal era una mezcla entre el
+ramal negro de la 141 desde Plaza España con la avenida 8 de Octubre y el
+recorrido de la línea 115 desde dicho punto hacia el Parque Guaraní, aunque con
+posteridad la línea se transformaría en un servicio nocturno. En lo que
+respecta al recorrido de la línea L41 el mismo iniciaba su recorrido en la
+intersección de la avenida 8 de octubre y Comercio. En el año 2018 tuvo una
+breve modificación, extendiéndose hacia el shopping Nuevocentro, la cual
+funcionaria por muy poco tiempo, recuperando nuevamente su anterior destino. ^[
+1]Finalmente, en el año 2019 se realiza su última modificación, comenzando a
+concentrar sus servicios en el Intercambiador Belloni como punto de llegada y
+salida.
+
+Recorridos
+
+[editar]
+
+En ambos sentidos, circula por los barrios de Flor de Maroñas, Bella Italia y
+Vista Linda.
+
+Ida                                     Vuelta
+
+  • ● Andén 1 (Intercambiador Belloni)    • Sebastopol
+  • Avenida José Belloni                  • Carlos Sabat Ercasty
+  • Veracierto                            • Calle 6
+  • Argerich                              • Calle 3
+  • José de Bejar                         • Juana Manso
+  • Marcos Sastre                         • Avenida Luis Braille
+  • General Timoteo Aparicio              • Marcos Salcedo
+  • Adagio en mi país                     • Avenida Justino Jiménez de Aréchaga
+  • Itapeby                               • 12 de Octubre
+  • Maestra Débora Vitale                 • Ombú
+  • Maestra María Manrupe                 • Santiago Arrieta
+  • Rubén Darío                           • Juana Manso
+  • Del Fuerte                            • Cochabamba
+  • Cochabamba                            • Del Fuerte
+  • Maestra Juana Manso                   • Rubén Darío
+  • Santiago Arrieta                      • Maestra María Manrupe
+  • Ombú                                  • Maestra Débora Vitale
+  • 12 de Octubre                         • Itapeby
+  • Avenida Justino Jiménez de Aréchaga   • Adagio en mi país
+  • Sebástopol                            • Veracierto
+  • Vista Linda                           • Avenida José Belloni
+                                          • ● Andén 3 (Intercambiador Belloni)
+
+
+Referencias
+
+[editar]
+
+ 1. ↑ «Comenzaron a funcionar las líneas de ómnibus 77, 173, L41, 79, 174 y 538
+    con nuevos recorridos». 5 de noviembre de 2016. p. Teledoce. Consultado el
+    30 de mayo de 2024. 
+
+Enlaces externos
+
+[editar]
+
+ 1. Línea L41 - Mapa en línea oficial de la Intendencia de Montevideo y el
+    Ministerio de Transporte
+ 2. Sitio oficial de CUTCSA
+
+Control de autoridades   • Proyectos Wikimedia
+                         • Wd Datos: Q15993766
+
+  • Wd Datos: Q15993766
+
+*
+Obtenido de «https://es.wikipedia.org/w/index.php?title=Línea_L41_(Montevideo)&
+oldid=173026065»
+Categoría:
+
+  • Líneas de ómnibus de Montevideo
+
+  • Esta página se editó por última vez el 17 abr 2026 a las 13:53.
+  • La página fue renderizada con Parsoid.
+  • El texto está disponible bajo la Licencia Creative Commons
+    Atribución-CompartirIgual 4.0; pueden aplicarse cláusulas adicionales. Al
+    usar este sitio aceptas nuestros términos de uso y nuestra política de
+    privacidad.
+    Wikipedia® es una marca registrada de la Fundación Wikimedia, una
+    organización sin ánimo de lucro.
+
+  • Política de privacidad
+  • Acerca de Wikipedia
+  • Limitación de responsabilidad
+  • Contacto legal y de seguridad
+  • Código de conducta
+  • Desarrolladores
+  • Estadísticas
+  • Declaración de cookies
+  • Versión para móviles
+
+  • Wikimedia Foundation
+  • Powered by MediaWiki
+
+Buscar
+[                    ]
+Buscar
+[ ] Cambiar a la tabla de contenidos
+Línea L41 (Montevideo)
+       
+Añadir idiomas Añadir tema
+

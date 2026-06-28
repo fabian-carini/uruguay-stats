@@ -1,0 +1,283 @@
+Ir al contenido
+[ ] Menú principal
+Menú principal
+mover a la barra lateral ocultar
+Navegación
+
+  • Portada
+  • Portal de la comunidad
+  • Actualidad
+  • Cambios recientes
+  • Páginas nuevas
+  • Página aleatoria
+  • Ayuda
+  • Notificar un error
+  • Páginas especiales
+
+[wikipe] Wikipedia La enciclopedia libre
+Buscar
+[                    ]
+Buscar
+
+[ ] Apariencia
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+[ ] Herramientas personales
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+Contenidos
+
+mover a la barra lateral ocultar
+
+  • Inicio
+  • 1 Historia
+  • 2 Características
+    Alternar subsección Características
+      □ 2.1 Frecuencias
+  • 3 Recorridos
+    Alternar subsección Recorridos
+      □ 3.1 IDA
+      □ 3.2 VUELTA
+  • 4 Referencias
+  • 5 Enlaces externos
+
+[ ] Cambiar a la tabla de contenidos
+
+Línea 546 (Montevideo)
+
+[ ] Añadir idiomas
+
+Añadir enlaces
+
+  • Artículo
+  • Discusión
+
+[ ] español
+
+  • Leer
+  • Editar
+  • Ver historial
+
+[ ] Herramientas
+Herramientas
+mover a la barra lateral ocultar
+Acciones
+
+  • Leer
+  • Editar
+  • Ver historial
+
+General
+
+  • Lo que enlaza aquí
+  • Cambios en enlazadas
+  • Subir archivo
+  • Enlace permanente
+  • Información de la página
+  • Citar esta página
+  • Obtener URL acortado
+  • Cambiar al analizador antiguo
+
+Imprimir/exportar
+
+  • Crear un libro
+  • Descargar como PDF
+  • Versión para imprimir
+
+En otros proyectos
+
+  • Elemento de Wikidata
+
+Apariencia
+mover a la barra lateral ocultar
+De Wikipedia, la enciclopedia libre
+
+La línea 546 de la red de transporte urbano de Montevideo une Portones Shopping
+con el barrio Belvedere.
+
+                                538 ← 546 → 582
+Portones Shopping  Belvedere
+
+[330px-L]
+Línea 546 circulando por la Avenida General Garibaldi
+                                Área abastecida
+              Municipios                Montevideo
+                                  Descripción
+                 Tipo                   Urbano
+                Sistema                 Urbanos STM
+             Inauguración               1963
+                                   Operación
+               Longitud                 Duración del viaje: 1 hora y 8 minutos.
+                                  Explotación
+                Estado                  Activo
+               Operador                 COMESA
+               Autoridad                Intendencia de Montevideo
+                                     Notas
+              Página web                www.come.com.uy
+[editar datos en Wikidata]
+
+[250px-Bus_Metalpar_Iguaz]
+Circulando por la Avenida 8 de Octubre.
+
+Historia
+
+[editar]
+
+Fue creada a mediados de los años sesenta como línea 46 uniendo en sus inicios
+la Estación Manga con el Cerro de Montevideo.
+
+Al poco tiempo de su creación, tras la reorganización de líneas de parte del
+gobierno departamental, a la Corporación de Ómnibus Micro-Este se le asignó la
+centena 5 para todas sus líneas, adoptando la denominación que lleva hasta la
+actualidad.
+
+La línea también tendría ciertas modificaciones en su recorrido, ya que
+comenzaría a unir el barrio de Belvedere con la Cruz de Carrasco, para
+posteriormente, en los años noventa, con la apertura de Portones Shopping
+extender su recorrido hacia dicho centro comercial, específicamente en la
+terminal homónima.^[1]
+
+Características
+
+[editar]
+
+En los días hábiles cuenta con una frecuencia diaria de ocho minutos, en los
+fines de semana y festivos su frecuencia es de entre quince y treinta minutos.
+
+Frecuencias
+
+[editar]
+┌──────────────────────────────────────────┬───────────────────┬───────────────────┬───────────────────┬───────────────────┐
+│             Lunes a viernes              │      Salida       │   Unión (Pan de   │    Barrio Reus    │      Llegada      │
+│                                          │                   │      Azúcar)      │    (Justicia)     │                   │
+├──────────────────────────────────────────┼───────────────────┼───────────────────┼───────────────────┼───────────────────┤
+│       Primer salida desde Portones       │       04:29       │       04:39       │       04:58       │       05:17       │
+├──────────────────────────────────────────┼───────────────────┼───────────────────┼───────────────────┼───────────────────┤
+│   Primer salida desde Portones con La    │                   │                   │                   │                   │
+│   unidad cuenta con accesibilidad para   │       05:25       │       05:39       │       06:04       │       06:26       │
+│        personas con discapacidad         │                   │                   │                   │                   │
+├──────────────────────────────────────────┼───────────────────┼───────────────────┼───────────────────┼───────────────────┤
+│       Última salida desde Portones       │       23:50       │       00:04       │       00:29       │       00:49       │
+├──────────────────────────────────────────┼───────────────────┼───────────────────┼───────────────────┼───────────────────┤
+│   Última salida desde Portones con La    │                   │                   │                   │                   │
+│   unidad cuenta con accesibilidad para   │       23:25       │       23:39       │       00:04       │       00:24       │
+│        personas con discapacidad         │                   │                   │                   │                   │
+└──────────────────────────────────────────┴───────────────────┴───────────────────┴───────────────────┴───────────────────┘
+┌──────────────────────────────────────────┬───────────────────┬───────────────────┬───────────────────┬───────────────────┐
+│             Lunes a viernes              │      Salida       │    Barrio Reus    │   Unión (Pan de   │      Llegada      │
+│                                          │                   │    (Justicia)     │      Azúcar)      │                   │
+├──────────────────────────────────────────┼───────────────────┼───────────────────┼───────────────────┼───────────────────┤
+│      Primer salida desde Belvedere       │       04:40       │       05:01       │       05:24       │       05:38       │
+├──────────────────────────────────────────┼───────────────────┼───────────────────┼───────────────────┼───────────────────┤
+│   Primer salida desde Belvedere con La   │                   │                   │                   │                   │
+│   unidad cuenta con accesibilidad para   │       05:08       │       05:29       │       05:52       │       06:06       │
+│        personas con discapacidad         │                   │                   │                   │                   │
+├──────────────────────────────────────────┼───────────────────┼───────────────────┼───────────────────┼───────────────────┤
+│      Última salida desde Belvedere       │       23:45       │       00:05       │       00:28       │       00:40       │
+├──────────────────────────────────────────┼───────────────────┼───────────────────┼───────────────────┼───────────────────┤
+│   Última salida desde Belvedere con La   │                   │                   │                   │                   │
+│   unidad cuenta con accesibilidad para   │       23:20       │       23:43       │       00:07       │       00:22       │
+│        personas con discapacidad         │                   │                   │                   │                   │
+└──────────────────────────────────────────┴───────────────────┴───────────────────┴───────────────────┴───────────────────┘
+
+Recorridos
+
+[editar]
+
+Círcula por algunos barrios montevideanos como: Carrasco Norte (por la Avenida
+Bolivia), La Cruz de Carrasco, Malvín Norte, Unión, La Blanqueada, Jacinto Vera
+, La Comercial, Villa Muñoz, Goes, Aguada, Arroyo Seco, Reducto, Prado, Paso
+Molino y Belvedere.
+
+IDA                                     VUELTA
+
+  • ● (Terminal Portones)                 • Belvedere
+  • Avenida Bolivia                       • Doctor Pedro Visca
+  • Camino Carrasco                       • Avenida Carlos María Ramírez
+  • Juan Julio Raissingier                • Avenida Agraciada
+  • Avenida 8 de Octubre                  • Maturana
+  • Avenida General José Garibaldi        • Bulevar General Artigas
+  • Bulevar General Artigas               • Avenida Millán
+  • Cuñapirú                              • Blandengues
+  • Doctor Juan José de Amézaga           • Arenal Grande
+  • Justicia                              • Justicia
+  • Juan Carlos Patrón                    • Doctor Juan José de Amézaga
+  • Inca                                  • Avenida General José Garibaldi
+  • Domingo Aramburú                      • Avenida Doctor Manuel Albo
+  • Avenida Millán                        • Gerardo Grasso
+  • Grito de Asencio                      • Avenida General José Garibaldi
+  • Julia Guarino Fietcher                • Avenida 8 de Octubre
+  • Bulevar General Artigas               • Pan de Azúcar
+  • Avenida Agraciada                     • Camino Carrasco
+  • San Quintín                           • Avenida Bolivia
+  • Juan B. Pandiani                      • Guillermo Arrospide
+  • Avenida Carlos María Ramírez          • Catania
+  • Carlos de la Vega                     • Messina
+  • Madre Francisca Rubatto               • ● (Terminal Portones)
+  • Doctor Pedro Visca                  
+  • Belvedere
+
+
+Referencias
+
+[editar]
+
+ 1. ↑ «COMESA: 46 AÑOS DE LA EMPRESA "MICRO"». 22 de julio de 2009. p. Grupo
+    ACLO. Consultado el 8 de noviembre de 2021. 
+
+Control de autoridades   • Proyectos Wikimedia
+                         • Wd Datos: Q5986555
+
+  • Wd Datos: Q5986555
+
+Enlaces externos
+
+[editar]
+
+ 1. Línea 546
+ 2. Sitio oficial STM
+ 3. Sitio oficial de COMESA
+
+*
+Obtenido de «https://es.wikipedia.org/w/index.php?title=Línea_546_(Montevideo)&
+oldid=172211021»
+Categoría:
+
+  • Líneas de ómnibus de Montevideo
+
+  • Esta página se editó por última vez el 24 feb 2026 a las 00:39.
+  • La página fue renderizada con Parsoid.
+  • El texto está disponible bajo la Licencia Creative Commons
+    Atribución-CompartirIgual 4.0; pueden aplicarse cláusulas adicionales. Al
+    usar este sitio aceptas nuestros términos de uso y nuestra política de
+    privacidad.
+    Wikipedia® es una marca registrada de la Fundación Wikimedia, una
+    organización sin ánimo de lucro.
+
+  • Política de privacidad
+  • Acerca de Wikipedia
+  • Limitación de responsabilidad
+  • Contacto legal y de seguridad
+  • Código de conducta
+  • Desarrolladores
+  • Estadísticas
+  • Declaración de cookies
+  • Versión para móviles
+
+  • Wikimedia Foundation
+  • Powered by MediaWiki
+
+Buscar
+[                    ]
+Buscar
+[ ] Cambiar a la tabla de contenidos
+Línea 546 (Montevideo)
+       
+Añadir idiomas Añadir tema
+

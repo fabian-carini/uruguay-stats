@@ -1,0 +1,276 @@
+Ir al contenido
+[ ] Menú principal
+Menú principal
+mover a la barra lateral ocultar
+Navegación
+
+  • Portada
+  • Portal de la comunidad
+  • Actualidad
+  • Cambios recientes
+  • Páginas nuevas
+  • Página aleatoria
+  • Ayuda
+  • Notificar un error
+  • Páginas especiales
+
+[wikipe] Wikipedia La enciclopedia libre
+Buscar
+[                    ]
+Buscar
+
+[ ] Apariencia
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+[ ] Herramientas personales
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+Contenidos
+
+mover a la barra lateral ocultar
+
+  • Inicio
+  • 1 Creación
+  • 2 Recorridos
+  • 3 Barrios
+  • 4 Destinos Intermedios
+  • 5 Referencias
+  • 6 Enlaces externos
+
+[ ] Cambiar a la tabla de contenidos
+
+Línea L29 (Montevideo)
+
+[ ] Añadir idiomas
+
+Añadir enlaces
+
+  • Artículo
+  • Discusión
+
+[ ] español
+
+  • Leer
+  • Editar
+  • Ver historial
+
+[ ] Herramientas
+Herramientas
+mover a la barra lateral ocultar
+Acciones
+
+  • Leer
+  • Editar
+  • Ver historial
+
+General
+
+  • Lo que enlaza aquí
+  • Cambios en enlazadas
+  • Subir archivo
+  • Enlace permanente
+  • Información de la página
+  • Citar esta página
+  • Obtener URL acortado
+  • Cambiar al analizador antiguo
+
+Imprimir/exportar
+
+  • Crear un libro
+  • Descargar como PDF
+  • Versión para imprimir
+
+En otros proyectos
+
+  • Elemento de Wikidata
+
+Apariencia
+mover a la barra lateral ocultar
+De Wikipedia, la enciclopedia libre
+
+                              L28 ← L29 → L30
+          Complejo América
+Belvedere ━━━━━━━━━━━━━━━━━
+          La Carbonera
+
+por ● (Terminal Colón)
+                              Área abastecida
+      Municipios        Montevideo
+                                Descripción
+         Tipo           Local
+                                 Operación
+                        Duración del viaje:
+
+                          • 51 minutos en la ida hacia Complejo América
+       Longitud           • 53 minutos en la ida hacia La Carbonera.
+                          • 50 minutos en la vuelta desde La Carbonera
+                          • 48 minutos en la vuelta desde Complejo América
+
+                                Explotación
+        Estado          Servicio activo
+       Operador         COETC
+[editar datos en Wikidata]
+
+[250px-Bus_COETC]
+Línea L29 circulando por el Corredor Garzón
+
+
+La línea L29 es una línea local de Montevideo, une los barrios Belvedere y
+Colón. Es considerada una de las líneas locales más largas, debido a lo amplio
+de su recorrido.
+
+Creación
+
+[editar]
+
+Fue creada en el año 2009 a modo de sustitución de la línea 411, la cual dejó
+de funcionar ese mismo año debido a reestructuras de líneas que implementó la
+Departamento de Movilidad de Montevideo con motivo de la implementación del
+Sistema de Transporte Metropolitano.
+
+Para cubrir el recorrido de la línea 411, el cual iba desde Paso Molino hacia
+el Templo Inglés se reforzó la cantidad de coches en la línea 409.
+
+Recorridos
+
+[editar]
+Ida                                     Vuelta
+
+Hacia La Carbonera                      Desde La Carbonera
+
+  • Belvedere                             • Camino Hilario Cabrera
+  • Avenida Agraciada                     • Avenida Cesar Mayo Gutiérrez
+  • Camino Castro                         • Avenida General Eugenio Garzón
+  • Avenida Millán                        • Camino Carmelo Colman
+  • Carlos Casaravilla                    • ● Andén 4 (Terminal Colón)
+  • Dr. Alberto Zubiria                   • Camino Carmelo Colman
+  • Bulevar José Batlle y Ordóñez         • Corredor Garzón
+  • Avenida de las Instrucciones          • Plaza Vidiella
+  • Camino General Máximo Santos          • Albérico Passadore
+  • Avenida Sayago                        • Hudson
+  • Camino Edison                         • Juan Mac Coll
+  • Camino Coronel Raíz                   • Camino Durán
+  • Bulevar Aparicio Saravia              • Camino Manuel Fortet
+  • Enrique George                        • Enrique George
+  • Camino Manuel Fortet                  • Bulevar Aparicio Saravia
+  • Camino Durán                          • Camino Coronel Raíz
+  • Juan Mac Coll                         • Camino Edison
+  • Hudson                                • Avenida Sayago
+  • Avenida General Eugenio Garzón        • Camino General Máximo Santos
+  • Camino Carmelo Colman                 • Avenida de las Instrucciones
+  • ● Andén 6 (Terminal Colón)            • Haig
+  • Camino Colman                         • Víctor Hugo
+  • Avenida General Eugenio Garzón        • Bulevar José Batlle y Ordóñez
+  • Avenida César Mayo Gutiérrez          • Dr. Alberto Zubiria
+  • Camino Hilario Cabrera                • Avenida Millán
+  • La Carbonera                          • Camino Castro
+                                          • Avenida Agraciada
+                                          • San Quintín
+Hacia Complejo América                    • Juan B Pandiani
+
+  • Ruta anterior                       Continua sin Espera
+  • ● Andén 6 (Terminal Colón)
+  • Camino Carmelo Colman
+  • Corredor Garzón                     Desde Complejo América
+  • Calderón de la Barca
+  • Camino Durán                          • Juan Bonmesadri
+  • Yegros                                • Camino Durán
+  • Andrés                                • Calderón de la Barca
+  • Juan Bonmesadri                       • Corredor Garzón
+                                          • Camino Carmelo Colman
+Complejo América                          • ● Andén 6 (Terminal Colón)
+                                          • Camino Carmelo Colman
+                                          • Corredor Garzón
+
+                                        Sigue a su ruta habitual..
+
+                                          • Terminal Paso Molino
+
+
+Barrios
+
+[editar]
+
+El L29 pasa por los barrios: Paso Molino, Prado, Paso de las Duranas,
+Lavalleja, Peñarol, Pueblo Ferrocarril, Colón, Colón Norte, Abayubá y La
+Carbonera.
+
+Destinos Intermedios
+
+[editar]
+
+IDA
+
+  • Terminal Colón
+
+VUELTA
+
+  • Paso Molino
+
+Referencias
+
+[editar]
+
+Control de autoridades   • Proyectos Wikimedia
+                         • Wd Datos: Q15993811
+
+  • Wd Datos: Q15993811
+
+Enlaces externos
+
+[editar]
+
+ 1. https://www.montevideo.gub.uy/buses/mapaBuses.html / Mapa en línea oficial
+    de IMM en conjunto con MTOP, consulte la ubicación de esta línea en tiempo
+    real.
+ 2. https://www.montevideo.gub.uy/app/stm/horarios/ - Sitio Oficial de IMM /
+    Consulte Horarios
+ 3. https://m.montevideo.gub.uy/comoir/ → Sitio Oficial de IMM (versión
+    adaptada para móviles) / Consulte horarios y recorrido digitando en sus
+    recuadros de búsqueda un punto por donde pasa esta línea.
+ 4. http://www.coetc.com/
+ 5. http://grupoaclo.es.tl/Coetc-_-47-A%F1os-de-Historia.htm
+
+*
+Obtenido de «https://es.wikipedia.org/w/index.php?title=Línea_L29_(Montevideo)&
+oldid=170974423»
+Categoría:
+
+  • Líneas de ómnibus de Montevideo
+
+  • Esta página se editó por última vez el 14 dic 2025 a las 03:57.
+  • La página fue renderizada con Parsoid.
+  • El texto está disponible bajo la Licencia Creative Commons
+    Atribución-CompartirIgual 4.0; pueden aplicarse cláusulas adicionales. Al
+    usar este sitio aceptas nuestros términos de uso y nuestra política de
+    privacidad.
+    Wikipedia® es una marca registrada de la Fundación Wikimedia, una
+    organización sin ánimo de lucro.
+
+  • Política de privacidad
+  • Acerca de Wikipedia
+  • Limitación de responsabilidad
+  • Contacto legal y de seguridad
+  • Código de conducta
+  • Desarrolladores
+  • Estadísticas
+  • Declaración de cookies
+  • Versión para móviles
+
+  • Wikimedia Foundation
+  • Powered by MediaWiki
+
+Buscar
+[                    ]
+Buscar
+[ ] Cambiar a la tabla de contenidos
+Línea L29 (Montevideo)
+       
+Añadir idiomas Añadir tema
+

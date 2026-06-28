@@ -1,0 +1,358 @@
+Ir al contenido
+[ ] Menú principal
+Menú principal
+mover a la barra lateral ocultar
+Navegación
+
+  • Portada
+  • Portal de la comunidad
+  • Actualidad
+  • Cambios recientes
+  • Páginas nuevas
+  • Página aleatoria
+  • Ayuda
+  • Notificar un error
+  • Páginas especiales
+
+[wikipe] Wikipedia La enciclopedia libre
+Buscar
+[                    ]
+Buscar
+
+[ ] Apariencia
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+[ ] Herramientas personales
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+Contenidos
+
+mover a la barra lateral ocultar
+
+  • Inicio
+  • 1 Recorridos
+  • 2 Paradas
+  • 3 Barrios Servidos
+  • 4 Destinos Intermedios
+  • 5 Referencias
+  • 6 Enlaces externos
+
+[ ] Cambiar a la tabla de contenidos
+
+Línea 174 (Montevideo)
+
+[ ] Añadir idiomas
+
+Añadir enlaces
+
+  • Artículo
+  • Discusión
+
+[ ] español
+
+  • Leer
+  • Editar
+  • Ver historial
+
+[ ] Herramientas
+Herramientas
+mover a la barra lateral ocultar
+Acciones
+
+  • Leer
+  • Editar
+  • Ver historial
+
+General
+
+  • Lo que enlaza aquí
+  • Cambios en enlazadas
+  • Subir archivo
+  • Enlace permanente
+  • Información de la página
+  • Citar esta página
+  • Obtener URL acortado
+  • Cambiar al analizador antiguo
+
+Imprimir/exportar
+
+  • Crear un libro
+  • Descargar como PDF
+  • Versión para imprimir
+
+En otros proyectos
+
+  • Elemento de Wikidata
+
+Apariencia
+mover a la barra lateral ocultar
+De Wikipedia, la enciclopedia libre
+
+                                173 ← 174 → 175
+Punta Carretas Aviación Civil
+
+por ● Aeropuerto Internacional Ángel Adami
+[330px-L]
+                                  Descripción
+            Tipo              Urbano
+           Sistema            Urbanas STM
+                                   Operación
+          Longitud            Duración de viaje: 1 hora y 41 minutos
+                                  Explotación
+           Estado             Activa
+            Flota             Marcopolo Torino serie 2007 Mercedes Benz OH-1420
+          Operador            CUTCSA
+[editar datos en Wikidata]
+
+La línea 174 de la red de transporte urbano de Montevideo une la terminal Punta
+Carretas con Aviación Civil en Lezica. También cuenta con ramales que ingresan
+en la Terminal Colón y el Hospital Saint Bois.
+
+Recorridos
+
+[editar]
+                                   LÍNEA 174
+
+IDA                                      • Retorno (Aviación Civil)
+
+  • Terminal Punta Carretas              • ● (Aeropuerto Internacional Ángel S.
+  • Blvr. Gral. Artigas                    Adami)
+  • Avda. Italia
+  • Avda. Luis Alberto de Herrera        • Cno. Melilla
+  • Avda. 8 de Octubre                   • Avda. Lezica
+  • Comercio                             • Corredor Garzón
+  • José Antonio Cabrera                 • Cno. Casavalle
+  • Gobernador Viana                     • Enrique George
+  • Juan Jacobo Rousseau                 • Blvr. Aparicio Saravia
+  • Larravide                            • Avda. de las Instrucciones
+  • Avda. José Pedro Varela              • Cno. Edison
+  • Avda. Dámaso Antonio Larrañaga       • Yucutujá
+  • Robinson                             • Dr. José Ma. Silva
+  • Avda. Gral. Flores                   • Hum
+  • León Pérez                           • Avda. Gral. San Martín
+  • Francisco Romero                     • Santa Ana
+  • Santa Ana                            • Francisco Romero
+  • Avda. Gral. San Martín               • Santiago Sierra
+  • Hum                                  • Avda. Gral. Flores
+  • Juan Arteaga                         • Pte. Ing. José Serrato
+  • Chimborazo                           • Marcos de Avellaneda
+  • Avda. Burgues                        • Comercio
+  • Giro en U                            • Avda. 8 de Octubre
+  • Avda. Burgues                        • Avda. Dámaso A. Larrañaga
+  • José María Silva                     • Avda. Luis A. de Herrera
+  • Avda. de las Instrucciones           • Avda Italia
+  • Blvr. Aparicio Saravia               • Avelino Miranda
+  • Enrique George                       • Blvr. Gral. Artigas
+  • Cno. Casavalle                       • Terminal Punta Carretas
+  • Corredor Garzón
+  • Avda. Lezica                       Retorno (Melilla - Saint Bois)
+  • Cno. Melilla
+  • ● Aeropuerto Internacional Ángel     • Av. Lezica
+    S. Adami                             • Guanahany
+  • Aviación Civil                       • Vehicular Peatonal
+                                         • Hospital Saint Bois
+Ida (Aviación Civil desde Hospital       • Vehicular Peatonal
+Saint Bois                               • Cno. Fauquet
+                                         • Cno. Carmelo Colman
+  • ruta habitual por:                   • ● Andén 4 (Terminal Colón)
+  • Corredor Garzón                      • Corredor Garzón
+  • Cno. Carmelo Colman
+  • ● Andén 5 (Terminal Colón)         Continúa a su ruta habitual...
+  • Cno. Carmelo Colman
+  • Cno. Fauquet
+  • Vehicular Peatonal
+  • Hospital Saint Bois
+  • Vehicular Peatonal
+  • Guanahany
+  • Av. Lezica, hacia Aviación
+
+
+Paradas
+
+[editar]
+IDA (Desde Melilla)                     VUELTA (Desde Melilla)
+
+Código         Parada          Conexión Código         Parada          Conexión
+2061   Tabaré                           943    Calle N1
+4850   Ramón Fernández                  940    Cno Aviadores Civiles
+2062   Fco Solano Garcia                939    Mediodía
+2063   Benito Nardone                   937    Luis Morandi
+2064   Ibiray                           935    Peabody
+2065   21 De Setiembre                  933    Veraguas
+2066   Bv España                        931    Guanahany
+2067   Gral Arq Alfredo                 928    Pinta
+       Baldomir                         927    Santa Maria
+2068   Canelones                        925    Niña
+2069   Guana                            923    Juan P Lamolle
+2070   Palmar                           972    Volta
+2109   Hosp Pereira Rossell             974    Carlos Ott
+2071   Morales                          976    Caacupe
+2121   Pte. Lorenzo Batlle              978    Yegros
+2122   Av. Dr. A. Ricaldoni             5853   Av. Gral. Eugenio
+2123   Estadio Centenario                      Garzón
+2124   Hosp. Clínicas                   1192   Plaza Colon
+3443   Juan Ortiz                       1193   Carve
+3444   Cardal                           4961   Roque Viera
+3445   Mateo Vidal                      4962   Tobati
+3446   Asiló                            1734   Cno Manuel Fortet
+4865   J. Batlle y Ordóñez              2571   Bv. Aparicio Saravia
+3190   Ma. Stagnero de Munar            1746   Lamartine
+3192   Comercio                         1747   Alejandro Dumas
+3029   Asilo                            1748   Newton
+3524   Joanico                          1749   Franklin
+3493   Pte Ing Jose Serrato             1750   Monterroso
+3570   Avellaneda                       4871   Camoens
+3571   Túnez                            1753   Dante Alighieri
+3572   Agaces                           1754   Hamburgo
+3573   Tomas Claramunt                  1755   Baltimore
+3574   Ayuntamiento                     1756   Julio J Casal
+3575   Antonio Serratosa                1757   Av De Las Instrucciones
+3576   Pres Ing Jose Serrato            1758   Cno Edison
+3158   Elcano                           1696   Av De Las Instituciones
+4853   Av.Damaso A.Larrañaga            1697   Charcot
+3555   Pablo Perez                      1698   Dieulafoy
+3556   Bruselas                         4966   Pedro Fuentes
+3557   Av. Gral. Flores                 1705   Cro Norte Pta N.º 3
+2724   Juan Rosas                       1699   Cro Norte Pta N.º 2
+2725   Juan Acosta                      1700   Burgues
+2726   Norberto Ortiz                   1701   Av. Burgues
+2727   Francisco Romero                 2744   Santiago Figueredo
+2730   Guenoas                          2745   Av. Gral. San Martín
+2741   Av. Gral. San Martín             2773   Guenoas
+2742   Santiago Figueredo               2728   Leon Perez
+2743   Av. Burgues                      2720   Norberto Ortiz
+3714   Sorata                           2721   Juan Acosta
+3717   Terminal Crio Norte              2722   Juan Rosas
+3718   Dr José María Silva              2723   Av. Gral. Flores
+1702   Cro Norte Pta N.º 1              2223   San Petersburgo
+1703   Cro Norte Pta N.º 2              3558   Bruselas
+1704   Cro Norte Pta N.º 3              3559   Cnel Guillermo Muñoz
+1706   Pedro Fuentes                    3560   Jaime Roldos y Pons
+4480   Dieulafoy                        3561   San Gabriel
+1707   Charcot                          3562   Av. Damaso A. Larrañaga
+1708   Av De Las Instrucciones          3563   Av. Jose Pedro Varela
+1764   Cno Edison                       3564   20 de Febrero
+1765   Bv. Aparicio Saravia             3565   Algarrobo
+1766   Julio J Casal                    3566   Tomas Claramunt
+1767   Baltimore                        3567   Agaces
+1768   Hamburgo                         3568   Túnez
+1769   Dante Alighieri                  3569   Marcos de Avellaneda
+1770   Cno Coronel Raíz                 3499   Himalaya
+1739   Estación Peñarol                 551    Juan Jacobo Rousseau
+1740   Estrella Del Sur                 3530   Av. 8 de Octubre
+1741   Franklin                         3226   Felipe Sanguinetti
+1742   Newton                           3227   J. Batlle y Ordóñez
+1743   Alejandro Dumas                  3228   Agustín Abreu
+1744   Lamartine                        3229   Av. Damaso A. Larrañaga
+1745   Enrique George                   3461   Impasa / SMI
+2570   Cno Casavalle                    4517   Av. Italia
+1732   Tobati                           3886   P. Escuder Núñez
+1733   Roque Viera                      2189   Hosp. Clínicas
+4317   Av Gral Eugenio Garzón           2190   Av. Centenario
+1162   Carve                            2192   Pte. Berro
+1163   Lanús                            2108   Tres Cruces
+5852   Calderón de la Barca             2110   Hosp Pereira Rossell
+979    Yegros                           556    Av Gral Rivera
+977    Caacupe                          2112   Chaná
+975    Carlos Ott                       2113   Canelones
+973    Gioia                            2055   Edil Hugo Prato
+922    Juan P Lamolle                   2056   21 De Setiembre
+924    Niña                             2057   Domingo Cullen
+926    Santa Maria                      2058   Benito Nardone
+4898   Pinta                            2059   Av Julio Maria Sosa
+930    Guanahany                        4967   Tabaré
+932    Veraguas                         4991   Manuel J Errazquin
+934    Peabody
+936    Luis Morandi
+938    Mediodía
+941    E Mdia Y Aviad Civile
+942    Calle N1
+790    Cno Melilla
+
+
+Barrios Servidos
+
+[editar]
+
+El 174 pasa por los barrios: Punta Carretas, Parque Rodó, Cordón, Tres Cruces,
+Parque Batlle, La Blanqueada, La Unión, Villa Española, Perez Castellanos,
+Cerrito de la Victoria, Joanicó, Lavalleja, Peñarol, Pueblo Ferrocarril, Colón,
+Lezica y Melilla.
+
+Destinos Intermedios
+
+[editar]
+
+Ida:
+
+ 1. Terminal Colón
+ 2. Peñarol: (Aparicio Saravia y Shakespeare)
+ 3. Hospital Saint Bois (por Camino Colman)
+
+Vuelta:
+
+ 1. Gral. Flores y Serrato
+ 2. 8 de Octubre y Comercio
+ 3. Blvr. Artigas y Rivera
+
+Referencias
+
+[editar]
+
+Control de autoridades   • Proyectos Wikimedia
+                         • Wd Datos: Q16493816
+
+  • Wd Datos: Q16493816
+
+Enlaces externos
+
+[editar]
+
+ 1. https://www.montevideo.gub.uy/buses/mapaBuses.html / Mapa en línea oficial
+    de IMM en conjunto con MTOP, consulte la ubicación de esta línea en tiempo
+    real.
+ 2. http://www.cutcsa.com.uy/
+
+*
+Obtenido de «https://es.wikipedia.org/w/index.php?title=Línea_174_(Montevideo)&
+oldid=170485712»
+Categoría:
+
+  • Líneas de ómnibus de Montevideo
+
+  • Esta página se editó por última vez el 14 nov 2025 a las 14:11.
+  • La página fue renderizada con Parsoid.
+  • El texto está disponible bajo la Licencia Creative Commons
+    Atribución-CompartirIgual 4.0; pueden aplicarse cláusulas adicionales. Al
+    usar este sitio aceptas nuestros términos de uso y nuestra política de
+    privacidad.
+    Wikipedia® es una marca registrada de la Fundación Wikimedia, una
+    organización sin ánimo de lucro.
+
+  • Política de privacidad
+  • Acerca de Wikipedia
+  • Limitación de responsabilidad
+  • Contacto legal y de seguridad
+  • Código de conducta
+  • Desarrolladores
+  • Estadísticas
+  • Declaración de cookies
+  • Versión para móviles
+
+  • Wikimedia Foundation
+  • Powered by MediaWiki
+
+Buscar
+[                    ]
+Buscar
+[ ] Cambiar a la tabla de contenidos
+Línea 174 (Montevideo)
+       
+Añadir idiomas Añadir tema
+

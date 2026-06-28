@@ -1,0 +1,244 @@
+line,company_current,company_history,year_start,year_end,status,notes
+1,COETC,Transatlántica(1907-1933); S.C.M(1933-1947); AMDET(1947-1969); COTSUR(1975-1992); COETC(1992-1992),1975,1992,inactive,tramway 1907-1957; reopened as bus 1975; only ran by 6 months by COETC
+2,COETC,AMDET(1974-1975); Raincoop(1975-2016); COETC(2016-present),1974,,active,
+3,AMDET,Transatlántica(1908-~1933); S.C.M(~1933-~1948); AMDET(~1948-1975),1969,1975,inactive,"Aduana - Hipódromo de Maroñas; tram 1908-1959, trolleybus 1959-1969, bus from 1969"
+4,CUTCSA,AMDET(1956-1956); COOPTROL(1975-1992); CUTCSA(1992-2022),1992,2022,inactive,trolleybus 1956-1992 then bus
+5,COTSUR,S.C.M(1907-1939); AMDET(1956-1975); COTSUR(1975-1992),1969,1992,inactive,became 505 (COME) in 1992; trolleybus until 1969
+6,AMDET,AMDET(1948~1975-1975),1948~1975,1975,inactive,Aduana - Garibaldi y General Flores
+10,AMDET,AMDET(1948~1975-1975),1948~1975,1975,inactive,Sayago - Ariel y Camino Lecocq; local
+11,AMDET,AMDET(1948~1975-1975),1948~1975,1975,inactive,Estación Sayago - Conciliación; local
+12,AMDET,AMDET(1948~1975-1975),1948~1975,1975,inactive,Avenida Millán - Peñarol; local
+14,CUTCSA,Transatlántica(1908-1956); AMDET(1956-1975); Raincoop(1975-2016); CUTCSA(2016-2020),1975,2020,inactive,assumed to be bus since Raincoop (1975); replaced by E14 in 2020
+15,AMDET,AMDET(1948~1975-1975),1948~1975,1975,inactive,Curva de Grecia - Casabó; local
+17,UCOT,AMDET(1956-1975); COTSUR(1975-1992); Raincoop(1992-2016); UCOT(2016-present),1956,,active,
+18,AMDET,AMDET(1948~1975-1975),1948~1984,1975,inactive,Punta Carretas - Palacio de la Luz
+21,CUTCSA,AMDET(1974-1975); Raincoop(1975-2016); CUTCSA(2016-present),1974,,active,
+22,COME,COME(1963-1963),1963,1963,inactive,COME founding line; renamed to 522 by IMM renumbering Aug 1963
+25,AMDET,AMDET(1948~1975-1975),1948~1954,1975,inactive,Aduana - Borro
+32,AMDET,AMDET(1948~1975-1975),1948~1954,1975,inactive,Aduana - Curva de Maroñas
+33,AMDET,AMDET(1948~1975-1975),1948~1954,1975,inactive,Aduana - Pocitos
+51,AMDET,AMDET(1948~1975-1975),1948~1954,1975,inactive,Unión - Cerrito; local
+60,CUTCSA,AMDET(1959-1975); COOPTROL(1975-1992); CUTCSA(1992-present),1992,,active,became bus in 1992
+62,CUTCSA,AMDET(1951-1975); COOPTROL(1975-1992); CUTCSA(1992-present),1992,,active,was trolleybus until 1992
+64,CUTCSA,AMDET(1955-1975); COOPTROL(1975-1992); CUTCSA(1992-present),1992,,active,Supresión 2020 + Reapertura 2021 = temporary; currently active
+66,AMDET,AMDET(1956-1976),1956,1976,inactive,Last AMDET line to end - one year after dissolution; replaced by UCOT's 366
+68,COTSUR,AMDET(1955-1975); COTSUR(1975-1992),1975,1992,inactive,became bus in 1975; became 468 (COETC) in 1992
+71,UCOT,AMDET(1948-1975); Raincoop(1975-2016); UCOT(2016-present),1948,,active,AMDET inaugural bus line (1948);Supresión 2016 + Reapertura 2016 = brief Raincoop closure; currently active
+72,AMDET,AMDET(1948-1956),1948,1956,inactive,AMDET inaugural bus line (1948); replaced by line 4; suppression year unknown but taken to be start of line 4
+73,AMDET,AMDET(1948-1975),1948,1975,inactive,AMDET inaugural bus line (1948);
+74,AMDET,AMDET(1948-1975),1948,1975,inactive,AMDET inaugural bus line (1948);
+75,AMDET,AMDET(1948-1975),1948,1975,inactive,AMDET inaugural bus line (1948);
+76,COETC,AMDET(1948-1975); COTSUR(1975-1992); Raincoop(1992-2016); COETC(2016-present),1948,,active,AMDET inaugural bus line (1948)
+77,CUTCSA,AMDET(1948-1975); Raincoop(1975-2016); CUTCSA(2016-2020),1948,2020,inactive,AMDET inaugural bus line (1948); suppressed 2020
+78,AMDET,AMDET(1949-1955),1949,1955,inactive,replaced by line 64 in 1955
+79,UCOT,AMDET(1949-1975); Raincoop(1975-2016); UCOT(2016-present),1949,,active,
+80,AMDET,AMDET(1949-1975),1949,1975,inactive,Ciudadela - Larrañaga
+81,AMDET,AMDET(1949-1975),1949,1975,inactive,
+82,COTSUR,AMDET(1949-1975); COTSUR(1975-1992),1949,1992,inactive,became COME's line 582 in 1992
+83,AMDET,AMDET(1949-1975),1949,1975,inactive,
+84,AMDET,AMDET(1948~1975-1975),1948~1975,1975,inactive,
+85,AMDET,AMDET(1948~1975-1975),1948~1975,1975,inactive,
+86,AMDET,AMDET(1952-1955),1948,1955,inactive,became line 66 in 1955
+87,AMDET,AMDET(1954-1955),1948,1955,inactive,became line 64 in 1955
+88,AMDET,AMDET(1955-1975),1955,1975,inactive,
+89,AMDET,AMDET(1948~1975-1975),1948~1975,1975,inactive,Maroñas - Carrasco del Sauce; interurbana
+90,AMDET,AMDET(1948~1975-1975),1948~1975,1975,inactive,Estación Unión - Maroñas; local
+91,AMDET,AMDET(1948~1975-1975),1948~1975,1975,inactive,Paso Molino - Millán; local
+92,AMDET,AMDET(1948~1975-1975),1948~1975,1975,inactive,Capurro - Reducto; local
+93,AMDET,AMDET(1948~1975-1975),1948~1975,1975,inactive,Paso Molino - Tomkinson y Simón Martínez; local
+94,AMDET,AMDET(1948~1975-1975),1948~1975,1975,inactive,Malvín - Carrasco; local
+95,COTSUR,AMDET(1948~1975-1975); COTSUR(1975-1992),1948~1975,1992,inactive,became COETC's line 495 in 1992
+96,AMDET,AMDET(1948~1975-1975),1948~1975,1975,inactive,became UCOT's line 396 in 1975
+97,AMDET,AMDET(1948~1975-1975),1948~1975,1975,inactive,Paso Molino - Ganaderos y Yugoeslavia; local
+100,CUTCSA,CUTCSA(1939-present),1939,,active,not in 1938 letter-to-number renumbering; earliest possible 1939
+101,CUTCSA,Pre-CUTCSA(~1928-1937); CUTCSA(1937-2008),~1928,2008,inactive,
+102,CUTCSA,Pre-CUTCSA(~1928-1937); CUTCSA(1937-present),~1928,,active,
+103,CUTCSA,Pre-CUTCSA(~1928-1937); CUTCSA(1937-present),~1928,,active,
+104,CUTCSA,Pre-CUTCSA(~1928-1937); CUTCSA(1937-present),~1928,,active,
+105,CUTCSA,Pre-CUTCSA(~1928-1937); CUTCSA(1937-present),~1928,,active,1920s start approximate
+106,CUTCSA,Pre-CUTCSA(~1928-1937); CUTCSA(1937-2019),~1928,2019,inactive,Línea A-I route; suppressed 2019; replaced by L36/L46
+107,CUTCSA,Pre-CUTCSA(~1928-1937); CUTCSA(1937-2005),~1928,2005,inactive,Línea A route Aj; CUTCSA from 1937; suppressed with 108
+108,CUTCSA,Pre-CUTCSA(~1928-1937); CUTCSA(1937-2005),~1928,2005,inactive,Línea A route Ak; CUTCSA from 1937; suppressed with 107
+109,CUTCSA,CUTCSA(1937-present),1937,,active,
+110,CUTCSA,CUTCSA(1937-present),1937,,active,
+111,CUTCSA,CUTCSA(1939-present),1939,,active,
+112,CUTCSA,CUTCSA(1939-present),1939,,active,
+113,CUTCSA,CUTCSA(1939-present),1939,,active,
+114,CUTCSA,CUTCSA(1939-2002),1939,2002,inactive,suppressed 2002
+115,CUTCSA,CUTCSA(1939-present),1939,,active,
+116,CUTCSA,Pre-CUTCSA(1930-1937); CUTCSA(1937-present),1930,,active,Linea B
+117,CUTCSA,Pre-CUTCSA(1930-1937); CUTCSA(1937-present),1930,,active,Linea B
+118,CUTCSA,Pre-CUTCSA(1930-1937); CUTCSA(1937-unknown),1930,unknown,inactive,Línea B-B route; suppression date unknown
+121,CUTCSA,CUTCSA(1937-present),1937,,active,
+124,CUTCSA,CUTCSA(2021-present),2021,,active,created 2021 to replace D2 semidirecto
+125,CUTCSA,Pre-CUTCSA(1928-1937); CUTCSA(1937-present),1928,,active,Linea D
+126,CUTCSA,Pre-CUTCSA(1928-1937); CUTCSA(1937-2019),1928,2019,inactive,Linea D;suppressed March 2019; replaced by L26
+127,CUTCSA,Pre-CUTCSA(1928-1937); CUTCSA(1937-present),1928,,active,Linea D;1920s start approximate
+128,CUTCSA,Pre-CUTCSA(1928-1937); CUTCSA(1937-present),1928,,active,Linea D
+129,CUTSCA,Pre-CUTCSA(1928-1937); CUTCSA(1937-1990),1928,1990,inactive,Linea D; Weekend/holiday local; suppressed ~1990
+130,CUTCSA,Pre-CUTCSA(1931-1937); CUTCSA(1937-present),1931,,active,
+131,CUTCSA,Pre-CUTCSA(1925-1937); CUTCSA(1937-1997),1925,1997,inactive,Línea D route; suppressed 4 Dec 1997; replaced by L3
+133,CUTCSA,CUTCSA(1937-present),1937,,active,nocturnal line; day service replaced by L15 in 2005
+134,CUTCSA,CUTCSA(1937-1990),1937,1990,inactive,suppressed 1990 low profitability
+135,CUTCSA,CUTCSA(1937-present),1937,,active,
+136,CUTCSA,CUTCSA(1962-2005),1962,2005,active,
+137,CUTCSA,CUTCSA(1939-present),1939,,active,
+140,CUTCSA,CUTCSA(1939-present),1939,,active,
+141,CUTCSA,Pre-CUTCSA(1928-1937); CUTCSA(1937-present),1928,,active,
+142,CUTCSA,Pre-CUTCSA(1928-1937); CUTCSA(1937-present),1928,,active,
+143,CUTCSA,Pre-CUTCSA(1928-1937); CUTCSA(1937-present),1928,,active,
+144,CUTCSA,CUTCSA(1939-present),1939,,active,
+145,CUTCSA,CUTCSA(1939-present),1939,,active,
+146,CUTCSA,Pre-CUTCSA(1930-1937); CUTCSA(1937-~1990),1930,~1990,inactive,Línea F route; suppressed ~1990 low profitability
+147,CUTCSA,Pre-CUTCSA(1930-1937); CUTCSA(1937-present),1930,,active,
+148,CUTCSA,Pre-CUTCSA(1930-1937); CUTCSA(1937-present),1930,,active,
+149,CUTCSA,Pre-CUTCSA(1930-1937); CUTCSA(1937-present),1930,,active,
+150,CUTCSA,CUTCSA(1937-present),1937,,active,
+151,CUTCSA,CUTCSA(1939-present),1939,,active,
+154,CUTCSA,CUTCSA(1937-unknown),1937,unknown,inactive,
+155,CUTCSA,CUTCSA(1937-present),1937,,active,
+156,CUTCSA,CUTCSA(1937-present),1937,,active,
+157,CUTCSA,CUTCSA(1937-present),1937,,active,
+158,CUTCSA,CUTCSA(1939-present),1939,,active,
+161,CUTCSA,CUTCSA(1937-2019),1937,2019,inactive,Línea H route; suppressed March 2019
+163,CUTCSA,CUTCSA(1937-present),1937,,active,
+164,CUTCSA,CUTCSA(1937-2019),1937,2019,inactive,Línea H route; suppressed March 2019 with 161
+165,CUTCSA,CUTCSA(1939-unknown),1939,unknown,inactive,
+168,CUTCSA,Pre-CUTCSA(1930-1937); CUTCSA(1937-2008),1930,2008,inactive,Línea I route; became suburban 268 in 2008
+169,CUTCSA,CUTCSA(1937-present),1937,,active,
+170,CUTCSA,CUTCSA(1937-unknown),1937,unknown,inactive,
+171,CUTCSA,CUTCSA(1937-unknown),1937,2007,inactive,
+172,CUTCSA,CUTCSA(1937-unknown),1937,2007,inactive,
+173,CUTCSA,CUTCSA(1937-2020),1937,2020,inactive,Línea E route; suppressed 28 Jan 2020
+174,CUTCSA,CUTCSA(1937-present),1937,,active,
+175,CUTCSA,CUTCSA(2007-present),2007,,active,formed from suburbano line 275 with STM creation 2007
+180,CUTCSA,CUTCSA(1939-present),1939,,active,
+181,CUTCSA,CUTCSA(1937-present),1937,,active,
+182,CUTCSA,CUTCSA(1937-present),1937,,active,nocturnal; created by merging ramales of 181 and 183
+183,CUTCSA,CUTCSA(1937-present),1937,,active,
+185,CUTCSA,CUTCSA(1939-present),1939,,active,
+186,CUTCSA,CUTCSA(1939-present),1939,,active,
+187,CUTCSA,CUTCSA(1937-present),1937,,active,
+188,CUTCSA,CUTCSA(1938-present),1938,,active,
+191,CUTCSA,Pre-CUTCSA(1936-1937); CUTCSA(1937-present),1936,,active,Supresión 1936 = predecessor Línea Z; numbered line from 1937 (Reapertura)
+192,CUTCSA,CUTCSA(1955-present),1955,,active,
+195,CUTCSA,CUTCSA(1939-present),1939,,active,
+199,CUTCSA,CUTCSA(1939-present),1939,,active,
+201,AMDET,AMDET(1948~1975-1975),1948~1975,1975,inactive,
+202,AMDET,AMSA(1947-1947); AMDET(1949-1975),1947,1975,inactive,became Raincoop/line 2 in 1975
+203,AMDET,AMDET(1948~1975-1975),1948~1975,1975,inactive,Aduana - Plaza Virgilio
+210,AMDET,TUSA(1947-1947); AMDET(1949-1975),1947,1975,inactive,
+300,UCOT,UCOT(1963-present),1963,,active,
+306,UCOT,UCOT(1963-present),1963,,active,
+316,UCOT,UCOT(1977-present),1977,,active,
+326,COME,COME(1963-1963),1963,1963,inactive,COME founding line; renamed to 526 by IMM renumbering Aug 1963
+328,UCOT,UCOT(1994-present),1994,,active,
+329,UCOT,UCOT(1963-present),1963,,active,
+330,UCOT,UCOT(1963-present),1963,,active,
+366,UCOT,UCOT(1976-1977),1976,1977,inactive,created as replacement for 66; suppressed Sep 1977 low profitability
+370,UCOT,UCOT(1975-present),1975,,active,
+396,UCOT,UCOT(1975-present),1975,,active,successor to AMDET line 96; UCOT from 1975
+402,COETC,COETC(1963-present),1963,,active,
+404,COETC,COETC(1963-present),1963,,active,inaugural line of COETC
+405,COETC,COETC(1963-present),1963,,active,
+407,COETC,COETC(1963-present),1963,,active,
+409,COETC,COETC(1963-present),1963,,active,
+410,COETC,COETC(1963-1969),1963,1969,inactive,COETC founding line; suppressed 1969
+411,COETC,COETC(1963-2009),1963,2009,inactive,COETC founding line (initially 447; renamed 411 a week later); replaced by L29
+427,COETC,COETC(1963-present),1963,,active,
+441,COETC,COETC(1963-1963),1963,1963,inactive,COETC founding line; suppressed within months
+445,COETC,COETC(1963-1963),1963,1963,inactive,COETC founding line; suppressed within months
+447,COETC,COETC(1963-1963),1963,1963,inactive,COETC founding line; suppressed within months
+456,COETC,COETC(1963-present),1963,,active,
+468,COETC,COETC(1992-2012),1992,2012,inactive,successor to line 68; became Corredor Garzón (G) BRT in 2012
+494,COETC,COTSUR(~1975-1992); COETC(1992-present),1975,,active,started as ramal of line 95; became independent when COTSUR dissolved 1992
+505,COME,COME(1975-present),1975,,active,
+510,COME,COME(1963-unknown),1963,unknown,inactive,COME line (former tram 10); suppression date unknown
+511,COME,COME(1963-unknown),1963,unknown,inactive,COME line (former tram 11); suppression date unknown
+515,COME,COME(1963-unknown),1963,unknown,inactive,COME line (former tram 15); suppression date unknown
+522,COME,COME(1963-present),1963,,active,
+524,COME,COME(1963-present),1963,,active,
+526,COME,COME(1963-present),1963,,active,
+528,COME,COME(1963-1971),1963,1971,inactive,COME line (former tram 28); suppressed 1971
+538,COME,COME(1963-present),1963,,active,
+546,COME,COME(1963-present),1963,,active,
+582,COME,COME(1992-present),1992,,active,successor to AMDET/COTSUR line 82
+CA1,CUTCSA+UCOT+COETC,CUTCSA(2008-2020); Raincoop(2008-2016),2008,2020,inactive,centric line; replaced by CE1 (electric) 1 Jun 2020
+CE1,CUTCSA+COETC+UCOT,CUTCSA(2020-present); COETC(2020-present); UCOT(2020-present),2020,,active,replaced CA1 (Raincoop+CUTCSA 2008-2016); operated by all 3 current urban companies
+CE2,CUTCSA,CUTCSA(2024-present),2024,,active,
+D1,CUTCSA,CUTCSA(~1970-2020); CUTCSA(2025-present),~1970,,active,Directo Carrasco; replaced by DE1 (electric) 1 Jun 2020; restored as D1 13 May 2025
+D2,CUTCSA+UCOT,CUTCSA(1992-2020); UCOT(1992-2020),1992,2020,inactive,shared differential created 7 Jan 1992; became 124SD variant
+D4,COETC,COETC(1992-1992),1992,1992,inactive,short-lived differential from COETC ramal rojo of 68
+D5,CUTCSA,CUTCSA(~2010-present),~2010,,,differential Ciudad Vieja–La Paz; no founding year documented
+D8,CUTCSA,CUTCSA(1994-present),1994,,active,differential created 19 Jul 1994
+D10,CUTCSA,Raincoop(1980-2016); CUTCSA(2016-present),1980,,active,created 1980s by Raincoop; to CUTCSA 14 Jun 2016
+D11,COME,COME(1980-present),1980,,active,differential Ciudad Vieja–Barra de Carrasco; created 1980s
+DE1,CUTCSA,CUTCSA(2020-2025),2020,2025,inactive,electric differential; replaced D1 1 Jun 2020; renamed back to D1 13 May 2025
+DM1,CUTCSA+UCOT+COETC+COME,CUTCSA(2008-present); UCOT(2008-present); COETC(2008-present); COME(2008-present); Raincoop(2008-2016),2008,,active,shared metropolitan differential; also operated by COPSA
+E14,CUTCSA,CUTCSA(2020-present),2020,,active,
+G1,CUTCSA+COETC,CUTCSA(2012-2020); COETC(2012-2020),2012,2020,inactive,feeder to Terminal Colón; suppressed 2020
+G2,CUTCSA,CUTCSA(2012-unknown),2012,,inactive,
+G3,CUTCSA,CUTCSA(2012-present),2012,,active,
+G4,CUTCSA+UCOT,CUTCSA(2012-2015); UCOT(2012-2015),2012,2015,inactive,feeder to Terminal Colón; suppressed 2015
+G5,CUTCSA+Raincoop,CUTCSA(2012-2014); Raincoop(2012-2014),2012,2014,inactive,feeder to Terminal Colón; suppressed 2014
+G6,CUTCSA,CUTCSA(2012-present),2012,,active,
+G8,CUTCSA,CUTCSA(2012-present),2012,,active,
+G9,CUTCSA,CUTCSA(2012-2013),2012,2013,inactive,
+G10,CUTCSA,CUTCSA(2012-present),2012,,active,
+G11,CUTCSA,CUTCSA(2012-present),2012,,active,
+L1,CUTCSA,CUTCSA(1982-present),1982,,active,
+L2,CUTCSA,CUTCSA(~2006-present),~2006,,active,
+L3,CUTCSA,CUTCSA(1997-present),1997,,active,
+L4,CUTCSA,CUTCSA(~2007-present),~2007,,active,
+L5,CUTCSA,CUTCSA(~2007-present),~2007,,active,
+L6,CUTCSA,CUTCSA(~2007-present),~2007,,active,
+L7,COETC,COETC(~2008-present),~2008,,active,
+L8,CUTCSA,CUTCSA(1995-present),1995,,active,"suppressed 2012-2025, reopened 2025"
+L9,CUTCSA,CUTCSA(1992-present),1992,,active,"suppressed 2002-2022, reopened 2022"
+L10,CUTCSA,CUTCSA(~2008-2012),~2008,2012,inactive,local line; replaced by G10 at Terminal Colón
+L11,CUTCSA,CUTCSA(~2009-2012),~2009,2012,inactive,local line; replaced by G11 at Terminal Colón
+L12,UCOT,Raincoop(unknown-2016); UCOT(2016-present),,2016,active,Raincoop start year unknown; UCOT took over Jun 2016 after Raincoop closure
+L13,UCOT,UCOT(2008-present),2008,,active,
+L14,COETC,COETC(~2009-present),~2009,,active,
+L15,CUTCSA,CUTCSA(~2010-present),~2010,,active,brief 1990s run then suppressed; re-established ~2007
+L16,COETC,COETC(~2010-present),~2010,,active,
+L17,CUTCSA+COETC+UCOT,CUTCSA(~2006-2023); COETC(~2006-2023); UCOT(~2006-2023),~2006,2023,inactive,local Terminal Cerro; suppressed 2023
+L18,CUTCSA+COETC+UCOT,CUTCSA(~2009-2023); COETC(~2009-2023); UCOT(~2009-2023),~2009,2023,inactive,local Terminal Cerro; suppressed 2023
+L19,COETC,COETC(~2009-present),~2009,,active,
+L20,CUTCSA,CUTCSA(2002-present),2002,,active,
+L21,CUTCSA,CUTCSA(2002-2020),2002,2020,inactive,discontinued 2020
+L22,CUTCSA,CUTCSA(~2006-present),~2006,,,local Gruta de Lourdes–Capra; no founding year documented
+L23,CUTCSA,CUTCSA(2005-present),2005,,active,"suppressed 2020-2021, reopened 2021"
+L24,COME,COME(2006-present),2006,,active,
+L25,COME,UCOT(2006-2007); COME(2021-present),2006,,active,"originally UCOT (2006-07), re-created by COME in 2021"
+L26,CUTCSA,CUTCSA(2005-present),2005,,active,created with Terminal del Cerro 2005; suppressed 2015; reactivated 2019
+L27,CUTCSA,CUTCSA(2008-2008),2008,2008,inactive,test local; suppressed same year; extension of 127
+L28,CUTCSA,CUTCSA(2000-present),2000,,active,"suppressed 2002-2019, reopened 2019"
+L29,COETC,COETC(2009-present),2009,,active,replaced line 411
+L30,CUTCSA,CUTCSA(~2010-present),~2010,,active,
+L31,UCOT,UCOT(2017-present),2017,,active,
+L32,UCOT,UCOT(2021-present),2021,,active,
+L33,UCOT,UCOT(2021-present),2021,,active,
+L34,CUTCSA,CUTCSA(2021-2023),2021,2023,inactive,suppressed 2023
+L35,CUTCSA,CUTCSA(2020-present),2020,,active,
+L36,CUTCSA,CUTCSA(2019-present),2019,,active,
+L37,CUTCSA,CUTCSA(~2005-2020),~2005,2020,inactive,local Terminal Cerro-Paso de la Arena; suppressed 2020
+L38,COME,COME(2021-present),2021,,active,
+L39,CUTCSA,CUTCSA(2021-present),2021,,active,
+L40,CUTCSA,CUTCSA(2023-present),2023,,active,
+L41,CUTCSA,CUTCSA(2019-present),2019,,active,replaced ramal rojo of línea 141
+L46,CUTCSA,CUTCSA(2019-present),2019,,active,
+L47,Raincoop,Raincoop(~2005-2016),~2005,2016,inactive,
+L48,Raincoop,Raincoop(~2006-2016),~2006,2016,inactive,
+L50,Raincoop,Raincoop(~2005-2016),~2005,2016,inactive,
+L63,CUTCSA,CUTCSA(~2006-2020),~2006,2020,inactive,local Terminal Cerro-Paso de la Arena; suppressed 2020 with L37
+L64,CUTCSA,CUTCSA(2020-2022),2020,2022,inactive,inaugurated 19 May 2020; suppressed 22 Oct 2022
+L94,CUTCSA,CUTCSA(~2008-2008),~2008,2008,inactive,
+M1,CUTCSA,CUTCSA(1982-1992),1982,1992,inactive,first centric line; suppressed early 1990s
+P1,CUTCSA,CUTCSA(2020-present),2020,,active,
+P2,CUTCSA,CUTCSA(~1995-1999),~1995,1999,inactive,
+A,CUTCSA,CUTCSA(2005-2012),2005,2012,inactive,accessible line for disabled (Transporte para todos)
+B,CUTCSA,CUTCSA(2005-2012),2005,2012,inactive,accessible line for disabled (Transporte para todos)
+G,COETC,COETC(2012-present),2012,,active,
+PB,CUTCSA+COETC+UCOT+COME,,,,,special service operating only during Día del Patrimonio (Heritage Day)
+UAM1,CUTCSA+COETC+UCOT+COME,CUTCSA(2021-2024); COETC(2021-2024); UCOT(2021-2024); COME(2021-2024),2021,2024,,special service

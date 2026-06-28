@@ -1,0 +1,6 @@
+#!/bin/sh
+uv run python build_notebooks.py
+git add '*.ipynb'
+uv run ruff format
+uv run ruff check --fix
+uv run pyright

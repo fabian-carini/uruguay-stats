@@ -1,0 +1,233 @@
+Ir al contenido
+[ ] Menú principal
+Menú principal
+mover a la barra lateral ocultar
+Navegación
+
+  • Portada
+  • Portal de la comunidad
+  • Actualidad
+  • Cambios recientes
+  • Páginas nuevas
+  • Página aleatoria
+  • Ayuda
+  • Notificar un error
+  • Páginas especiales
+
+[wikipe] Wikipedia La enciclopedia libre
+Buscar
+[                    ]
+Buscar
+
+[ ] Apariencia
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+[ ] Herramientas personales
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+Contenidos
+
+mover a la barra lateral ocultar
+
+  • Inicio
+  • 1 Historia
+  • 2 Recorridos
+  • 3 Referencias
+  • 4 Enlaces externos
+
+[ ] Cambiar a la tabla de contenidos
+
+Línea L28 (Montevideo)
+
+[ ] Añadir idiomas
+
+Añadir enlaces
+
+  • Artículo
+  • Discusión
+
+[ ] español
+
+  • Leer
+  • Editar
+  • Ver historial
+
+[ ] Herramientas
+Herramientas
+mover a la barra lateral ocultar
+Acciones
+
+  • Leer
+  • Editar
+  • Ver historial
+
+General
+
+  • Lo que enlaza aquí
+  • Cambios en enlazadas
+  • Subir archivo
+  • Enlace permanente
+  • Información de la página
+  • Citar esta página
+  • Obtener URL acortado
+  • Cambiar al analizador antiguo
+
+Imprimir/exportar
+
+  • Crear un libro
+  • Descargar como PDF
+  • Versión para imprimir
+
+En otros proyectos
+
+  • Elemento de Wikidata
+
+Apariencia
+mover a la barra lateral ocultar
+De Wikipedia, la enciclopedia libre
+
+                                L27 ← L28 → L29
+Paso Molino Nuevo París
+            Islas Canarias y Coronilla
+
+                                Área abastecida
+         Municipios           Montevideo
+                                  Descripción
+            Tipo              Local
+           Sistema            Sistema de Transporte Metropolitano
+        Inauguración          2000
+          Supresión           2002
+         Reapertura           2019
+                                   Operación
+                              Duración del viaje:
+
+          Longitud              • 32 minutos en la ida
+                                • 31 minutos en la vuelta.
+
+           Paradas            33
+                                  Explotación
+           Estado             Servicio activo
+            Flota             Marcopolo Torino serie 2007 Mercedes Benz OH-1420
+                              UCOT (2000-2002)
+          Operador
+                              CUTCSA (2019-presente)
+          Autoridad           Intendencia de Montevideo
+[editar datos en Wikidata]
+
+La línea L28 es una línea local de Montevideo, que une a los barrios de Paso
+Molino y Nuevo París mediante circuito.
+
+Historia
+
+[editar]
+
+Fue creada en el año 2000 y adjudicada a la cooperativa Unión Cooperativa
+Obrera, uniendo inicialmente la Gruta de Lourdes con el Estadio Centenario en
+apoyo a la línea 328, aunque con leves diferencias en su recorrido. La misma,
+tras dos años de su creación, fue suprimida por baja rentabilidad.
+
+En el año 2019 el ramal rojo de la línea 128 es suprimido y una parte del mismo
+es convertido en una línea independiente, por lo cual en marzo de 2019 la línea
+L28 es reactivada y adjudicada a la compañía Cutcsa para operar este nuevo
+recorrido entre Paso Molino y Nuevo París.^[1]^[2]
+
+Recorridos
+
+[editar]
+Ida                                 Vuelta
+
+  • Paso Molino (Agraciada y Camino   • Nuevo París (Avenida Islas Canarias y
+    Castro)                             Coronilla)
+  • Avenida Agraciada                 • Avenida Islas Canarias
+  • San Quintín                       • Juan Camejo Soto
+  • Avenida Eugenio Garzón            • María Orticochea
+  • Avenida Islas Canarias            • Alberto Gómez Ruano
+  • Coronilla                         • Avenida Islas Canarias
+  • Dr. Carlos María de Pena          • Camino Francisco Lecocq
+  • Faramiñan                         • Dr. Carlos María de Pena
+  • General Hornos                    • Yugoeslavia
+  • Yugoeslavia                       • General Hornos
+  • Dr. Carlos María de Pena          • Faramiñan
+  • Camino Francisco Lecocq           • Dr. Carlos María de Pena
+  • Avenida Islas Canarias            • Avenida Eugenio Garzón
+  • Alberto Gómez Ruano               • José Llupes
+  • María Orticochea                  • Avenida Agraciada
+  • Juan Camejo Soto
+  • Avenida Islas Canarias
+  • Coronilla
+
+
+Referencias
+
+[editar]
+
+ 1. ↑ «Más y mejor servicio de transporte para cinco barrios». Intendencia de
+    Montevideo. 1 de marzo de 2019. Consultado el 7 de noviembre de 2022. 
+ 2. ↑ «La Intendencia de Montevideo anunció nuevas líneas de ómnibus en la
+    ciudad y la modificación de otras ya existentes». 1 de marzo de 2019. p. 
+    Telemundo (noticiero). 
+
+Control de autoridades   • Proyectos Wikimedia
+                         • Wd Datos: Q69220384
+
+  • Wd Datos: Q69220384
+
+Enlaces externos
+
+[editar]
+
+ 1. https://www.montevideo.gub.uy/buses/mapaBuses.html / Mapa en línea oficial
+    de IMM en conjunto con MTOP, consulte la ubicación de esta línea en tiempo
+    real.
+ 2. https://www.montevideo.gub.uy/app/stm/horarios/ - Sitio Oficial de IMM /
+    Consulte Horarios
+ 3. https://m.montevideo.gub.uy/comoir/ → Sitio Oficial de IMM (versión
+    adaptada para móviles) / Consulte horarios y recorrido digitando en sus
+    recuadros de búsqueda un punto por donde pasa esta línea.
+ 4. http://www.cutcsa.com.uy/
+ 5. https://moovitapp.com/montevideo-1672/lines/l28/96469970/6461361/es-419
+ 6. https://moovitapp.com/montevideo-1672/lines/l28/96469970/6461362/es-419
+
+*
+Obtenido de «https://es.wikipedia.org/w/index.php?title=Línea_L28_(Montevideo)&
+oldid=173061869»
+Categoría:
+
+  • Líneas de ómnibus de Montevideo
+
+  • Esta página se editó por última vez el 19 abr 2026 a las 21:07.
+  • La página fue renderizada con Parsoid.
+  • El texto está disponible bajo la Licencia Creative Commons
+    Atribución-CompartirIgual 4.0; pueden aplicarse cláusulas adicionales. Al
+    usar este sitio aceptas nuestros términos de uso y nuestra política de
+    privacidad.
+    Wikipedia® es una marca registrada de la Fundación Wikimedia, una
+    organización sin ánimo de lucro.
+
+  • Política de privacidad
+  • Acerca de Wikipedia
+  • Limitación de responsabilidad
+  • Contacto legal y de seguridad
+  • Código de conducta
+  • Desarrolladores
+  • Estadísticas
+  • Declaración de cookies
+  • Versión para móviles
+
+  • Wikimedia Foundation
+  • Powered by MediaWiki
+
+Buscar
+[                    ]
+Buscar
+[ ] Cambiar a la tabla de contenidos
+Línea L28 (Montevideo)
+       
+Añadir idiomas Añadir tema
+

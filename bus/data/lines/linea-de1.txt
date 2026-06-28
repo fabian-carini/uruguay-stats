@@ -1,0 +1,237 @@
+Ir al contenido
+[ ] Menú principal
+Menú principal
+mover a la barra lateral ocultar
+Navegación
+
+  • Portada
+  • Portal de la comunidad
+  • Actualidad
+  • Cambios recientes
+  • Páginas nuevas
+  • Página aleatoria
+  • Ayuda
+  • Notificar un error
+  • Páginas especiales
+
+[wikipe] Wikipedia La enciclopedia libre
+Buscar
+[                    ]
+Buscar
+
+[ ] Apariencia
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+[ ] Herramientas personales
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+Contenidos
+
+mover a la barra lateral ocultar
+
+  • Inicio
+  • 1 Creación
+  • 2 Recorrido
+  • 3 Referencias
+  • 4 Enlaces externos
+
+[ ] Cambiar a la tabla de contenidos
+
+Línea DE1 (Montevideo)
+
+[ ] Añadir idiomas
+
+Añadir enlaces
+
+  • Artículo
+  • Discusión
+
+[ ] español
+
+  • Leer
+  • Editar
+  • Ver historial
+
+[ ] Herramientas
+Herramientas
+mover a la barra lateral ocultar
+Acciones
+
+  • Leer
+  • Editar
+  • Ver historial
+
+General
+
+  • Lo que enlaza aquí
+  • Cambios en enlazadas
+  • Subir archivo
+  • Enlace permanente
+  • Información de la página
+  • Citar esta página
+  • Obtener URL acortado
+  • Cambiar al analizador antiguo
+
+Imprimir/exportar
+
+  • Crear un libro
+  • Descargar como PDF
+  • Versión para imprimir
+
+En otros proyectos
+
+  • Elemento de Wikidata
+
+Apariencia
+mover a la barra lateral ocultar
+De Wikipedia, la enciclopedia libre
+
+                                D4 ← DE1 → M1
+Ciudad Vieja  Carrasco
+
+[330px-Montevideo_]
+Línea DE1 sobre la Avenida 18 de Julio
+                               Área abastecida
+   Municipios    Montevideo
+                                 Descripción
+      Tipo       Urbano
+    Sistema      Diferencial STM
+  Inauguración   2020
+   Supresión     2025
+Zonas tarifarias Diferencial
+    Circula      Avenida 18 de Julio / Rambla de Montevideo
+                                 Explotación
+     Estado      Suprimida
+   Frecuencia    Todos los días
+     Flota       BYD New K9
+Velocidad media  75 km/h
+    Operador     CUTCSA
+                                    Notas
+Características  Unidades aptas para discapacitados Unidades con aire
+                 acondicionado Unidades con Wi-Fi Unidades con puertos USB
+[editar datos en Wikidata]
+
+La línea DE1 de la red de transporte urbano de Montevideo fue una línea
+diferencial que unía la Ciudad Vieja o la Plaza Independencia con Carrasco.^[1]
+
+Creación
+
+[editar]
+
+Fue creada el 1 de junio de 2020 para sustituir a la línea D1. Su objetivo era
+mantener los mismos destinos que la línea anterior, pero con ligeras
+modificaciones en su recorrido. La misma era prestada por ómnibus eléctricos
+marca BYD, los cuales cuentan con aire acondicionado y accesibilidad universal,
+además, en su interior cuentan con conexión Wi-Fi y tomas USB para cargadores
+móviles.
+
+A partir del año 2022 esta línea -al igual que todas las diferenciales- incluía
+el beneficio del boleto de 2 horas, un boleto que entre otros beneficios,
+permite a los usuarios combinar las líneas diferenciales con líneas urbanas y
+entre sí. Para acceder a este boleto, el usuario debe contar siempre con su
+tarjeta STM.^[2]
+
+Desde el 13 de mayo de 2025 esta línea vuelve a denominarse como D1 dejando sin
+efecto el cambio a DE1 suprimiendo así esta denominación. Se mantiene el
+recorrido.
+
+Recorrido
+
+[editar]
+
+Su recorrido era en ambos sentidos por los barrios: Carrasco, Punta Gorda,
+Malvín, Buceo, Pocitos, Parque Rodó, Cordón, Centro y Ciudad Vieja.
+
+                                   LÍNEA DE1
+
+Partida (Ciudad Vieja)                  Retorno (Carrasco)
+
+  • Buenos Aires                          • Dr. Eduardo Blanco Acevedo
+  • Circunvalación Plaza Independencia    • Mones Roses
+  • Avenida 18 de Julio                   • Avenida Alfredo Arocena
+  • Constituyente                         • Rambla República de México
+  • Canelones                             • Coímbra
+  • Juan Manuel Blanes                    • Rambla O'Higgins
+  • Maldonado                             • Rambla República de Chile
+  • Bulevar España                        • Rambla Armenia
+  • Rambla República del Perú             • Rambla República del Perú
+  • Rambla Armenia                        • Bulevar España
+  • Rambla República de Chile             • Constituyente
+  • Rambla O'Higgins                      • Canelones
+  • Coímbra                               • Doctor Javier Barrios Amorín
+  • Rambla República de México            • Constituyente
+  • Avenida Alfredo Arocena               • Avenida 18 de Julio
+  • Mones Roses                           • Circunvalación Plaza Independencia
+  • Sir Millington Drake                  • Ciudadela
+  • Avenida Italia                        • 25 de Mayo
+  • Santa Mónica                          • Juan Lindolfo Cuestas
+  • Terminal Carrasco                     • Buenos Aires
+
+                                        CONTINÚA SIN ESPERA...
+
+
+Referencias
+
+[editar]
+
+ 1. ↑ «Montevideo tiene nuevo circuito de transporte eléctrico». LARED21. 2 de
+    junio de 2020. Consultado el 7 de noviembre de 2021. 
+ 2. ↑ «Más convivencia y nuevos beneficios para el STM». Intendencia de
+    Montevideo. 10 de noviembre de 2022. Consultado el 13 de noviembre de 2022.
+     
+
+Enlaces externos
+
+[editar]
+
+ 1. Sitio de CUTCSA
+
+Control de autoridades   • Proyectos Wikimedia
+                         • Wd Datos: Q97163418
+
+  • Wd Datos: Q97163418
+
+*
+Obtenido de «https://es.wikipedia.org/w/index.php?title=Línea_DE1_(Montevideo)&
+oldid=171534457»
+Categorías:
+
+  • Líneas de ómnibus de Montevideo fuera de servicio
+  • Líneas del circuito eléctrico de Montevideo
+
+  • Esta página se editó por última vez el 16 ene 2026 a las 09:58.
+  • La página fue renderizada con Parsoid.
+  • El texto está disponible bajo la Licencia Creative Commons
+    Atribución-CompartirIgual 4.0; pueden aplicarse cláusulas adicionales. Al
+    usar este sitio aceptas nuestros términos de uso y nuestra política de
+    privacidad.
+    Wikipedia® es una marca registrada de la Fundación Wikimedia, una
+    organización sin ánimo de lucro.
+
+  • Política de privacidad
+  • Acerca de Wikipedia
+  • Limitación de responsabilidad
+  • Contacto legal y de seguridad
+  • Código de conducta
+  • Desarrolladores
+  • Estadísticas
+  • Declaración de cookies
+  • Versión para móviles
+
+  • Wikimedia Foundation
+  • Powered by MediaWiki
+
+Buscar
+[                    ]
+Buscar
+[ ] Cambiar a la tabla de contenidos
+Línea DE1 (Montevideo)
+       
+Añadir idiomas Añadir tema
+

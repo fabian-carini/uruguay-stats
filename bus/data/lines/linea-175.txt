@@ -1,0 +1,366 @@
+Ir al contenido
+[ ] Menú principal
+Menú principal
+mover a la barra lateral ocultar
+Navegación
+
+  • Portada
+  • Portal de la comunidad
+  • Actualidad
+  • Cambios recientes
+  • Páginas nuevas
+  • Página aleatoria
+  • Ayuda
+  • Notificar un error
+  • Páginas especiales
+
+[wikipe] Wikipedia La enciclopedia libre
+Buscar
+[                    ]
+Buscar
+
+[ ] Apariencia
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+[ ] Herramientas personales
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+Contenidos
+
+mover a la barra lateral ocultar
+
+  • Inicio
+  • 1 Historia
+  • 2 Recorridos
+    Alternar subsección Recorridos
+      □ 2.1 IDA
+      □ 2.2 VUELTA
+  • 3 Paradas
+  • 4 Destinos intermedios
+  • 5 Véase también
+  • 6 Referencias
+
+[ ] Cambiar a la tabla de contenidos
+
+Línea 175 (Montevideo)
+
+[ ] Añadir idiomas
+
+Añadir enlaces
+
+  • Artículo
+  • Discusión
+
+[ ] español
+
+  • Leer
+  • Editar
+  • Ver historial
+
+[ ] Herramientas
+Herramientas
+mover a la barra lateral ocultar
+Acciones
+
+  • Leer
+  • Editar
+  • Ver historial
+
+General
+
+  • Lo que enlaza aquí
+  • Cambios en enlazadas
+  • Subir archivo
+  • Enlace permanente
+  • Información de la página
+  • Citar esta página
+  • Obtener URL acortado
+  • Cambiar al analizador antiguo
+
+Imprimir/exportar
+
+  • Crear un libro
+  • Descargar como PDF
+  • Versión para imprimir
+
+En otros proyectos
+
+  • Elemento de Wikidata
+
+Apariencia
+mover a la barra lateral ocultar
+De Wikipedia, la enciclopedia libre
+
+                               174 ← 175 → 180
+Ciudadela Las Piedras
+
+[330px-L]
+Línea 175 sobre la Avenida Don Pedro de Mendoza
+                               Área abastecida
+              Municipios               Montevideo / Las Piedras
+              Distritos                Área metropolitana de Montevideo
+                                 Descripción
+                 Tipo                  Urbano
+               Sistema                 Urbanas STM
+                                  Operación
+               Longitud                Duración del viaje: 1 hora y 28
+                                       minutos.
+                                 Explotación
+                Estado                 Activo
+               Operador                CUTCSA
+[editar datos en Wikidata]
+
+La línea 175 es una línea de ómnibus urbana del área metropolitana de
+Montevideo (Uruguay). Es operada por Cutcsa, y une la Ciudadela de Montevideo
+con la ciudad de Las Piedras en Canelones. La ida es Las Piedras y la vuelta
+Ciudadela.
+
+Historia
+
+[editar]
+
+[250px-]
+Línea 175 y una histórica unidad Leyland Olympic
+
+Inicialmente su recorrido era casi similar al actual, solo que no accedía a la
+ciudad de Las Piedras y su destino estaba establecido en el límite
+departamental de Canelones y Montevideo, específicamente en el Puente de Las
+Piedras. Por otra parte, al igual que con las líneas 127 y 227 y las líneas 130
+y 230, existía también la línea 275 de carácter suburbano, la cual accedía a la
+ciudad, pero con una tarifa más elevada, debido a que pasaba el límite
+departamental.
+
+En el año 2007 y a consecuencia de la implantación del Sistema de Transporte
+Metropolitano se decide fusionar ambas líneas y disolver la línea 275,
+permitiendo en esta nueva modificación el ingreso de la línea 175 a la ciudad.^
+[1]^[2]
+
+
+Recorridos
+
+[editar]
+
+Circula por los barrios Centro, Cordón, Cordón Norte, La Aguada, Goes, Jacinto
+Vera, Brazo Oriental, Cerrito de la Victoria, Pérez Castellanos, Marconi,
+Plácido Ellauri, Nuevo Ellauri, Piedras Blancas, Manga, Puntas del Miguelete,
+Toledo Chico, las áreas que conforman el Montevideo Rural, 19 de Abril y la
+Ciudad de Las Piedras.
+
+IDA                                       VUELTA
+
+  • Terminal Ciudadela                      • Pilar Cabrera
+  • Juncal                                  • Batlle y Ordóñez
+  • Piedras                                 • República Argentina
+  • Florida                                 • Manuel Oribe
+  • Cerro Largo                             • Camino América
+  • Mercedes                                • Camino Carlos Burmester
+  • Avenida Daniel Fernández Crespo         • Camino a la Cuchilla Pereira
+  • Avenida de las Leyes                    • Avenida Don Pedro de Mendoza
+  • Avenida General Flores                  • Corredor General Flores
+  • Corredor General Flores                 • Avenida General Flores
+  • Avenida Don Pedro de Mendoza            • Avenida de Las Leyes
+  • Camino a la Cuchilla Pereira            • Madrid
+  • Camino Burmester                        • Magallanes
+  • Camino América                          • Miguelete
+  • Manuel Oribe                            • Arenal Grande
+  • General Flores                          • Avenida Uruguay
+  • José Garibaldi                          • Eduardo Acevedo
+  • Baltasar Brum                           • Colonia
+  • Pilar Cabrera                           • Río Branco
+                                            • Avenida Uruguay
+                                            • 25 de Mayo
+                                            • Juncal
+                                            • Terminal Ciudadela
+                                          
+
+Paradas
+
+[editar]
+
+N.º parada → Calle
+
+IDA                                 VUELTA
+
+4020 Piedras                        5553 Flores
+4320 Ciudadela                      7768 Garibadi
+4021 Convención                     7769 Rivera
+4022 Río Negro                      7770 Torres García
+4025 Cuareim                        7771 San Antonio
+4043 Ejido                          7772 Gral. Flores
+4550 Vázquez                        5397 Cno. América
+4027 Carlos Roxlo                   1846 León Felipe
+4547 Gaboto                         1844 Jorge Guillén
+4546 Eduardo Acevedo                1842 Fte. 6554
+3835 Cerro Largo                    1840 Fte. 6491
+3837 Miguelete                      1838 Granja El Milagro
+3737 Madrid                         1836 Fte. 5272
+5248 Av. de las Leyes               1834 Fte. 6152
+3803 Isidoro de María               1832 Fte. 6019
+2417 Libres                         5810 Cno. a la Cuchilla Pereira
+3883 Domingo Aramburu               1830 Cno. a la Cuchilla Pereira Pda. 1830
+2418 Guadalupe                      1821 Cno. América
+3805 Av. Gral. José Garibaldi       4657 Cno. América 4657
+3806 Gustavo Gallinal               1823 Cno. al Obelisco
+3807 Bv. Gral. Artigas              1825 Cno. Mancebo
+2340 Av. Luis Alberto de Herrera    4821 Fte. 6920
+2341 Juan José Quesada              1827 Cno. Moreira
+2221 Tte. Cnel. Euclides A. Salari  1829 Av. Don Pedro de Mendoza
+2222 Dr. Héctor Luis Odriozola      4822 Fte. 8411
+4833 Santiago Sierra                1919 Fte. 8238
+2223 Pte. Ing. José Serrato         1920 Cno. América Pda. 1920
+2225 Honduras                       1921 Cno. Trabal
+2227 Cno. Corrales                  1922 Cno. Tauro
+2228 Carreras Nacionales            1923 Cno. Los Viñedos
+2229 Iberia                         1924 Cno. de Los Molinos
+2231 José María Guerra              1925 Cno. de las Tropas
+1962 Niágara                        1926 Cno. de Los Granjeros
+1963 Bv. Aparicio Saravia           1927 Cno. Alción
+1978 José Ramírez                   1928 Cno. Abrevadero
+1979 Cno. Tte. Galeano              1929 Cno. Altair
+1980 Cno. Tte. Rinaldi              1930 Cno. Aldebarán
+1981 Matilde P. de Batlle           1931 Cno. Rigel
+1982 Cap. Tula                      1932 Cno. Perla
+1983 Cno. Domingo Arena             4360 Cno. Régulo
+1984 Artilleros Orientales          1933 Cno. Paso del Sauce
+1985 Cno. Cap. Coralio C. Lacosta   1934 Cno. Carlos Linneo
+1986 Boiso Lanza                    1935 Osvaldo Rodríguez
+1987 Cno. Carlos A. López           1936 Cno. Antares
+1988 Av. de las Instrucciones       1937 Cno. La Abeja
+1895 Cno. al Paso del Andaluz       1938 Eulalio Pérez
+1896 Eulalio Pérez                  1939 Cno. El Cordero
+1897 Cno. La Abeja                  1940 Cno. al Paso del Andaluz
+1898 Cno. Antares                   1941 Av. de las Instrucciones
+1899 Osvaldo Rodríguez              4848 Cno. Carlos A. López
+1900 Cno. Carlos Linneo             1990 Cno. Boiso Lanza
+1902 Cno. Paso del Sauce            1991 Cno. Cap. Coralio C. Lacosta
+4359 Cno. Régulo                    1992 Artilleros Orientales
+1903 Cno. Perla                     1993 Cno. Domingo Arena
+1904 Cno. Rigel                     1994 Cap. Tula
+1905 Cno. Aldebarán                 1995 Matilde P. de Batlle y Ordóñez
+1906 Cno. Altair                    1996 Cno. Tte. Rinaldi
+1907 Cno. Abrevadero                4361 Cno. Tte. Galeano
+1908 Cno. Alción                    1997 Jose Ramírez
+1909 Cno. de Los Granjeros          1998 Bv. Aparicio Saravia
+1910 Cno. de las Tropas             1999 Niágara
+1911 Cno. de Los Molinos            2000 Gral. Flores
+1912 Cno. Los Viñedos               2324 José María Guerra
+1913 Cno. Tauro                     2326 Salustio
+1914 Cno. Trabal                    2327 Carreras Nacionales
+1915 Cno. América                   2328 Cno. Corrales
+1916 Fte. 8238                      2330 Cno. Chimborazo
+1917 Fte. 8412                      2332 Francisco Pla
+1829 Av. Don Pedro de Mendoza       2333 Santiago Sierra
+1828 Cno. Moreira                   2334 Bruno Mendez
+1918 Fte. 6920                      2336 Blvr. José Batlle y Ordóñez
+1826 Cno. Mancebo                   2337 Juan José Quesada
+1824 Cno. al Obelisco               2338 Av. Luis A. de Herrera
+1822 Cno. América                   2339 Bv. Gral. Artigas
+1820 Cno. Carlos Burmester          2404 Chubut
+5809 Cno. a Cuchilla Pereira        2405 Dr. Gustavo Gallinal
+1831 Fte. 6019                      2406 Av. Gral. José Garibaldi
+1833 Fte. 6152                      2407 Rivadavia
+1835 Fte. 5272                      2409 Domingo Aramburu
+1837 Fte. 6411                      2410 Libres
+1839 Fte. 6491                      2411 Isidoro de María
+1841 Fte. 6594                      2412 Yatay
+1843 Fte. 6580                      3663 Guatemala
+1845 León Felipe                    3877 Venezuela
+1847 Teresa de La Parra             3878 Asunción
+5547 Dieciocho de Mayo              3822 D. Fernández Crespo
+5548 Flores                         3830 La Paz
+5549 José Pedro Varela              3831 Cerro Largo
+5550 Roosevelt                      3832 Av. Uruguay
+5551 Lavalleja                      3847 Colonia
+5552 Dr. Francisco Soca             4331 Gaboto
+5553 Flores                         2199 Carlos Roxlo
+                                    2201 Dr. Javier Barrios Amorín
+                                    2203 Yaguaron
+                                    2205 Av. Gral. Rondeau
+                                    4332 Julio Herrera y Obes
+                                    4599 Mercedes
+                                    4040 Florida
+                                    4806 Paysandu
+                                    4587 Juncal
+
+
+Destinos intermedios
+
+[editar]
+
+IDA
+
+ 1. Hipódromo: (Corredor General Flores y José María Guerra)
+ 2. Instrucciones: (Mendoza e Instrucciones)
+ 3. Osvaldo Rodríguez: (Mendoza y Osvaldo Rodríguez)
+ 4. Puente Las Piedras: (Cno. América y Límite departamental)
+
+VUELTA
+
+ 1. Corredor General Flores y Gronardo
+ 2. Palacio Legislativo
+
+Control de autoridades   • Proyectos Wikimedia
+                         • Wd Datos: Q16493819
+
+  • Wd Datos: Q16493819
+
+Véase también
+
+[editar]
+
+  • Línea 130
+  • Línea 230
+  • Línea 276
+
+Referencias
+
+[editar]
+
+ 1. ↑ «Ampliaron oferta del Sistema de Transporte Metropolitano». Sociedad
+    uruguaya. 2007. Consultado el 2 de setiembre de 2023. 
+ 2. ↑ «Amplían líneas de ómnibus metropolitanos desde enero». El País (Uruguay)
+    . 20 de diciembre de 2007. Consultado el 20 de setiembre de 2023. 
+
+*
+Obtenido de «https://es.wikipedia.org/w/index.php?title=Línea_175_(Montevideo)&
+oldid=171923307»
+Categoría:
+
+  • Líneas de ómnibus de Montevideo
+
+  • Esta página se editó por última vez el 6 feb 2026 a las 14:42.
+  • La página fue renderizada con Parsoid.
+  • El texto está disponible bajo la Licencia Creative Commons
+    Atribución-CompartirIgual 4.0; pueden aplicarse cláusulas adicionales. Al
+    usar este sitio aceptas nuestros términos de uso y nuestra política de
+    privacidad.
+    Wikipedia® es una marca registrada de la Fundación Wikimedia, una
+    organización sin ánimo de lucro.
+
+  • Política de privacidad
+  • Acerca de Wikipedia
+  • Limitación de responsabilidad
+  • Contacto legal y de seguridad
+  • Código de conducta
+  • Desarrolladores
+  • Estadísticas
+  • Declaración de cookies
+  • Versión para móviles
+
+  • Wikimedia Foundation
+  • Powered by MediaWiki
+
+Buscar
+[                    ]
+Buscar
+[ ] Cambiar a la tabla de contenidos
+Línea 175 (Montevideo)
+       
+Añadir idiomas Añadir tema
+

@@ -1,0 +1,256 @@
+Ir al contenido
+[ ] Menú principal
+Menú principal
+mover a la barra lateral ocultar
+Navegación
+
+  • Portada
+  • Portal de la comunidad
+  • Actualidad
+  • Cambios recientes
+  • Páginas nuevas
+  • Página aleatoria
+  • Ayuda
+  • Notificar un error
+  • Páginas especiales
+
+[wikipe] Wikipedia La enciclopedia libre
+Buscar
+[                    ]
+Buscar
+
+[ ] Apariencia
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+[ ] Herramientas personales
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+Contenidos
+
+mover a la barra lateral ocultar
+
+  • Inicio
+  • 1 Características
+  • 2 Recorridos
+  • 3 Paradas
+  • 4 Referencias
+
+[ ] Cambiar a la tabla de contenidos
+
+Línea 164 (Montevideo)
+
+[ ] Añadir idiomas
+
+Añadir enlaces
+
+  • Artículo
+  • Discusión
+
+[ ] español
+
+  • Leer
+  • Editar
+  • Ver historial
+
+[ ] Herramientas
+Herramientas
+mover a la barra lateral ocultar
+Acciones
+
+  • Leer
+  • Editar
+  • Ver historial
+
+General
+
+  • Lo que enlaza aquí
+  • Cambios en enlazadas
+  • Subir archivo
+  • Enlace permanente
+  • Información de la página
+  • Citar esta página
+  • Obtener URL acortado
+  • Cambiar al analizador antiguo
+
+Imprimir/exportar
+
+  • Crear un libro
+  • Descargar como PDF
+  • Versión para imprimir
+
+En otros proyectos
+
+  • Elemento de Wikidata
+
+Apariencia
+mover a la barra lateral ocultar
+De Wikipedia, la enciclopedia libre
+
+                    163 ← 164 → 168
+Ciudadela Larrañaga
+
+                    Área abastecida
+      Municipios        Montevideo
+                      Descripción
+         Tipo           Urbana
+        Sistema         Urbanas STM
+     Inauguración       1937
+       Supresión        Marzo de 2019
+                       Operación
+       Longitud         Duración del viaje: 32 minutos.
+                        En la Ida: 24
+        Paradas
+                        En la vuelta: 36
+                      Explotación
+        Estado          Inactiva
+       Operador         CUTCSA
+[editar datos en Wikidata]
+
+La línea 164 fue una línea de ómnibus urbana de Montevideo, que unía la
+Ciudadela con el barrio Larrañaga.
+
+Características
+
+[editar]
+
+Fue creada en los años treinta por la entonces Cooperativa de Ómnibus Línea H,
+la cual en 1937, tras la confirmación de la Compañía Uruguay del Transporte
+Colectivo se convirtió en la línea 164.^[1]
+
+Partía desde la Terminal Ciudadela hacia el barrio de Larrañaga,
+específicamente en la intersección de las Avenidas Doctor Luis Alberto de
+Herrera y General Flores, o en algunas ocasiones con la avenida Luis Alberto de
+Herrera y Monte Caseros.
+
+En marzo de 2019, con el comienzo de los horarios de invierno, esta línea, al
+igual que la 161 quedaron definitivamente suprimidas, pero aún en algunas
+paradas de Montevideo se conserva sus carteles indicadores.
+
+Recorridos
+
+[editar]
+
+Circulaba por los barrios Ciudad Vieja, Centro, Cordón, Cordón Norte, Goes, La
+Blanqueada y Larrañaga.
+
+Ida                                     Vuelta
+
+  • Juncal                                • Avenida Luis Alberto de Herrera
+  • Cerrito                               • Sancho Panza
+  • Florida                               • José Bonaparte
+  • Mercedes                              • Andrés Lamas
+  • Avenida Daniel Fernández Crespo       • Juan Cruz Varela
+  • Miguelete                             • Juan José Quesada
+  • Bulevar Artigas                       • Avenida General Flores
+  • Monte Caseros                         • Domingo Aramburú
+  • Juan Cabal                            • Marcelino Sosa
+  • Juan Ramón Gómez                      • Blandengues
+  • Avenida Luis Alberto de Herrera       • Arenal Grande
+                                          • Justicia
+                                          • La Paz
+                                          • Arenal Grande
+                                          • Avenida Uruguay
+                                          • Ciudadela
+                                          • Piedras
+                                          • Ciudadela
+
+
+Paradas
+
+[editar]
+Ida                                      Vuelta
+
+Código           Parada                  Código          Parada
+4020   Piedras                           3448   Emilio Raña
+4320   Ciudadela                         3449   Cádiz
+4021   Convención                        3450   Canstatt
+4022   Rio Negro                         3451   Altamirano
+4025   Cuareim                           5393   Andrés Lamas
+4043   Ejido                             2785   Benito Juárez
+4550   Vazquez                           2784   Gualeguay
+4027   Carlos Roxlo                      2338   Av Luis A De Herrera
+4547   Gaboto                            2339   Bv Gral Artigas
+4546   Eduardo Acevedo                   2404   Chubut
+3835   Cerro Largo                       2405   Dr Gustavo Gallinal
+3837   Miguelete                         2406   Av Gral José Garibaldi
+3823   República                         2407   Rivadavia
+3824   Inca                              2409   Domingo Aramburu
+3825   Pedro Errazquin                   2458   Gral.Flores
+3827   Juan Paullier                     2459   Ramón Del Valle Inclán
+3828   Duvimioso Terra                   2460   Arenal Grande
+2105   Monte Caseros                     3783   Dr Juan J De Amezaga
+3520   Nueva Palmira                     3702   Nueva Palmira
+3480   Av Gral José Garibaldi            3703   Gral Pagola
+3481   Cnel Lucas Piriz                  3704   Lima
+3482   Jaime Cibils                      3815   República
+3504   Mariano Moreno                    3831   Cerro Largo
+3506   Av Luis Alberto de Herrera        3832   Av. Uruguay
+                                         4031   Tristán Narvaja
+                                         4045   Magallanes
+                                         4033   Tacuarembo
+                                         4034   Dr Javier Barrios Amorín
+                                         4046   Ejido
+                                         4035   Yi
+                                         4036   Av Gral Rondeau
+                                         4615   Julio Herrera y Obes
+                                         4909   Convención
+                                         4040   Florida
+                                         4806   Paysandu
+                                         4587   Juncal
+
+
+Referencias
+
+[editar]
+
+ 1. ↑ «72 años de Cutcsa, la época pre-Cutcsa». 30 de agosto de 2009. p. Grupo
+    Aclo. Consultado el 27 de setiembre de 2023. 
+
+Control de autoridades   • Proyectos Wikimedia
+                         • Wd Datos: Q16493810
+
+  • Wd Datos: Q16493810
+
+*
+Obtenido de «https://es.wikipedia.org/w/index.php?title=Línea_164_(Montevideo)&
+oldid=172394779»
+Categoría:
+
+  • Líneas de ómnibus de Montevideo fuera de servicio
+
+  • Esta página se editó por última vez el 8 mar 2026 a las 02:54.
+  • La página fue renderizada con Parsoid.
+  • El texto está disponible bajo la Licencia Creative Commons
+    Atribución-CompartirIgual 4.0; pueden aplicarse cláusulas adicionales. Al
+    usar este sitio aceptas nuestros términos de uso y nuestra política de
+    privacidad.
+    Wikipedia® es una marca registrada de la Fundación Wikimedia, una
+    organización sin ánimo de lucro.
+
+  • Política de privacidad
+  • Acerca de Wikipedia
+  • Limitación de responsabilidad
+  • Contacto legal y de seguridad
+  • Código de conducta
+  • Desarrolladores
+  • Estadísticas
+  • Declaración de cookies
+  • Versión para móviles
+
+  • Wikimedia Foundation
+  • Powered by MediaWiki
+
+Buscar
+[                    ]
+Buscar
+[ ] Cambiar a la tabla de contenidos
+Línea 164 (Montevideo)
+       
+Añadir idiomas Añadir tema
+

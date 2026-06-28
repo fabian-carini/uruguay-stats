@@ -1,0 +1,339 @@
+Ir al contenido
+[ ] Menú principal
+Menú principal
+mover a la barra lateral ocultar
+Navegación
+
+  • Portada
+  • Portal de la comunidad
+  • Actualidad
+  • Cambios recientes
+  • Páginas nuevas
+  • Página aleatoria
+  • Ayuda
+  • Notificar un error
+  • Páginas especiales
+
+[wikipe] Wikipedia La enciclopedia libre
+Buscar
+[                    ]
+Buscar
+
+[ ] Apariencia
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+[ ] Herramientas personales
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+Contenidos
+
+mover a la barra lateral ocultar
+
+  • Inicio
+  • 1 Características
+  • 2 Recorridos
+    Alternar subsección Recorridos
+      □ 2.1 Paradas
+      □ 2.2 Destinos intermedios
+  • 3 Referencias
+  • 4 Enlaces externos
+
+[ ] Cambiar a la tabla de contenidos
+
+Línea 186 (Montevideo)
+
+[ ] Añadir idiomas
+
+Añadir enlaces
+
+  • Artículo
+  • Discusión
+
+[ ] español
+
+  • Leer
+  • Editar
+  • Ver historial
+
+[ ] Herramientas
+Herramientas
+mover a la barra lateral ocultar
+Acciones
+
+  • Leer
+  • Editar
+  • Ver historial
+
+General
+
+  • Lo que enlaza aquí
+  • Cambios en enlazadas
+  • Subir archivo
+  • Enlace permanente
+  • Información de la página
+  • Citar esta página
+  • Obtener URL acortado
+  • Cambiar al analizador antiguo
+
+Imprimir/exportar
+
+  • Crear un libro
+  • Descargar como PDF
+  • Versión para imprimir
+
+En otros proyectos
+
+  • Elemento de Wikidata
+
+Apariencia
+mover a la barra lateral ocultar
+De Wikipedia, la enciclopedia libre
+
+                              185 ← 186 → 187
+Pocitos        Santa Catalina
+Terminal Kibón
+
+[330px-L]
+Circulando por la avenida Centenario
+                              Área abastecida
+           Municipios             Montevideo
+                                Descripción
+              Tipo                Urbano
+             Sistema              Urbanos STM
+                                 Operación
+            Longitud              Duración del viaje: 1 hora y 14 minutos.
+                                Explotación
+             Estado               Activa
+            Operador              CUTCSA
+[editar datos en Wikidata]
+
+[250px-Terminal_Kib]
+Línea 186 en la Terminal Pocitos
+
+La línea 186 es una línea de transporte urbano de Montevideo une el barrio de
+Pocitos con el Barrio de Santa Catalina. La ida es Santa Catalina y la vuelta
+es Pocitos.
+
+Características
+
+[editar]
+
+En los días hábiles cuenta con una frecuencia aproximada de entre quince y
+treinta minutos, contando con 32 salidas hacia Santa Catalina, y 35 hacia
+Pocitos, solamente en los días hábiles, ya que los días sábados circula
+solamente entre las 00:23 y las 16:03, y los domingos entre las 00:23 y las
+04:32 siendo sustituida en el resto de las jornada por la línea L23.
+
+Recorridos
+
+[editar]
+
+En ambos sentido circula por los barrios: Pocitos, Pocitos, Buceo, Parque
+Batlle, La Blanqueada, Larrañaga, Jacinto Vera, Reducto, Brazo Oriental,
+Atahualpa, Prado, Paso Molino, Belvedere, La Teja, Cerro, Casabó, Santa
+Catalina.
+
+Ida                                     Vuelta
+
+  • Pocitos (Kibón)                       • Santa Catalina
+  • Rambla Presidente Charles de Gaulle   • Las Achiras
+  • Avenida Luis Alberto de Herrera       • Camino Santa Catalina
+  • Rambla República del Perú             • Camino Burdeos
+  • Manuel V. Pagola                      • Gibraltar
+  • Juan Benito Blanco                    • Avenida Carlos María Ramírez
+  • Cristóbal Echevarriarza               • Avenida Santín Carlos Rossi
+  • Avenida Luis Alberto de Herrera       • Doctor Pedro Castellino
+  • Alberto Lasplaces                     • ● Zona A (Terminal del Cerro)
+  • Avenida Ramón Anador                  • Egipto
+  • Avenida Navarro                       • Japón
+  • Avenida Américo Ricaldoni             • Avenida Carlos María Ramírez
+  • Avenida Centenario                    • Avenida Agraciada
+  • Asilo                                 • Avenida Lucas Obes
+  • Avenida Luis Alberto de Herrera       • Avenida Joaquín Suárez
+  • Bulevar General Artigas               • Bulevar General Artigas
+  • Avenida Joaquín Suárez                • Avenida Luis Alberto de Herrera
+  • Caiguá                                • Avenida Centenario
+  • Avenida Juan Carlos Blanco            • Avenida Américo Ricaldoni
+  • Avenida Lucas Obes                    • Avenida Navarro
+  • Avenida Agraciada                     • Avenida Ramón Anador
+  • San Quintín                           • Avenida Luis Alberto de Herrera
+  • Juan B. Pandiani                      • 26 de Marzo
+  • Avenida Carlos María Ramírez          • Miguel Barreiro
+  • Bulgaria                              • Juan Benito Blanco
+  • Camino Burdeos                        • Cristóbal Echevarriarza
+  • Camino Santa Catalina                 • Avenida Luis Alberto de Herrera
+  • Las Achiras                           • Rambla Presidente Charles de Gaulle
+  • Santa Catalina                        • Pocitos (Kibón)
+
+
+^[1]
+
+Paradas
+
+[editar]
+IDA                                    VUELTA
+
+Código           Paradas               Código            Paradas
+3386   Term. Pocitos                   1044   Term. Santa Catalina
+3387   Av. Luis Alberto de Herrera     1045   Cno. Santa Catalina
+3357   Pereira de la Luz               1046   Tamberá
+3358   Manuel Pagola                   4819   Burdeos
+3952   Echevarriarza                   1047   Cno. Dellazoppa
+3956   Julio César                     1048   Carlos Pedrell
+3957   Av. Luis Alberto de Herrera     1049   Psje. 18 Mts. Brio 20 De
+3418   José A. Iturriaga               1050   Psje. La Vía
+3419   Montevideo Shopping             1037   Pastor Earl Martin Smith
+3420   Av. Gral. Rivera                4636   Guinea
+3438   Demóstenes                      4635   Paralela a Cno. Cibils
+4256   F. Rodríguez / Fac. Ve.         1051   Cno. Cibils
+3143   Av. Luis Alberto de Herrera     4274   Gibraltar
+3145   Gral. Las Heras                 1252   Berna
+3146   Santiago Gadea                  5991   Sin descripción
+3147   Av. Dr. Alfredo Navarro         1060   Dinamarca
+3148   Av. Italia                      1061   Filipinas
+3149   Belgrano                        1062   Puerto Rico
+3150   Dr. José Brito Foresti          1063   Vizcaya
+3151   Prof. Dr. Pablo Purriel         1064   Bogotá
+3152   Asilo                           4775   Dr. Pedro Castellino
+3447   Juan Ramón Gómez                4930   Terminal Cerro
+3448   Emilio Raña                     4776   Vigo
+3449   Cádiz                           1283   Concordia
+3450   Canstatt                        1284   Humboldt
+3451   Altamirano                      1285   Rivera Indarte
+3452   Valladolid                      1286   Pedro Giralt
+2078   Cufre                           1287   Gral. Agustín Muñoz
+2079   Gral. Flores                    1288   Real
+2095   Dr. José María Penco            1289   Vicente Yáñez Pinzón
+2080   Gral. San Martín                1290   Gdor. del Pino
+2081   Av. Burgues                     1291   Luis Batlle Berres
+2082   Av. Millán                      1292   Vicente Basagoity
+2083   Zapican                         1293   Belvedere
+2084   Av. Joaquín Suárez              1568   José B. Freire
+3907   Fernando Otorgues               1569   Emilio Romero
+1587   Lucas Obes                      1578   Félix Olmedo
+1594   Av. Dr. Juan Carlos Blanco      1579   Federico García Lorca
+3906   Amarales                        1580   Av. Buschental
+1595   Av. 19 de Abril                 1581   Av. 19 de Abril
+1596   Av. Buschental                  3905   Amarales
+1597   Federico García Lorca           1585   Av. Dr. Juan Carlos Blanco
+1598   Av. Agraciada                   4982   Av. Joaquín Suárez
+1567   Juan Antonio Artigas            3908   Fernando Otorgues
+1145   José B. Freire                  1586   Gil
+1211   Belvedere                       2090   Espinillo
+1294   Vicente Basagoity               2091   Av. Millán
+1212   Av. L. Batlle Berres            2092   Av. Burgues
+1296   Gdor. del Pino                  2093   Gral. San Martín
+1297   Vicente Yáñez Pinzón            2094   Lorenzo Fernández
+1298   Real                            4817   Martín C. Martínez
+1299   Gral. Agustín Muñoz             2096   Cufre
+1300   Pedro Giralt                    5070   Dr. Juan Campisteguy
+1301   Rivera Indarte                  3453   Valladolid
+1302   Humboldt                        3454   Dulcinea
+1303   Camambú                         3455   Canstatt
+4815   Vigo                            3456   Cádiz
+4925   Egipto                          3457   Emilio Raña
+4816   Turquía (Term. Cerro)           3458   Monte Caseros
+1068   Santín C. Rossi                 3459   8 de Octubre
+1069   Bogotá                          3487   Hospital Militar
+1070   Vizcaya                         3488   Jaime Cibils
+1071   Puerto Rico                     3489   Av. Italia
+1072   Filipinas                       553    Av. Federico R. Vidiella
+1073   Dinamarca                       554    Tribuna Olímpica
+1074   Bulgaria                        3067   Manuel Alonso
+1254   Berna                           3068   Av. Cataluña
+4272   Cno. Cibils                     3069   Navarra
+4634   Paralela a Cno. Cibils          3070   Av. Luis Alberto de Herrera
+1036   Senegal                         3465   Feliciano Rodríguez
+4818   Calle 15                        3466   Lber. Arce / Fac. Veterinaria
+4637   Psje. 17 Mts. Brio 20 De        3467   Rivera
+1039   Psje. 18 Mts. Brio 20 De        3435   Montevideo Shopping
+1040   Carlos Pedrell                  3934   Julio César
+1041   Cno. Dellazoppa                 4079   Buxareo
+4277   Cno. Santa Catalina             4193   Manuel Pagola
+1042   Tamberá                         4553   Alejandro Chucarro
+1043   Rubén Darío                     3951   Manuel Pagola
+1044   Term. Santa Catalina            3952   Echevarriarza
+                                       3956   Julio César
+                                       3957   Av. Luis Alberto de Herrera
+
+
+Destinos intermedios
+
+[editar]
+
+IDA
+
+  • Paso Molino
+  • Terminal Cerro
+
+VUELTA
+
+  • 8 de octubre y Luis Alberto de Herrera
+  • Estadio Centenario
+  • Rivera y Luis Alberto de Herrera
+
+Referencias
+
+[editar]
+
+ 1. ↑ «Seis líneas de ómnibus cambiarán su recorrido a partir de este lunes:
+    mirá cuáles son». 3 de setiembre de 2023. Consultado el 1 de julio de 2024.
+     
+
+Control de autoridades   • Proyectos Wikimedia
+                         • Wd Datos: Q16493838
+
+  • Wd Datos: Q16493838
+
+Enlaces externos
+
+[editar]
+
+ 1. https://www.montevideo.gub.uy/buses/mapaBuses.html / Mapa en línea oficial
+    de IMM en conjunto con MTOP, consulte la ubicación de esta línea en tiempo
+    real.
+ 2. http://www.cutcsa.com.uy/
+
+*
+Obtenido de «https://es.wikipedia.org/w/index.php?title=Línea_186_(Montevideo)&
+oldid=171433680»
+Categoría:
+
+  • Líneas de ómnibus de Montevideo
+
+  • Esta página se editó por última vez el 10 ene 2026 a las 19:41.
+  • La página fue renderizada con Parsoid.
+  • El texto está disponible bajo la Licencia Creative Commons
+    Atribución-CompartirIgual 4.0; pueden aplicarse cláusulas adicionales. Al
+    usar este sitio aceptas nuestros términos de uso y nuestra política de
+    privacidad.
+    Wikipedia® es una marca registrada de la Fundación Wikimedia, una
+    organización sin ánimo de lucro.
+
+  • Política de privacidad
+  • Acerca de Wikipedia
+  • Limitación de responsabilidad
+  • Contacto legal y de seguridad
+  • Código de conducta
+  • Desarrolladores
+  • Estadísticas
+  • Declaración de cookies
+  • Versión para móviles
+
+  • Wikimedia Foundation
+  • Powered by MediaWiki
+
+Buscar
+[                    ]
+Buscar
+[ ] Cambiar a la tabla de contenidos
+Línea 186 (Montevideo)
+       
+Añadir idiomas Añadir tema
+

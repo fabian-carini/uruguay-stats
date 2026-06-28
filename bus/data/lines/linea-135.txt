@@ -1,0 +1,255 @@
+Ir al contenido
+[ ] Menú principal
+Menú principal
+mover a la barra lateral ocultar
+Navegación
+
+  • Portada
+  • Portal de la comunidad
+  • Actualidad
+  • Cambios recientes
+  • Páginas nuevas
+  • Página aleatoria
+  • Ayuda
+  • Notificar un error
+  • Páginas especiales
+
+[wikipe] Wikipedia La enciclopedia libre
+Buscar
+[                    ]
+Buscar
+
+[ ] Apariencia
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+[ ] Herramientas personales
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+Contenidos
+
+mover a la barra lateral ocultar
+
+  • Inicio
+  • 1 Características
+  • 2 Recorridos
+  • 3 Horarios
+  • 4 Destinos intermedios
+  • 5 Véase también
+  • 6 Notas
+  • 7 Referencias
+  • 8 Enlaces externos
+
+[ ] Cambiar a la tabla de contenidos
+
+Línea 135 (Montevideo)
+
+[ ] Añadir idiomas
+
+Añadir enlaces
+
+  • Artículo
+  • Discusión
+
+[ ] español
+
+  • Leer
+  • Editar
+  • Ver historial
+
+[ ] Herramientas
+Herramientas
+mover a la barra lateral ocultar
+Acciones
+
+  • Leer
+  • Editar
+  • Ver historial
+
+General
+
+  • Lo que enlaza aquí
+  • Cambios en enlazadas
+  • Subir archivo
+  • Enlace permanente
+  • Información de la página
+  • Citar esta página
+  • Obtener URL acortado
+  • Cambiar al analizador antiguo
+
+Imprimir/exportar
+
+  • Crear un libro
+  • Descargar como PDF
+  • Versión para imprimir
+
+En otros proyectos
+
+  • Elemento de Wikidata
+
+Apariencia
+mover a la barra lateral ocultar
+De Wikipedia, la enciclopedia libre
+
+                         134 ← 135 → 136
+Ciudadela Punta Espinillo
+
+[330px-]
+                         Área abastecida
+      Municipios        Montevideo
+                           Descripción
+         Tipo           Nocturna
+        Sistema         Urbanos STM
+                            Operación
+       Longitud         Duración del viaje: 1 hora y 26 minutos.
+        Paradas         101 en la ida y 99 en la vuelta
+                           Explotación
+        Estado          Servicio activo
+       Operador         CUTCSA
+       Autoridad        Intendencia de Montevideo
+[editar datos en Wikidata]
+
+La línea 135 es una línea urbana de Montevideo que une la Terminal Ciudadela
+con Punta Espinillo, ubicado al oeste de la capital.^[1]
+
+Características
+
+[editar]
+
+Esta línea solo funciona de lunes a viernes en horario nocturno y cuenta
+únicamente con dos frecuencias; una en la noche y otra en la mañana. No
+funciona los sábados ni domingos y feriados, por lo cual durante la jornada
+diurna y la totalidad de los fines de semana, esta línea es sustituida por la
+línea local L35.
+
+Recorridos
+
+[editar]
+Ida:                                    Vuelta:
+
+  • Terminal Ciudadela                    • Punta Espinillo
+  • Juncal                                • Camino del Tropero
+  • Piedras                               • Camino A Punta Espinillo
+  • Cerro Largo                           • Camino Sanguinetti
+  • Florida                               • Camino O'Higgins
+  • Mercedes                              • Camino Tomkinson
+  • Río Branco                            • Avenida Luis Batlle Berres
+  • Paysandú                              • Eduardo Paz Aguirre
+  • Ejido                                 • Santa Lucía
+  • Miguelete                             • Córdoba
+  • Hermano Damasceno                     • José Llupes
+  • Yaguarón                              • Avenida Agraciada
+  • Avenida de las Leyes                  • Avenida de las Leyes
+  • Avenida Agraciada                     • Yaguarón
+  • San Quintin                           • Avenida Uruguay
+  • Santa Lucía                           • 25 de Mayo
+  • Eduardo Paz Aguirre                   • Juncal
+  • Avenida Luis Batlle Berres            • Terminal Ciudadela
+  • Camino Tomkinson
+  • Camino O'Higgins
+  • Camino Sanguinetti
+  • Camino A Punta Espinillo
+  • Camino Del Tropero
+  • Punta Espinillo
+
+
+Horarios
+
+[editar]
+┌──────────────────────────────────────────┬───────────────────┬───────────────────┬───────────────────┬───────────────────┐
+│             Lunes a viernes              │      Salida       │    Paso Molino    │ Paso De La Arena  │      Llegada      │
+├──────────────────────────────────────────┼───────────────────┼───────────────────┼───────────────────┼───────────────────┤
+│     Salida desde Terminal Ciudadela      │       06:13       │       06:38       │       07:06       │       07:43       │
+└──────────────────────────────────────────┴───────────────────┴───────────────────┴───────────────────┴───────────────────┘
+┌──────────────────────────────────────────┬───────────────────┬───────────────────┬───────────────────┬───────────────────┐
+│             Lunes a viernes              │      Salida       │ Paso De La Arena  │    Paso Molino    │      Llegada      │
+├──────────────────────────────────────────┼───────────────────┼───────────────────┼───────────────────┼───────────────────┤
+│       Salida desde Punta Espinillo       │       21:43       │       22:20       │       22:45       │       23:00       │
+└──────────────────────────────────────────┴───────────────────┴───────────────────┴───────────────────┴───────────────────┘
+
+Vigencia de Horarios: Verano 2026.^[2]
+
+Destinos intermedios
+
+[editar]
+
+  • Rincón del Cerro (Cno. O'Higgins y Cno. Sanguinetti)^[a]
+
+Véase también
+
+[editar]
+
+  • Línea L35
+
+Notas
+
+[editar]
+
+ 1. ↑ En desuso
+
+Referencias
+
+[editar]
+
+ 1. ↑ «135 - Sistema de Transporte Metropolitano - MONTEVIDEO - Ómnibus
+    Horarios». Moovit. Consultado el 10 de septiembre de 2023. 
+ 2. ↑ «STM - Líneas y Horarios». Intendencia de Montevideo. Consultado el 5 de
+    marzo de 2024. 
+
+Control de autoridades   • Proyectos Wikimedia
+                         • Wd Datos: Q16493744
+
+  • Wd Datos: Q16493744
+
+
+Enlaces externos
+
+[editar]
+
+ 1. https://www.montevideo.gub.uy/buses/mapaBuses.html / Mapa en línea oficial
+    de IMM en conjunto con MTOP, consulte la ubicación de esta línea en tiempo
+    real.
+ 2. https://www.cutcsa.com.uy/
+
+*
+Obtenido de «https://es.wikipedia.org/w/index.php?title=Línea_135_(Montevideo)&
+oldid=172394678»
+Categoría:
+
+  • Líneas de ómnibus de Montevideo
+
+  • Esta página se editó por última vez el 8 mar 2026 a las 02:44.
+  • La página fue renderizada con Parsoid.
+  • El texto está disponible bajo la Licencia Creative Commons
+    Atribución-CompartirIgual 4.0; pueden aplicarse cláusulas adicionales. Al
+    usar este sitio aceptas nuestros términos de uso y nuestra política de
+    privacidad.
+    Wikipedia® es una marca registrada de la Fundación Wikimedia, una
+    organización sin ánimo de lucro.
+
+  • Política de privacidad
+  • Acerca de Wikipedia
+  • Limitación de responsabilidad
+  • Contacto legal y de seguridad
+  • Código de conducta
+  • Desarrolladores
+  • Estadísticas
+  • Declaración de cookies
+  • Versión para móviles
+
+  • Wikimedia Foundation
+  • Powered by MediaWiki
+
+Buscar
+[                    ]
+Buscar
+[ ] Cambiar a la tabla de contenidos
+Línea 135 (Montevideo)
+       
+Añadir idiomas Añadir tema
+

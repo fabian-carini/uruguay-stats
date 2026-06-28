@@ -1,0 +1,137 @@
+medicion,empresa,tipo_eleccion,anio_medicion,anio_gobierno,eleccion,fecha,partido,sigla,candidato,presidente,categoria,categoria_unificada,valor
+Evaluacion de gestion presidente,Factum,,2023,4,,2023-09-06,Partido Nacional,PN,,Lacalle Pou,Aprueba,3,50
+Evaluacion de gestion presidente,Factum,,2023,4,,2023-09-06,Partido Nacional,PN,,Lacalle Pou,Ni aprueba ni desaprueba,2,20
+Evaluacion de gestion presidente,Factum,,2023,4,,2023-09-06,Partido Nacional,PN,,Lacalle Pou,Desaprueba,1,30
+Evaluacion de gestion presidente,Factum,,2023,4,,2023-09-06,Partido Nacional,PN,,Lacalle Pou,NS/NC,0,0
+Evaluacion de gestion presidente,Opcion,,2023,4,,2023-11-15,Partido Nacional,PN,,Lacalle Pou,Aprueba,3,42
+Evaluacion de gestion presidente,Opcion,,2023,4,,2023-11-15,Partido Nacional,PN,,Lacalle Pou,Ni aprueba ni desaprueba,2,24
+Evaluacion de gestion presidente,Opcion,,2023,4,,2023-11-15,Partido Nacional,PN,,Lacalle Pou,Desaprueba,1,32
+Evaluacion de gestion presidente,Opcion,,2023,4,,2023-11-15,Partido Nacional,PN,,Lacalle Pou,NS/NC,0,2
+Evaluacion de gestion presidente,Equipos,,2023,4,,2023-11-29,Partido Nacional,PN,,Lacalle Pou,Aprueba,3,45
+Evaluacion de gestion presidente,Equipos,,2023,4,,2023-11-29,Partido Nacional,PN,,Lacalle Pou,Ni aprueba ni desaprueba,2,19
+Evaluacion de gestion presidente,Equipos,,2023,4,,2023-11-29,Partido Nacional,PN,,Lacalle Pou,Desaprueba,1,36
+Evaluacion de gestion presidente,Equipos,,2023,4,,2023-11-29,Partido Nacional,PN,,Lacalle Pou,NS/NC,0,0
+Evaluacion de gestion presidente,Equipos,,2024,4,,2024-02-27,Partido Nacional,PN,,Lacalle Pou,Aprueba,3,49
+Evaluacion de gestion presidente,Equipos,,2024,4,,2024-02-27,Partido Nacional,PN,,Lacalle Pou,Ni aprueba ni desaprueba,2,17
+Evaluacion de gestion presidente,Equipos,,2024,4,,2024-02-27,Partido Nacional,PN,,Lacalle Pou,Desaprueba,1,33
+Evaluacion de gestion presidente,Equipos,,2024,4,,2024-02-27,Partido Nacional,PN,,Lacalle Pou,NS/NC,0,1
+Evaluacion de gestion presidente,Cifra,,2024,5,,2024-04-22,Partido Nacional,PN,,Lacalle Pou,Aprueba,3,46
+Evaluacion de gestion presidente,Cifra,,2024,5,,2024-04-22,Partido Nacional,PN,,Lacalle Pou,Ni aprueba ni desaprueba,2,14
+Evaluacion de gestion presidente,Cifra,,2024,5,,2024-04-22,Partido Nacional,PN,,Lacalle Pou,Desaprueba,1,39
+Evaluacion de gestion presidente,Cifra,,2024,5,,2024-04-22,Partido Nacional,PN,,Lacalle Pou,NS/NC,0,1
+Evaluacion de gestion presidente,Equipos,,2024,5,,2024-06-13,Partido Nacional,PN,,Lacalle Pou,Aprueba,3,46
+Evaluacion de gestion presidente,Equipos,,2024,5,,2024-06-13,Partido Nacional,PN,,Lacalle Pou,Ni aprueba ni desaprueba,2,20
+Evaluacion de gestion presidente,Equipos,,2024,5,,2024-06-13,Partido Nacional,PN,,Lacalle Pou,Desaprueba,1,34
+Evaluacion de gestion presidente,Equipos,,2024,5,,2024-06-13,Partido Nacional,PN,,Lacalle Pou,NS/NC,0,0
+Evaluacion de gestion presidente,Equipos,,2024,5,,2024-07-31,Partido Nacional,PN,,Lacalle Pou,Aprueba,3,49
+Evaluacion de gestion presidente,Equipos,,2024,5,,2024-07-31,Partido Nacional,PN,,Lacalle Pou,Ni aprueba ni desaprueba,2,18
+Evaluacion de gestion presidente,Equipos,,2024,5,,2024-07-31,Partido Nacional,PN,,Lacalle Pou,Desaprueba,1,32
+Evaluacion de gestion presidente,Equipos,,2024,5,,2024-07-31,Partido Nacional,PN,,Lacalle Pou,NS/NC,0,1
+Evaluacion de gestion presidente,Cifra,,2024,5,,2024-08-27,Partido Nacional,PN,,Lacalle Pou,Aprueba,3,45
+Evaluacion de gestion presidente,Cifra,,2024,5,,2024-08-27,Partido Nacional,PN,,Lacalle Pou,Ni aprueba ni desaprueba,2,14
+Evaluacion de gestion presidente,Cifra,,2024,5,,2024-08-27,Partido Nacional,PN,,Lacalle Pou,Desaprueba,1,40
+Evaluacion de gestion presidente,Cifra,,2024,5,,2024-08-27,Partido Nacional,PN,,Lacalle Pou,NS/NC,0,1
+Evaluacion de gestion presidente,Equipos,,2024,5,,2024-09-01,Partido Nacional,PN,,Lacalle Pou,Aprueba,3,49
+Evaluacion de gestion presidente,Equipos,,2024,5,,2024-09-01,Partido Nacional,PN,,Lacalle Pou,Ni aprueba ni desaprueba,2,18
+Evaluacion de gestion presidente,Equipos,,2024,5,,2024-09-01,Partido Nacional,PN,,Lacalle Pou,Desaprueba,1,33
+Evaluacion de gestion presidente,Equipos,,2024,5,,2024-09-01,Partido Nacional,PN,,Lacalle Pou,NS/NC,0,0
+Evaluacion de gestion presidente,Equipos,,2024,5,,2024-09-23,Partido Nacional,PN,,Lacalle Pou,Aprueba,3,50
+Evaluacion de gestion presidente,Equipos,,2024,5,,2024-09-23,Partido Nacional,PN,,Lacalle Pou,Ni aprueba ni desaprueba,2,18
+Evaluacion de gestion presidente,Equipos,,2024,5,,2024-09-23,Partido Nacional,PN,,Lacalle Pou,Desaprueba,1,32
+Evaluacion de gestion presidente,Equipos,,2024,5,,2024-09-23,Partido Nacional,PN,,Lacalle Pou,NS/NC,0,0
+Evaluacion de gestion presidente,Equipos,,2024,5,,2024-10-31,Partido Nacional,PN,,Lacalle Pou,Aprueba,3,50
+Evaluacion de gestion presidente,Equipos,,2024,5,,2024-10-31,Partido Nacional,PN,,Lacalle Pou,Ni aprueba ni desaprueba,2,19
+Evaluacion de gestion presidente,Equipos,,2024,5,,2024-10-31,Partido Nacional,PN,,Lacalle Pou,Desaprueba,1,31
+Evaluacion de gestion presidente,Equipos,,2024,5,,2024-10-31,Partido Nacional,PN,,Lacalle Pou,NS/NC,0,0
+Evaluacion de gestion presidente,Equipos,,2024,5,,2024-11-30,Partido Nacional,PN,,Lacalle Pou,Aprueba,3,54
+Evaluacion de gestion presidente,Equipos,,2024,5,,2024-11-30,Partido Nacional,PN,,Lacalle Pou,Ni aprueba ni desaprueba,2,17
+Evaluacion de gestion presidente,Equipos,,2024,5,,2024-11-30,Partido Nacional,PN,,Lacalle Pou,Desaprueba,1,29
+Evaluacion de gestion presidente,Equipos,,2024,5,,2024-11-30,Partido Nacional,PN,,Lacalle Pou,NS/NC,0,0
+Evaluacion de gestion presidente,Equipos,,2024,5,,2024-12-31,Partido Nacional,PN,,Lacalle Pou,Aprueba,3,58
+Evaluacion de gestion presidente,Equipos,,2024,5,,2024-12-31,Partido Nacional,PN,,Lacalle Pou,Ni aprueba ni desaprueba,2,17
+Evaluacion de gestion presidente,Equipos,,2024,5,,2024-12-31,Partido Nacional,PN,,Lacalle Pou,Desaprueba,1,25
+Evaluacion de gestion presidente,Equipos,,2024,5,,2024-12-31,Partido Nacional,PN,,Lacalle Pou,NS/NC,0,0
+Evaluacion de gestion presidente,Opcion,,2025,5,,2025-02-28,Partido Nacional,PN,,Lacalle Pou,Aprueba,3,54
+Evaluacion de gestion presidente,Opcion,,2025,5,,2025-02-28,Partido Nacional,PN,,Lacalle Pou,Ni aprueba ni desaprueba,2,21
+Evaluacion de gestion presidente,Opcion,,2025,5,,2025-02-28,Partido Nacional,PN,,Lacalle Pou,Desaprueba,1,23
+Evaluacion de gestion presidente,Opcion,,2025,5,,2025-02-28,Partido Nacional,PN,,Lacalle Pou,NS/NC,0,2
+Evaluacion de gestion presidente,Cifra,,2025,1,,2025-03-30,Frente Amplio,FA,,Orsi,Aprueba,3,37
+Evaluacion de gestion presidente,Cifra,,2025,1,,2025-03-30,Frente Amplio,FA,,Orsi,Ni aprueba ni desaprueba,2,19
+Evaluacion de gestion presidente,Cifra,,2025,1,,2025-03-30,Frente Amplio,FA,,Orsi,Desaprueba,1,15
+Evaluacion de gestion presidente,Cifra,,2025,1,,2025-03-30,Frente Amplio,FA,,Orsi,NS/NC,0,29
+Evaluacion de gestion presidente,Cifra,,2025,1,,2025-04-19,Frente Amplio,FA,,Orsi,Aprueba,3,41
+Evaluacion de gestion presidente,Cifra,,2025,1,,2025-04-19,Frente Amplio,FA,,Orsi,Ni aprueba ni desaprueba,2,15
+Evaluacion de gestion presidente,Cifra,,2025,1,,2025-04-19,Frente Amplio,FA,,Orsi,Desaprueba,1,18
+Evaluacion de gestion presidente,Cifra,,2025,1,,2025-04-19,Frente Amplio,FA,,Orsi,NS/NC,0,26
+Evaluacion de gestion presidente,Equipos,,2025,1,,2025-04-30,Frente Amplio,FA,,Orsi,Aprueba,3,41
+Evaluacion de gestion presidente,Equipos,,2025,1,,2025-04-30,Frente Amplio,FA,,Orsi,Ni aprueba ni desaprueba,2,32
+Evaluacion de gestion presidente,Equipos,,2025,1,,2025-04-30,Frente Amplio,FA,,Orsi,Desaprueba,1,14
+Evaluacion de gestion presidente,Equipos,,2025,1,,2025-04-30,Frente Amplio,FA,,Orsi,NS/NC,0,13
+Evaluacion de gestion presidente,Nomade,,2025,1,,2025-05-09,Frente Amplio,FA,,Orsi,Aprueba,3,31.8
+Evaluacion de gestion presidente,Nomade,,2025,1,,2025-05-09,Frente Amplio,FA,,Orsi,Ni aprueba ni desaprueba,2,36.7
+Evaluacion de gestion presidente,Nomade,,2025,1,,2025-05-09,Frente Amplio,FA,,Orsi,Desaprueba,1,22.8
+Evaluacion de gestion presidente,Nomade,,2025,1,,2025-05-09,Frente Amplio,FA,,Orsi,NS/NC,0,8.7
+Evaluacion de gestion presidente,Agora,,2025,1,,2025-06-07,Frente Amplio,FA,,Orsi,Aprueba,3,38.5
+Evaluacion de gestion presidente,Agora,,2025,1,,2025-06-07,Frente Amplio,FA,,Orsi,Ni aprueba ni desaprueba,2,28
+Evaluacion de gestion presidente,Agora,,2025,1,,2025-06-07,Frente Amplio,FA,,Orsi,Desaprueba,1,28.5
+Evaluacion de gestion presidente,Agora,,2025,1,,2025-06-07,Frente Amplio,FA,,Orsi,NS/NC,0,5
+Evaluacion de gestion presidente,Equipos,,2025,1,,2025-07-02,Frente Amplio,FA,,Orsi,Aprueba,3,44
+Evaluacion de gestion presidente,Equipos,,2025,1,,2025-07-02,Frente Amplio,FA,,Orsi,Ni aprueba ni desaprueba,2,30
+Evaluacion de gestion presidente,Equipos,,2025,1,,2025-07-02,Frente Amplio,FA,,Orsi,Desaprueba,1,21
+Evaluacion de gestion presidente,Equipos,,2025,1,,2025-07-02,Frente Amplio,FA,,Orsi,NS/NC,0,5
+Evaluacion de gestion presidente,Nomade,,2025,1,,2025-07-19,Frente Amplio,FA,,Orsi,Aprueba,3,34.8
+Evaluacion de gestion presidente,Nomade,,2025,1,,2025-07-19,Frente Amplio,FA,,Orsi,Ni aprueba ni desaprueba,2,28.2
+Evaluacion de gestion presidente,Nomade,,2025,1,,2025-07-19,Frente Amplio,FA,,Orsi,Desaprueba,1,29.8
+Evaluacion de gestion presidente,Nomade,,2025,1,,2025-07-19,Frente Amplio,FA,,Orsi,NS/NC,0,7.2
+Evaluacion de gestion presidente,Opcion,,2025,1,,2025-08-23,Frente Amplio,FA,,Orsi,Aprueba,3,29
+Evaluacion de gestion presidente,Opcion,,2025,1,,2025-08-23,Frente Amplio,FA,,Orsi,Ni aprueba ni desaprueba,2,43
+Evaluacion de gestion presidente,Opcion,,2025,1,,2025-08-23,Frente Amplio,FA,,Orsi,Desaprueba,1,22
+Evaluacion de gestion presidente,Opcion,,2025,1,,2025-08-23,Frente Amplio,FA,,Orsi,NS/NC,0,6
+Evaluacion de gestion presidente,Cifra,,2025,1,,2025-09-28,Frente Amplio,FA,,Orsi,Aprueba,3,43
+Evaluacion de gestion presidente,Cifra,,2025,1,,2025-09-28,Frente Amplio,FA,,Orsi,Ni aprueba ni desaprueba,2,17
+Evaluacion de gestion presidente,Cifra,,2025,1,,2025-09-28,Frente Amplio,FA,,Orsi,Desaprueba,1,33
+Evaluacion de gestion presidente,Cifra,,2025,1,,2025-09-28,Frente Amplio,FA,,Orsi,NS/NC,0,7
+Evaluacion de gestion presidente,Equipos,,2025,1,,2025-10-19,Frente Amplio,FA,,Orsi,Aprueba,3,36
+Evaluacion de gestion presidente,Equipos,,2025,1,,2025-10-19,Frente Amplio,FA,,Orsi,Ni aprueba ni desaprueba,2,28
+Evaluacion de gestion presidente,Equipos,,2025,1,,2025-10-19,Frente Amplio,FA,,Orsi,Desaprueba,1,32
+Evaluacion de gestion presidente,Equipos,,2025,1,,2025-10-19,Frente Amplio,FA,,Orsi,NS/NC,0,4
+Evaluacion de gestion presidente,Opcion,,2025,1,,2025-10-20,Frente Amplio,FA,,Orsi,Aprueba,3,26
+Evaluacion de gestion presidente,Opcion,,2025,1,,2025-10-20,Frente Amplio,FA,,Orsi,Ni aprueba ni desaprueba,2,40
+Evaluacion de gestion presidente,Opcion,,2025,1,,2025-10-20,Frente Amplio,FA,,Orsi,Desaprueba,1,29
+Evaluacion de gestion presidente,Opcion,,2025,1,,2025-10-20,Frente Amplio,FA,,Orsi,NS/NC,0,5
+Evaluacion de gestion presidente,Cifra,,2025,1,,2025-11-03,Frente Amplio,FA,,Orsi,Aprueba,3,40
+Evaluacion de gestion presidente,Cifra,,2025,1,,2025-11-03,Frente Amplio,FA,,Orsi,Ni aprueba ni desaprueba,2,15
+Evaluacion de gestion presidente,Cifra,,2025,1,,2025-11-03,Frente Amplio,FA,,Orsi,Desaprueba,1,40
+Evaluacion de gestion presidente,Cifra,,2025,1,,2025-11-03,Frente Amplio,FA,,Orsi,NS/NC,0,5
+Evaluacion de gestion presidente,Opcion,,2025,1,,2025-11-25,Frente Amplio,FA,,Orsi,Aprueba,3,28
+Evaluacion de gestion presidente,Opcion,,2025,1,,2025-11-25,Frente Amplio,FA,,Orsi,Ni aprueba ni desaprueba,2,39
+Evaluacion de gestion presidente,Opcion,,2025,1,,2025-11-25,Frente Amplio,FA,,Orsi,Desaprueba,1,30
+Evaluacion de gestion presidente,Opcion,,2025,1,,2025-11-25,Frente Amplio,FA,,Orsi,NS/NC,0,3
+Evaluacion de gestion presidente,Equipos,,2025,1,,2025-12-02,Frente Amplio,FA,,Orsi,Aprueba,3,36
+Evaluacion de gestion presidente,Equipos,,2025,1,,2025-12-02,Frente Amplio,FA,,Orsi,Ni aprueba ni desaprueba,2,25
+Evaluacion de gestion presidente,Equipos,,2025,1,,2025-12-02,Frente Amplio,FA,,Orsi,Desaprueba,1,36
+Evaluacion de gestion presidente,Equipos,,2025,1,,2025-12-02,Frente Amplio,FA,,Orsi,NS/NC,0,3
+Evaluacion de gestion presidente,Factum,,2026,1,,2026-02-22,Frente Amplio,FA,,Orsi,Aprueba,3,37
+Evaluacion de gestion presidente,Factum,,2026,1,,2026-02-22,Frente Amplio,FA,,Orsi,Ni aprueba ni desaprueba,2,21
+Evaluacion de gestion presidente,Factum,,2026,1,,2026-02-22,Frente Amplio,FA,,Orsi,Desaprueba,1,41
+Evaluacion de gestion presidente,Factum,,2026,1,,2026-02-22,Frente Amplio,FA,,Orsi,NS/NC,0,1
+Evaluacion de gestion presidente,Opcion,,2026,1,,2026-02-25,Frente Amplio,FA,,Orsi,Aprueba,3,23
+Evaluacion de gestion presidente,Opcion,,2026,1,,2026-02-25,Frente Amplio,FA,,Orsi,Ni aprueba ni desaprueba,2,37
+Evaluacion de gestion presidente,Opcion,,2026,1,,2026-02-25,Frente Amplio,FA,,Orsi,Desaprueba,1,38
+Evaluacion de gestion presidente,Opcion,,2026,1,,2026-02-25,Frente Amplio,FA,,Orsi,NS/NC,0,2
+Evaluacion de gestion presidente,Cifra,,2026,1,,2026-02-28,Frente Amplio,FA,,Orsi,Aprueba,3,31
+Evaluacion de gestion presidente,Cifra,,2026,1,,2026-02-28,Frente Amplio,FA,,Orsi,Ni aprueba ni desaprueba,2,17
+Evaluacion de gestion presidente,Cifra,,2026,1,,2026-02-28,Frente Amplio,FA,,Orsi,Desaprueba,1,46
+Evaluacion de gestion presidente,Cifra,,2026,1,,2026-02-28,Frente Amplio,FA,,Orsi,NS/NC,0,6
+Evaluacion de gestion presidente,Equipos,,2026,2,,2026-03-05,Frente Amplio,FA,,Orsi,Aprueba,3,33
+Evaluacion de gestion presidente,Equipos,,2026,2,,2026-03-05,Frente Amplio,FA,,Orsi,Ni aprueba ni desaprueba,2,24
+Evaluacion de gestion presidente,Equipos,,2026,2,,2026-03-05,Frente Amplio,FA,,Orsi,Desaprueba,1,40
+Evaluacion de gestion presidente,Equipos,,2026,2,,2026-03-05,Frente Amplio,FA,,Orsi,NS/NC,0,3
+Evaluacion de gestion presidente,Equipos,,2026,2,,2026-05-04,Frente Amplio,FA,,Orsi,Aprueba,3,27
+Evaluacion de gestion presidente,Equipos,,2026,2,,2026-05-04,Frente Amplio,FA,,Orsi,Ni aprueba ni desaprueba,2,23
+Evaluacion de gestion presidente,Equipos,,2026,2,,2026-05-04,Frente Amplio,FA,,Orsi,Desaprueba,1,48
+Evaluacion de gestion presidente,Equipos,,2026,2,,2026-05-04,Frente Amplio,FA,,Orsi,NS/NC,0,2
+Evaluacion de gestion presidente,Factum,,2026,2,,2026-05-05,Frente Amplio,FA,,Orsi,Aprueba,3,29
+Evaluacion de gestion presidente,Factum,,2026,2,,2026-05-05,Frente Amplio,FA,,Orsi,Ni aprueba ni desaprueba,2,24
+Evaluacion de gestion presidente,Factum,,2026,2,,2026-05-05,Frente Amplio,FA,,Orsi,Desaprueba,1,46
+Evaluacion de gestion presidente,Factum,,2026,2,,2026-05-05,Frente Amplio,FA,,Orsi,NS/NC,0,1

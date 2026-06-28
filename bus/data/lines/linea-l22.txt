@@ -1,0 +1,228 @@
+Ir al contenido
+[ ] Menú principal
+Menú principal
+mover a la barra lateral ocultar
+Navegación
+
+  • Portada
+  • Portal de la comunidad
+  • Actualidad
+  • Cambios recientes
+  • Páginas nuevas
+  • Página aleatoria
+  • Ayuda
+  • Notificar un error
+  • Páginas especiales
+
+[wikipe] Wikipedia La enciclopedia libre
+Buscar
+[                    ]
+Buscar
+
+[ ] Apariencia
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+[ ] Herramientas personales
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+Contenidos
+
+mover a la barra lateral ocultar
+
+  • Inicio
+  • 1 Recorridos
+  • 2 Paradas
+  • 3 Enlaces externos
+
+[ ] Cambiar a la tabla de contenidos
+
+Línea L22 (Montevideo)
+
+[ ] Añadir idiomas
+
+Añadir enlaces
+
+  • Artículo
+  • Discusión
+
+[ ] español
+
+  • Leer
+  • Editar
+  • Ver historial
+
+[ ] Herramientas
+Herramientas
+mover a la barra lateral ocultar
+Acciones
+
+  • Leer
+  • Editar
+  • Ver historial
+
+General
+
+  • Lo que enlaza aquí
+  • Cambios en enlazadas
+  • Subir archivo
+  • Enlace permanente
+  • Información de la página
+  • Citar esta página
+  • Obtener URL acortado
+  • Cambiar al analizador antiguo
+
+Imprimir/exportar
+
+  • Crear un libro
+  • Descargar como PDF
+  • Versión para imprimir
+
+En otros proyectos
+
+  • Elemento de Wikidata
+
+Apariencia
+mover a la barra lateral ocultar
+De Wikipedia, la enciclopedia libre
+
+                    L21 ← L22 → L23
+                 Barrio Capra
+Gruta de Lourdes ━━━━━━━━━━━━━━━
+                 Plaza Don Bosco
+
+                    Área abastecida
+         Municipios           Montevideo
+                      Descripción
+            Tipo              Local
+           Sistema            Urbanos STM
+                       Operación
+                              Duración del viaje:
+
+          Longitud              • 25 minutos (Ida)
+                                • 27 minutos (Vuelta)
+
+                      Explotación
+           Estado             Operativa
+          Operador            CUTCSA
+          Autoridad           Intendencia de Montevideo
+[editar datos en Wikidata]
+
+La línea L22 es una línea local de Montevideo que une la Gruta de Lourdes, con
+el barrio Capra. En ocasiones su recorrido se extiende hasta el kilómetro 16 de
+la Ruta 8 quedando el barrio Capra como destino intermedio.
+
+Recorridos
+
+[editar]
+
+Circula por los barrios Gruta de Lourdes, Casavalle, Santa María, Piedras
+Blancas, Capra y Villa Don Bosco.
+
+Ida                                Vuelta
+
+  • Gruta de Lourdes                 • Capra
+  • Antillas                         • Correguela
+  • Avenida de las Instrucciones     • Agustín Bisio
+  • Camino Domingo Arena             • Camino Repetto
+  • Avenida General San Martín       • Avenida José Belloni
+  • Camino Capitán Tula              • Camino Capitán Tula
+  • Avenida José Belloni             • Avenida General San Martín
+  • Camino Repetto                   • Camino Domingo Arena
+  • Agustín Bisio                    • Avenida de las Instrucciones
+  • Correguela                       • Antillas
+  • Capra                            • Gruta de Lourdes
+
+                                   hacia Plaza Don Bosco (Ruta habitual)
+
+                                     • Camino Repetto
+                                     • Gianino Castiglioni
+                                     • Plaza Don Bosco - Ruta 8, kilómetro 16
+
+
+Paradas
+
+[editar]
+Sentido ida                           Sentido vuelta
+
+Código        Parada        Conexión  Código          Parada           Conexión
+4269   Querétaro                      4281   Correguela
+1851   Textil Montevideana            4283   Repetto
+1852   Chicago                        4597   Ombú
+4358   Parahiba                       2362   3401
+4356   Avenida San Martín             5440   German Sellera Gastambide
+2752   Capitán Tula                   2375   Francisca Gonzalez
+4304   Oficial 3                      2376   Paso de La Española
+4302   Olimar                         2377   José Belloni
+4296   Mendoza                        2300   Bartolomé Vignale
+4300   Luciano Lira                   2301   Capitán Tula
+4294   Antonio Teodoro                4305   Trinidad Guevara
+       Caravia                        4293   Agustín Vera
+4306   Trinidad Guevara               4299   Luciano Lira
+4298   José Belloni                   4295   Mendoza
+2241   Clemente Ruggia      300195169 4301   Olimar
+2242   Repetto                        4303   30 metros
+2360   Paso De La Española  L2751     4297   San Martín
+2361   Gonzalez Barroso               4355   San Martín
+5438   Gastambide                     4357   Parahiba
+2363   Frente 4841                    4344   de las Instrucciones
+5042   Ombú                           1950   Chicago
+4282   Repetto                        1951   Antillas
+4281   Barrio Capra                   4269   Querétaro (Gruta de
+       (destino)                             Lourdes)
+
+
+Enlaces externos
+
+[editar]
+
+ 1. Línea L22
+ 2. Sitio de CUTCSA
+
+Control de autoridades   • Proyectos Wikimedia
+                         • Wd Datos: Q15993840
+
+  • Wd Datos: Q15993840
+
+*
+Obtenido de «https://es.wikipedia.org/w/index.php?title=Línea_L22_(Montevideo)&
+oldid=171142170»
+Categoría:
+
+  • Transporte de Montevideo
+
+  • Esta página se editó por última vez el 23 dic 2025 a las 18:43.
+  • La página fue renderizada con Parsoid.
+  • El texto está disponible bajo la Licencia Creative Commons
+    Atribución-CompartirIgual 4.0; pueden aplicarse cláusulas adicionales. Al
+    usar este sitio aceptas nuestros términos de uso y nuestra política de
+    privacidad.
+    Wikipedia® es una marca registrada de la Fundación Wikimedia, una
+    organización sin ánimo de lucro.
+
+  • Política de privacidad
+  • Acerca de Wikipedia
+  • Limitación de responsabilidad
+  • Contacto legal y de seguridad
+  • Código de conducta
+  • Desarrolladores
+  • Estadísticas
+  • Declaración de cookies
+  • Versión para móviles
+
+  • Wikimedia Foundation
+  • Powered by MediaWiki
+
+Buscar
+[                    ]
+Buscar
+[ ] Cambiar a la tabla de contenidos
+Línea L22 (Montevideo)
+       
+Añadir idiomas Añadir tema
+

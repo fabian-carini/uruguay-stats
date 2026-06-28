@@ -1,0 +1,291 @@
+Ir al contenido
+[ ] Menú principal
+Menú principal
+mover a la barra lateral ocultar
+Navegación
+
+  • Portada
+  • Portal de la comunidad
+  • Actualidad
+  • Cambios recientes
+  • Páginas nuevas
+  • Página aleatoria
+  • Ayuda
+  • Notificar un error
+  • Páginas especiales
+
+[wikipe] Wikipedia La enciclopedia libre
+Buscar
+[                    ]
+Buscar
+
+[ ] Apariencia
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+[ ] Herramientas personales
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+Contenidos
+
+mover a la barra lateral ocultar
+
+  • Inicio
+  • 1 Recorridos
+  • 2 Paradas
+  • 3 Barrios
+  • 4 Destinos intermedios
+  • 5 Referencias
+
+[ ] Cambiar a la tabla de contenidos
+
+Línea 199 (Montevideo)
+
+[ ] Añadir idiomas
+
+Añadir enlaces
+
+  • Artículo
+  • Discusión
+
+[ ] español
+
+  • Leer
+  • Editar
+  • Ver historial
+
+[ ] Herramientas
+Herramientas
+mover a la barra lateral ocultar
+Acciones
+
+  • Leer
+  • Editar
+  • Ver historial
+
+General
+
+  • Lo que enlaza aquí
+  • Cambios en enlazadas
+  • Subir archivo
+  • Enlace permanente
+  • Información de la página
+  • Citar esta página
+  • Obtener URL acortado
+  • Cambiar al analizador antiguo
+
+Imprimir/exportar
+
+  • Crear un libro
+  • Descargar como PDF
+  • Versión para imprimir
+
+En otros proyectos
+
+  • Elemento de Wikidata
+
+Apariencia
+mover a la barra lateral ocultar
+De Wikipedia, la enciclopedia libre
+
+                               195 ← 199 → 300
+Cementerio Punta Carretas
+
+[330px-L]
+Línea 199 circulando por la Avenida Gonzalo Ramírez
+                               Área abastecida
+Municipios Montevideo
+                                 Descripción
+   Tipo    Urbano
+ Sistema   Urbanos STM
+             • Avenidas Luis Alberto de Herrera y Gral. Flores
+ Ramales     • Punta Carretas
+
+                                  Operación
+           Duración del viaje:
+
+ Longitud  15 minutos (hasta Av. Luis Alberto de Herrera)
+
+           40-50 minutos (hasta Punta Carretas)
+ Paradas   55 en la ida y 59 en la vuelta.
+                                 Explotación
+  Estado   Activa
+ Operador  CUTCSA
+[editar datos en Wikidata]
+
+La línea 199 de la red de transporte urbano de Montevideo une Punta Carretas
+con el Cementerio del Norte.
+
+Recorridos
+
+[editar]
+Ida                                        Vuelta
+
+  • Punta Carretas                           • Cementerio del Norte
+  • Bulevar General Artigas                  • Avenida Burgues
+  • José Ellauri                             • Rancagua
+  • Joaquín Nuñez                            • Avenida General San Martín
+  • Benito Nardone                           • Juan Saint Clement
+  • Avenida Julio Herrera y Reissig          • Dr. Enrique Amorín
+  • Avenida Gonzalo Ramírez                  • Bernabé Michelena
+  • Juan D. Jackson                          • Gregorio Pérez
+  • Avenida General Rivera                   • José A. Possolo
+  • Avenida Daniel Fernández Crespo          • Avenida General Flores
+  • Miguelete                                • Domingo Aramburú
+  • Justicia                                 • Marcelino Sosa
+  • Juan Carlos Patrón                       • Blandengues
+  • Inca                                     • Arenal Grande
+  • Domingo Aramburu                         • Justicia
+  • Avenida General Flores                   • La Paz
+  • Carreras Nacionales                      • Arenal Grande
+  • Gregorio Pérez                           • Avenida Uruguay
+  • Bernabé Michelena                        • Eduardo Acevedo
+  • Dr. Enrique Amorín                       • Avenida Gonzalo Ramírez
+  • Juan Saint Clement                       • Avenida Julio Herrera y Reissig
+  • Avenida General San Martín               • Ingeniero García de Zúñiga
+  • Rancagua                                 • José María Montero
+  • Avenida Burgues hasta la calle Sorata    • José Ellauri
+  • Cementerio del Norte                     • Bulevar General Artigas
+                                             • Terminal Punta Carretas
+
+
+Paradas
+
+[editar]
+
+N.º parada → Calle
+
+Ida                                        Vuelta
+
+2061 Tabaré                                3717 Terminal Crio Norte
+4850 Ramón Fernández                       3718 Dr. José María Silva
+3382 H. Miranda / Shopping                 3713 Cno. Chimborazo
+5403 Miñones                               3714 Sorata
+3368 Bv. Gral. Artigas                     5387 Lancaster
+2114 Patria                                4595 Gral. San Martín
+2115 E. García de Zúñiga                   2662 Lauro Ayestaran
+2116 Ibiray                                2663 Bernabé Michelena
+2117 Av. Tomás Giribaldi                   2664 Juan Acosta
+4084 Joaquín de Salterain                  2665 José A. Posolo
+4066 Juan D. Jackson                       2666 Torricelli
+3853 Durazno                               2667 Emilio Zola
+3854 Constituyente                         2668 Gral. Flores
+4494 Charrúa                               2328 Cno. Corrales
+3855 Chaná                                 2330 Cno. Chimborazo
+3856 Guayabos                              2332 Francisco Pla
+3833 Colonia (BPS)                         2333 Santiago Sierra
+3835 Cerro Largo                           2334 Bruno Mendez
+3837 Miguelete                             2336 José Batlle y Ordóñez
+3823 República                             2337 Juan José Quesada
+3706 Lima                                  2338 Av. Luis A. de Herrera
+3707 Gral. Pagola                          2339 Bv. Gral. Artigas
+3708 Nueva Palmira                         2404 Chubut
+3709 Dr. Juan J. de Amezaga                2405 Dr. Gustavo Gallinal
+2461 Blandengues                           2406 Av. Gral. José Garibaldi
+2462 Ramón del Valle Inclán                2407 Rivadavia
+2464 Gral. Flores                          2409 Domingo Aramburu
+2418 Rivadavia                             2458 Gral. Flores
+3805 Av. Gral. José Garibaldi              2459 Ramón del Valle Inclán
+3806 Gustavo Gallinal                      2460 Arenal Grande
+3807 Bv. Gral. Artigas                     3783 Dr. Juan J. de Amezaga
+2340 Av. Luis Alberto de Herrera           3702 Nueva Palmira
+2341 Juan José Quesada                     3703 Gral. Pagola
+2221 Tte. Cnel. Euclides A. Salari         3704 Lima
+2222 Dr. Héctor Luis Odriozola             3815 República
+4833 Santiago Sierra                       3831 Cerro Largo
+2223 Pte. Ing. José Serrato                3832 Av. Uruguay
+2225 Honduras                              3847 Colonia
+2227 Cno. Corrales                         3849 Guayabos
+2689 Gral. Flores                          3850 Chaná
+2690 Emilio Zola                           3851 Constituyente
+2691 Torricelli                            3852 Isla de Flores
+2692 Gregorio Pérez                        4074 Juan D. Jackson
+2679 José A. Posolo                        4085 Juan Paullier
+2680 Juan Acosta                           2118 Av. Tomás Giribaldi
+2660 Enrique Amorin                        2119 Ibiray
+2661 Lauro Ayestaran                       4457 Fac. Ingeniería
+5388 Rancagua                              555  Patria
+5404 Santiago Figueredo                    2120 Bv. Gral. Artigas
+5405 Av. Burgues                           3369 Williman
+3716 Sorata                                3370 Coronel Mora
+3717 Terminal Crio Norte                   3380 Joaquín Núñez
+                                           3381 H. Miranda / Shopping
+                                           4967 Tabaré
+                                           4991 Manuel J. Errazquin
+
+
+Barrios
+
+[editar]
+
+El 199 circula por los barrios: Punta Carretas, Parque Rodó, Cordón, Cordón
+Norte, La Comercial, Barrio Reus, Goes, Jacinto Vera, Bolívar (Cercanías a
+Hospital Policial), Cerrito de la Victoria, Las Acacias, Barrio Cóppola y
+Joanicó.
+
+Destinos intermedios
+
+[editar]
+
+VUELTA
+
+ 1. Parque Rodó
+ 2. Eduardo Acevedo y Colonia
+ 3. Gral. Flores y Luis A. de Herrera
+
+Referencias
+
+[editar]
+
+ 1. https://www.montevideo.gub.uy/buses/mapaBuses.html / Mapa online oficial de
+    IMM en conjunto con MTOP, consulte la ubicación de esta línea en tiempo
+    real.
+ 2. http://www.cutcsa.com.uy/
+
+Control de autoridades   • Proyectos Wikimedia
+                         • Wd Datos: Q16493855
+
+  • Wd Datos: Q16493855
+
+*
+Obtenido de «https://es.wikipedia.org/w/index.php?title=Línea_199_(Montevideo)&
+oldid=172618151»
+Categoría:
+
+  • Líneas de ómnibus de Montevideo
+
+  • Esta página se editó por última vez el 22 mar 2026 a las 03:06.
+  • La página fue renderizada con Parsoid.
+  • El texto está disponible bajo la Licencia Creative Commons
+    Atribución-CompartirIgual 4.0; pueden aplicarse cláusulas adicionales. Al
+    usar este sitio aceptas nuestros términos de uso y nuestra política de
+    privacidad.
+    Wikipedia® es una marca registrada de la Fundación Wikimedia, una
+    organización sin ánimo de lucro.
+
+  • Política de privacidad
+  • Acerca de Wikipedia
+  • Limitación de responsabilidad
+  • Contacto legal y de seguridad
+  • Código de conducta
+  • Desarrolladores
+  • Estadísticas
+  • Declaración de cookies
+  • Versión para móviles
+
+  • Wikimedia Foundation
+  • Powered by MediaWiki
+
+Buscar
+[                    ]
+Buscar
+[ ] Cambiar a la tabla de contenidos
+Línea 199 (Montevideo)
+       
+Añadir idiomas Añadir tema
+

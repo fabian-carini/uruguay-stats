@@ -1,0 +1,550 @@
+Ir al contenido
+[ ] Menú principal
+Menú principal
+mover a la barra lateral ocultar
+Navegación
+
+  • Portada
+  • Portal de la comunidad
+  • Actualidad
+  • Cambios recientes
+  • Páginas nuevas
+  • Página aleatoria
+  • Ayuda
+  • Notificar un error
+  • Páginas especiales
+
+[wikipe] Wikipedia La enciclopedia libre
+Buscar
+[                    ]
+Buscar
+
+[ ] Apariencia
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+[ ] Herramientas personales
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+Contenidos
+
+mover a la barra lateral ocultar
+
+  • Inicio
+  • 1 Recorrido y paradas
+    Alternar subsección Recorrido y paradas
+      □ 1.1 Paradas
+      □ 1.2 Destinos intermedios
+  • 2 Referencias
+  • 3 Enlaces externos
+
+[ ] Cambiar a la tabla de contenidos
+
+Línea 300 (Montevideo)
+
+[ ] Añadir idiomas
+
+Añadir enlaces
+
+  • Artículo
+  • Discusión
+
+[ ] español
+
+  • Leer
+  • Editar
+  • Ver historial
+
+[ ] Herramientas
+Herramientas
+mover a la barra lateral ocultar
+Acciones
+
+  • Leer
+  • Editar
+  • Ver historial
+
+General
+
+  • Lo que enlaza aquí
+  • Cambios en enlazadas
+  • Subir archivo
+  • Enlace permanente
+  • Información de la página
+  • Citar esta página
+  • Obtener URL acortado
+  • Cambiar al analizador antiguo
+
+Imprimir/exportar
+
+  • Crear un libro
+  • Descargar como PDF
+  • Versión para imprimir
+
+En otros proyectos
+
+  • Elemento de Wikidata
+
+Apariencia
+mover a la barra lateral ocultar
+De Wikipedia, la enciclopedia libre
+
+                               199 ← 300 → 306
+Cementerio Central Avenida de las Instrucciones
+
+[330px-L]
+Línea 300 circulando por la Avenida 8 de Octubre
+                               Área abastecida
+              Municipios               Montevideo
+                                 Descripción
+                 Tipo                  Urbano
+               Sistema                 Urbanos STM
+                                  Operación
+               Longitud                Duración del viaje: 1 hora y 12
+                                       minutos.
+                                 Explotación
+                Estado                 Activa
+               Operador                UCOT
+              Autoridad                Intendencia de Montevideo
+[editar datos en Wikidata]
+
+La línea 300 de la red de transporte urbano de Montevideo une el Cementerio
+Central con la intersección de las avenidas Instrucciones y Belloni.
+
+[250px-ACLO_-_Verheul_1]
+Línea 300 en una histórica unidad Aclo-Verheul durante el día del patrimonio en
+Montevideo.
+
+
+Recorrido y paradas
+
+[editar]
+
+
+En ambos sentidos circula por los barrios: Sur, Palermo, Parque Rodó, Cordón,
+Tres Cruces, Parque Batlle, La Blanqueada, La Unión, Curva de Maroñas, Jardines
+del Hipódromo, Piedras Blancas, Mang y Puntas de Manga.^[1]
+
+Ida                                     Vuelta
+
+  • Cementerio Central                    • Instrucciones
+  • Avenida Gonzalo Ramírez               • Avenida José Belloni
+  • Avenida Julio Herrera y Reissig       • ● (Estación Manga)
+  • Ingeniero García de Zúñiga            • Avenida José Belloni
+  • Bulevar General Artigas               • ● (Intercambiador Belloni)
+  • Avenida Italia                        • Avenida 8 de Octubre
+  • Avenida Luis Alberto de Herrera       • Avenida Luis Alberto de Herrera
+  • Avenida 8 de Octubre                  • Avenida Italia
+  • ● (Intercambiador Belloni)            • Avelino Miranda
+  • Avenida José Belloni                  • Bulevar General Artigas
+  • ● (Estación Manga)                    • Benito Nardone
+  • Avenida José Belloni                  • Avenida Julio Herrera y Reissig
+                                          • Avenida Gonzalo Ramírez
+  • Avenida de las Instrucciones          • Ejido
+  • Terminal Instrucciones                • Isla de Flores
+                                          • Doctor Aquiles R Lanza
+                                          • Avenida Gonzalo Ramírez
+                                          • Cementerio Central
+
+
+Paradas
+
+[editar]
+IDA                                VUELTA
+
+Código     Parada       Conexión   Código     Parada             Conexión
+4052   Ejido                       4468   Belloni y
+4072   Salto          137149407           Instrucciones
+                      522                                110
+4073   Minas          137 149 407  2286   Cno. Carlos
+                      522                 Linneo         169 L32 L33
+4418   Yaro           17 149 407
+                      522                                110
+4074   Juan D.        17117 128149 2287   Cno. Osvaldo
+       Jackson        199 407 522         Rodríguez      169 L32 L33
+                      17
+                                                         110
+4085   Joaquín        117 128149   2288   Canope
+       Requena        182192 409                         169 L32 L33
+                      405407522
+                                                         110
+                      117          2289   Cno. Antares
+       Tomas                                             169 L32 L33
+2118   Giribaldi      145 149 192
+                      199 405 407                        110
+                                   2290   Cno. Benito
+                      117                 Berges         169 L32 L33
+2119   Ibiray
+                      192 199 405                        110
+                                   2291   Ruta
+                      117                 Perimetral 102 169 L32 L33
+4457   Eduardo García
+       De Zúñiga      192 199 405                        110
+                                   2292   Cno. Los
+                      117                 Tangerinos     169 L32 L33
+555    Patria
+                      192 199 405                        110
+                                   2293   Cno. Alcor
+                      117                                149 169 192 L32 L33
+2120   Bulevar
+       Artigas        192 199 405                        110
+                                   2294   Cno. Petirossi
+2064   Ibiray         174                                149 169 192 L32 L33
+                      145
+2065   21 de                                             110
+       Septiembre     149 174 407  6678   Cno. Carlos A
+                                          López          149 169 192 L32 L33
+                      145
+2066   Bulevar España                                    110
+                      149 174 407  2295   Av. de la
+                                          Aljaba         169 192
+                      145
+       Alfredo                                           110
+2067   Baldomir       149 174 181  2296   Cap. Coralio
+                      407 427             Lacosta        169 192 505
+
+                      145                                110
+                                   2298   Previsión
+2068   Maldonado      149 174 181                        169 192 505
+                      407 427
+                                                         110
+                      71           2299   Cno. Domingo
+                                          Arena          169 192 505
+2069   Guaná          121 174 181
+                      407 427                            110
+                                   2300   Bartolomé
+                      71                  Vignale        169 192 456 505 L2 L22
+
+2070   Palmar         121 157 163                        110
+                      181 407 526  2302   Cno. Cap. Tula
+                                                         169 192 456 505 L2 L22
+                      71
+                                                         110
+2109   Lord Ponsomby  121 157 163  2303   Cno. Tte
+                      181 407 526         Rinaldi        169 192 456 505 L2
+
+                      21                                 106
+
+2071   Morales        64 71 115    2304   Dunant         110 169 192 456 505 L2
+                      174 187 407                        L46
+                      D9 D10
+                                                         106
+                      21
+                                   2305   José Pacheco   110 169 192 456 505 L2
+                      64 71 115                          L46
+2121   Lorenzo Batlle 143 151 174
+                      187 370 407                        106
+                      494 495 D9   2306   Cno. Gral.
+                      D10                 Leandro Gómez  110 L46
+
+                      21                                 106
+                                   2307   Bv Aparicio
+       Américo        64 71 115           Saravia        110 L46
+2122   Ricaldoni      143 151 174
+                      187 370 407                        106
+                      494 495      2308   Bergamo
+                                                         110 L46
+                      21
+                                                         106
+2123   Plaza          64 71 115    2309   Lacio
+       Francisco Soca 151 174 370                        110 L46
+                      407
+                                                         106
+                      21           2310   José Shaw
+                                                         110 L46
+2124   Las Heras      64 71 151
+                      174 370 407                        106
+                      D9 D10       2311   Lisboa
+                                                         110 L46
+                      71
+6509   Juan Ortiz                                        106
+                      174 182 183  2312   Enrique San
+                                          Aguiar         110 L46
+                      71
+6510   Mateo Vidal                                       106
+                      174 182 183  2313   Osvaldo Cruz
+                                                         110 L46
+                      71
+3446   Asilo                                             79
+                      174 182 183  2314   Virrey Elio
+                                                         106 110 L46
+                      2
+                                                         79
+                      100 102 103  6195   Manuel
+4865   Agustín Abreu  105 106 109         Calleros       106 110 L46
+                      110 111 112
+                      113 115 174         Intercambiador 79
+                      316 404 546         Belloni
+                                   6194                  106 110 111 115 L36
+                      2                   (Andén 3)
+
+3190   María Stagnero 100 102 103                        100
+       de Munar       106 110 115         Gobernador
+                      174 316 404  2546   Vigodet        102 103 106 110 111 115
+                                                         306 316 402 404 405
+                      2
+                                                         100
+3192   Comercio       100 102 103
+                      106 110 115  2547   Güemes         102 103 106 110 111 115
+                      174 316 404                        306 316 402 404 405
+
+                      100                                100
+
+3194   José Serrato   102 103 106  2548   Belén          102 103 106 110 111 112
+                      110 115 316                        115 316 402 404 405
+                      404 405
+                                                         100
+                      100
+                                   3215   20 de Febrero  102 103 106 110 111 112
+3196   Larravide      102 103 106                        115 316 402 404 405
+                      110 115 316
+                      404 405                            100
+                                          Gral. José
+                      100          3216   Villagrán      102 103 106 110 111 112
+                                                         113 115 316 402 404 405
+3198   Félix Laborde  102 103 106
+                      110 115 316                        100
+                      404 405             Pascual
+                                   2549   Paladino       102 103 106 110 111 112
+                      100                                113 115 316 404
+
+3200   Pan de Azúcar  102 103 106                        100
+                      110 115 316
+                      404 405      3217   Dr. Silvestre  102 103 105 106 109 110
+                                          Pérez          111 112 113 115 316 404
+                      100                                546
+
+       Gral. José     102 103 106                        115
+3202   Villagrán      110 111 112  3218   Lindoro
+                      113 115 316         Forteza        316 404
+                      402 404 405
+                                                         115
+                      100          3220   Cipriano Miro
+                                                         404 316
+                      102 103 106
+3204   Ramón Castriz  110 111 112                        115
+                      115 316 402  3222   Gobernador
+                      404 405             Viana          404 316
+
+                      100                                115
+                                   3224   Pernas
+                      102 103 106                        316 404
+4890   Vera           110 111 115
+                      306 316 402                        115
+                      404 405      3226   Felipe
+                                          Sanguinetti    174 316 404
+                      100
+                                                         2
+                      102 103 106
+3206   Alférez Real   110 111 115  3227   Bulevar Batlle 100 102 103 105 106 109
+                      306 316 402         y Ordóñez      110 111 112 113 115 174
+                      404 405                            316 404 546
+
+                      100                                2
+
+       Gobernador     102 103 106  3228   Agustín Abreu  100 102 103 105 106 109
+2546   Vigodet        110 111 115                        110 111 112 113 115 174
+                      306 316 402                        316 404 546
+                      404 405
+                                                         2
+       Intercambiador 110          3229   Av. Dámaso A
+6193   Belloni (Anden                     Larrañaga      115 174 316 404
+       1)             115
+                                                         71
+                      79           6511   Prof. Dr.
+6196   Roma                               Pablo Purriel  174 181 182
+                      110 L36
+                                                         71
+                      79           3461   República
+2315   Dr. Alfonso                        Dominicana     174 181 182
+       Lamas          110 L36
+                                                         71
+                      110          4517   Belgrano
+2316   Osvaldo Cruz                                      174 181 182
+                      L36
+                                                         21
+                      110                 Hospital de
+2318   Lisboa                      2189   Clínicas       64 71 151 174 370 407 D9
+                      L36                                D10
+
+                      110                                21
+2319   Montecarlo
+                      L36          2190   Av Centenario  64 71 143 151 174 370
+                                                         407 494 495
+                      110
+2320   Lacio                                             21
+                      L36
+                                   2192   Pte Berro      64 71 115 143 151 174
+                      110                                187 370 407 494 495 D9
+2321   Av. Dr. Carlos                                    D10
+       Nery           L36
+                                                         71
+                      110
+2322   Atenas                      2108   Tres Cruces    163 174 180 183 188 330
+                      L36                                407 526 D8
+
+                      110                 Hospital       71
+2323   Cno. Gral.                  2110   Pereira
+       Leandro Gómez  L36                 Rossell        121 163 183 407 527 D11
+
+                      110                                71
+       Cno. Tte                    556    Av. Gral.
+2237   Galeano        169 192 456         Rivera         121 183 407
+                      505 L2 L36
+                                                         71
+                      110          2112   Chana
+       Cno. Tte                                          121 174 183 407 427
+2238   Rinaldi        169 192 456
+                      505 L2       2113   Canelones      174 183 407 427
+
+                      110          2055   Hugo Prato     174 183 407 427
+       Matilde
+2240   Pacheco        169 192 456  2056   21 de          174
+                      505 L2              Septiembre
+                                   2057   Ibiray         174
+                      110
+       Clemente                                          174
+2241   Ruggia         169 192 456  2058   Benito Nardone
+                      505 L2 L22                         192
+
+                      110                                117
+                                   2114   Patria
+2242   Cno. Repetto   169 192 505                        192 199 405
+                      L2 L22
+                                                         117
+                      110          2115   Eduardo García
+                                          de Zúñiga      192 199 405
+2243   Previsión      169 192 505
+                      L25          2116   Ibiray         117 192 199 405
+
+                      110                                117
+2245   Cap. Coralio                2117   Tomás
+       Lacosta        169 192 505         Giribaldi      192 199 405
+
+                      110                 Joaquín        17117 128149182192199405
+2247   Av de la                    4084   Requena        407522
+       Aljaba         169 192
+                                   4066   Juan D Jackson 17117 128149 199 407 522
+                      110          4067   Gaboto         17 149 407 522
+       Cno. Carlos A                                     17
+2248   López          169 192 L32  4068   Minas
+                      L33                                137149 407 522
+
+                      110                 Andrés
+                                   4069   Martinez       137 149 407 522
+2249   Cno. Petirossi 149 169 192         Trueba
+                      L32 L33      4070   Ejido          137 149 407 522
+                                          Aquiles Lanza
+                      110          4053   -
+
+2250   Cno. Alcor     149 169 192         DESTINO
+                      L32 L33
+
+                      110
+2251   Cno. Los
+       Tangerinos     169 L32 L33
+
+                      110
+2253   Cno. Benito
+       Berges         169 L32 L33
+
+                      110
+2254   Pasaje A
+                      169 L32 L33
+
+                      110
+2255   Canope
+                      169 L32 L33
+
+                      110
+2256   Cno. Osvaldo
+       Rodríguez      169 L32 L33
+
+                      110
+2257   Cno. Carlos
+       Linneo         169 L32 L33
+
+       Belloni y
+4467   Instrucciones
+       - DESTINO
+
+
+Destinos intermedios
+
+[editar]
+
+Ida
+
+ 1. Manga (Avenida Belloni y Andaluz)
+ 2. Piedras Blancas (Avenida Belloni y Repetto)
+ 3. Intercambiador Belloni
+
+Vuelta
+
+ 1. Avenida 8 de Octubre y Corrales
+ 2. Avenida 8 de Octubre y Avenida Luis Alberto de Herrera
+ 3. Estadio Centenario
+ 4. Bulevar Artigas y Avenida Rivera
+ 5. Parque Rodó.
+
+Referencias
+
+[editar]
+
+ 1. ↑ «Continúa la readecuación del transporte». 15 de mayo de 2020. p. 
+    Intendencia de Montevideo. 
+
+Enlaces externos
+
+[editar]
+
+ 1. Línea 300
+ 2. Sitio oficial de UCOT
+
+Control de autoridades   • Proyectos Wikimedia
+                         • Wd Datos: Q16493862
+
+  • Wd Datos: Q16493862
+
+*
+Obtenido de «https://es.wikipedia.org/w/index.php?title=Línea_300_(Montevideo)&
+oldid=172618179»
+Categoría:
+
+  • Líneas de ómnibus de Montevideo
+
+  • Esta página se editó por última vez el 22 mar 2026 a las 03:09.
+  • La página fue renderizada con Parsoid.
+  • El texto está disponible bajo la Licencia Creative Commons
+    Atribución-CompartirIgual 4.0; pueden aplicarse cláusulas adicionales. Al
+    usar este sitio aceptas nuestros términos de uso y nuestra política de
+    privacidad.
+    Wikipedia® es una marca registrada de la Fundación Wikimedia, una
+    organización sin ánimo de lucro.
+
+  • Política de privacidad
+  • Acerca de Wikipedia
+  • Limitación de responsabilidad
+  • Contacto legal y de seguridad
+  • Código de conducta
+  • Desarrolladores
+  • Estadísticas
+  • Declaración de cookies
+  • Versión para móviles
+
+  • Wikimedia Foundation
+  • Powered by MediaWiki
+
+Buscar
+[                    ]
+Buscar
+[ ] Cambiar a la tabla de contenidos
+Línea 300 (Montevideo)
+       
+Añadir idiomas Añadir tema
+

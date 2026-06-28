@@ -1,0 +1,296 @@
+Ir al contenido
+[ ] Menú principal
+Menú principal
+mover a la barra lateral ocultar
+Navegación
+
+  • Portada
+  • Portal de la comunidad
+  • Actualidad
+  • Cambios recientes
+  • Páginas nuevas
+  • Página aleatoria
+  • Ayuda
+  • Notificar un error
+  • Páginas especiales
+
+[wikipe] Wikipedia La enciclopedia libre
+Buscar
+[                    ]
+Buscar
+
+[ ] Apariencia
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+[ ] Herramientas personales
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+Contenidos
+
+mover a la barra lateral ocultar
+
+  • Inicio
+  • 1 Historia
+  • 2 Recorridos
+  • 3 Destinos intermedios
+  • 4 Galería
+  • 5 Referencias
+  • 6 Enlaces externos
+
+[ ] Cambiar a la tabla de contenidos
+
+Línea 71 (Montevideo)
+
+[ ] Añadir idiomas
+
+Añadir enlaces
+
+  • Artículo
+  • Discusión
+
+[ ] español
+
+  • Leer
+  • Editar
+  • Ver historial
+
+[ ] Herramientas
+Herramientas
+mover a la barra lateral ocultar
+Acciones
+
+  • Leer
+  • Editar
+  • Ver historial
+
+General
+
+  • Lo que enlaza aquí
+  • Cambios en enlazadas
+  • Subir archivo
+  • Enlace permanente
+  • Información de la página
+  • Citar esta página
+  • Obtener URL acortado
+  • Cambiar al analizador antiguo
+
+Imprimir/exportar
+
+  • Crear un libro
+  • Descargar como PDF
+  • Versión para imprimir
+
+En otros proyectos
+
+  • Elemento de Wikidata
+
+Apariencia
+mover a la barra lateral ocultar
+De Wikipedia, la enciclopedia libre
+
+La línea 71 es una línea urbana de Montevideo, une el barrio Pocitos con la
+terminal de ómnibus ubicada en la intersección de las avenidas Mendoza e
+Instrucciones.
+
+El destino de ida es Mendoza e Instrucciones y el de vuelta es Pocitos.
+
+                                 64 ← 71 → 76
+Mendoza e Instrucciones Pocitos
+                        (Circuito)
+
+[250px-Bus1_UCOT_de_Montevideo]
+
+
+
+Línea 71 circulando por Avenida Italia
+                               Área abastecida
+        Municipios         Montevideo
+                                 Descripción
+           Tipo            Urbano
+         Sistema           Sistema de Transporte Metropolitano
+       Inauguración        1948
+        Supresión          2016
+        Reapertura         2016
+                                 Explotación
+          Estado           En servicio
+                             • Busscar Urbanuss Pluss Volvo B7R
+                             • Caio Foz Súper Agrale MT-12
+                             • Comil Svelto 2012 Agrale MT-15.0LE
+          Flota              • Comil Svelto BRS Agrale MT-17
+                             • Marcopolo Torino 2014 Low Entry Agrale
+                               MT-17.0LE
+
+                             • AMDET (1948 - 1975)
+         Operador            • RAINCOOP (1975 - 2016)
+                             • UCOT (2016 - presente)
+
+                                   Esquema
+fKBHFa 0m            Pocitos / Ramón MasiniOrigen
+fHST   8-10m         Rivera / L. A. de Herr.
+fHST   14m-20m       Av. Brasil / 26 de Marzo
+fHST   21m-28m       Hospital A. Española
+fHST   24m-32m       Tres Cruces
+fHST   34m-44m       8 de Oct / L. A. de Herr.
+fHST   40m-51m       Larrañaga / Londres
+fHST   45m-57m       Hipódromo
+fHST   51m-1 h y 03m Mendoza / Domingo Arena
+fKBHFe 50m-1 h y 07m Mendoza e InstruccionesDestino
+                              Sucesión de líneas
+71 Línea 71 (Montevideo)  71
+
+[editar datos en Wikidata]
+
+Historia
+
+[editar]
+
+[250px-Desfile_de_locomoci]
+Desfile de la locomoción por la Avenida 18 de Julio, al fondo puede verse un
+ómnibus de la línea 71
+
+Creada en 1948 por la Administración Municipal de Transporte, quien hasta los
+años setenta fue su operadora. En el año 1975 y a consecuencia del cierre del
+ente municipal la línea es cedida a la cooperativa Raincoop para su operación.^
+[1]
+
+A lo largo de los años esta línea tuvo diversas modificaciones y para el año
+2008 (con la creación del STM) hasta entonces la línea tenía como destino
+Ciudadela (por Colonia al centro y Mercedes hacia afuera), tras su
+modificación, pasaría a tener como destino la terminal de Pocitos, aunque al
+muy poco tiempo se determinó que esta línea realice su recorrido mediante
+circuito, es decir, sin realizar un descanso en dicho punto, dejando a la
+terminal de Mendoza e Instrucciones como único punto de partida, llegada y
+descanso. Esto se realizó junto con algunas líneas de dicha terminal para
+disminuir la cantidad de unidades en la misma. Tras el cierre de la cooperativa
+Raincoop el 14 de junio de 2016 este servicio pasa a ser operado por la
+cooperativa Ucot.^[2] En el año 2018, ya dentro de su administración, desde
+allí se planteó una modificación para realizar una ruta diferente en la zona de
+Pocitos, conservando su destino en cartel de dicho barrio y además conservando
+su última parada en la acera de cara al Montevideo Shopping (ya que hasta
+entonces la parada se encontraba al frente), pero con la asunción de Juan
+Salgado en la Cámara del Transporte y junto con la compañía Cutcsa y directivos
+de la misma presentaron un recurso en contra de esta iniciativa, alegando la
+superposición de líneas en dicho lugar, por lo cual la administración de la
+Intendencia de Montevideo de ese entonces falló a favor de Cutcsa (desestimando
+el proyecto de UCOT) por lo cual a esta línea finalmente se le acorta su
+recorrido hasta la intersección de las calles Juan Benito Blanco y Miguel
+Barreiro, para retornar por esta última e iniciar su recorrido de regreso
+doblando en la rambla montevideana, dicho destino se encuentra dentro del
+barrio Pocitos.^[3]
+
+Recorridos
+
+[editar]
+
+En ambos sentidos circula por los barrio Pocitos, La Mondiola, Parque Rodó,
+Cordón, Tres Cruces, Parque Batlle, La Blanqueada, Bolívar, Villa Española,
+Maroñas, Marconi (por Mendoza), Nuevo Ellauri, Piedras Blancas, Boiso Lanza y
+Manga.
+
+                     71 Pocitos - Mendoza e Instrucciones
+
+Ida                                     Vuelta
+
+  • Miguel Barreiro                       • Terminal Mendoza e Instrucciones
+  • Rambla República del Perú             • Av. De las Instrucciones
+  • Avenida Brasil                        • Cno. Carlos A López
+  • Bulevar General Artigas               • Av. Don Pedro de Mendoza
+  • Avenida Italia                        • Av. Gral. Flores
+  • Avenida Luis Alberto de Herrera       • José María Guerra
+  • Avenida Dámaso Antonio Larrañaga      • Mariano Estapé
+  • Mariano Estapé                        • Av. Dámaso Antonio Larrañaga
+  • José María Guerra                     • Joanicó
+  • Avenida General Flores                • Av. Luis Alberto de Herrera
+  • Avenida Don Pedro de Mendoza          • Av. Italia
+  • Avenida de las Instrucciones          • Avelino Miranda
+  • Terminal Mendoza e Instrucciones      • Bv. Gral. Artigas
+                                          • Canelones
+                                          • Av. Brasil
+                                          • Juan Benito Blanco
+                                          • Miguel Barreiro
+
+
+Destinos intermedios
+
+[editar]
+
+VUELTA
+
+  • Tres Cruces (Bulevar Artigas y Avenida Rivera)
+
+Galería
+
+[editar]
+
+  • [120px-Plaza_Libe]
+  • [120px-Avenida_Br]
+
+Referencias
+
+[editar]
+
+ 1. ↑ «El recorrido original de esta línea en Raincoop.». 
+ 2. ↑ Observador, El. «Trabajadores de Raincoop demandarán al Estado». El
+    Observador. Consultado el 15 de octubre de 2022. 
+ 3. ↑ «Se resolvió distribución de las líneas de Raincoop». Uypress. 14 de
+    junio de 2016. Consultado el 2 de setiembre de 2023. 
+
+Enlaces externos
+
+[editar]
+
+ 1. https://www.montevideo.gub.uy/buses/mapaBuses.html / Mapa en línea oficial
+    de IMM en conjunto con MTOP, consulte la ubicación de esta línea en tiempo
+    real.
+ 2. https://www.montevideo.gub.uy/app/stm/horarios/ - Sitio Oficial de IMM /
+    Consulte Horarios
+ 3. http://www.ucot.net/
+
+Control de autoridades   • Proyectos Wikimedia
+                         • Wd Datos: Q16493927
+
+  • Wd Datos: Q16493927
+
+*
+Obtenido de «https://es.wikipedia.org/w/index.php?title=Línea_71_(Montevideo)&
+oldid=171303601»
+Categoría:
+
+  • Líneas de ómnibus de Montevideo
+
+  • Esta página se editó por última vez el 3 ene 2026 a las 04:01.
+  • La página fue renderizada con Parsoid.
+  • El texto está disponible bajo la Licencia Creative Commons
+    Atribución-CompartirIgual 4.0; pueden aplicarse cláusulas adicionales. Al
+    usar este sitio aceptas nuestros términos de uso y nuestra política de
+    privacidad.
+    Wikipedia® es una marca registrada de la Fundación Wikimedia, una
+    organización sin ánimo de lucro.
+
+  • Política de privacidad
+  • Acerca de Wikipedia
+  • Limitación de responsabilidad
+  • Contacto legal y de seguridad
+  • Código de conducta
+  • Desarrolladores
+  • Estadísticas
+  • Declaración de cookies
+  • Versión para móviles
+
+  • Wikimedia Foundation
+  • Powered by MediaWiki
+
+Buscar
+[                    ]
+Buscar
+[ ] Cambiar a la tabla de contenidos
+Línea 71 (Montevideo)
+       
+Añadir idiomas Añadir tema
+

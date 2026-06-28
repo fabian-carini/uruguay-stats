@@ -1,0 +1,275 @@
+Ir al contenido
+[ ] Menú principal
+Menú principal
+mover a la barra lateral ocultar
+Navegación
+
+  • Portada
+  • Portal de la comunidad
+  • Actualidad
+  • Cambios recientes
+  • Páginas nuevas
+  • Página aleatoria
+  • Ayuda
+  • Notificar un error
+  • Páginas especiales
+
+[wikipe] Wikipedia La enciclopedia libre
+Buscar
+[                    ]
+Buscar
+
+[ ] Apariencia
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+[ ] Herramientas personales
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+Contenidos
+
+mover a la barra lateral ocultar
+
+  • Inicio
+  • 1 Historia
+  • 2 Recorridos
+    Alternar subsección Recorridos
+      □ 2.1 Recorridos anteriores
+  • 3 Referencias
+  • 4 Enlaces externos
+
+[ ] Cambiar a la tabla de contenidos
+
+Línea 77 (Montevideo)
+
+[ ] Añadir idiomas
+
+Añadir enlaces
+
+  • Artículo
+  • Discusión
+
+[ ] español
+
+  • Leer
+  • Editar
+  • Ver historial
+
+[ ] Herramientas
+Herramientas
+mover a la barra lateral ocultar
+Acciones
+
+  • Leer
+  • Editar
+  • Ver historial
+
+General
+
+  • Lo que enlaza aquí
+  • Cambios en enlazadas
+  • Subir archivo
+  • Enlace permanente
+  • Información de la página
+  • Citar esta página
+  • Obtener URL acortado
+  • Cambiar al analizador antiguo
+
+Imprimir/exportar
+
+  • Crear un libro
+  • Descargar como PDF
+  • Versión para imprimir
+
+En otros proyectos
+
+  • Elemento de Wikidata
+
+Apariencia
+mover a la barra lateral ocultar
+De Wikipedia, la enciclopedia libre
+
+La línea 77 fue una línea de transporte urbano de Montevideo. Unía Portones
+Shopping con Nuevocentro Shopping.
+
+                              70 ← 77 → 96
+Nuevocentro Shopping Portones Shopping
+
+                               Descripción
+                Tipo                  Urbano
+               Sistema                Sistema de Transporte Metropolitano
+            Inauguración              1948
+              Supresión               2020
+                                Operación
+                                      Duración del viaje:
+              Longitud
+                                        • 53 minutos (aprox)
+
+                               Explotación
+               Estado                 Fuera de servicio
+                                        • AMDET (inicios - 1975)
+              Operador                  • RAINCOOP (1975 - 2016)
+                                        • CUTCSA (2016 - 2020)
+
+                                 Esquema
+KBHFa 0m      Nuevocentro ShoppingOrigen
+HST   5m-8m   Antel Arena
+HST   15m-21m 8 de Oct / L. A. de Herr.
+HST   21m-31m 8 de Oct / Pan de Azúcar
+HST   26m-38m Corrientes / Pirán
+HST   33m-47m La Cruz de Carrasco
+HST   36m-50m Coca Cola
+KBHFe 41m-56m Portones ShoppingDestino
+                           Sucesión de líneas
+77 Línea 77 (Montevideo)  77
+
+[editar datos en Wikidata]
+
+Historia
+
+[editar]
+
+Creado en 1948 por la Administración Municipal de Transporte, uniendo
+inicialmente la Aduana con la Playa del Buceo, en 1975 con la disolución del
+ente estatal, la línea es adquirida por la cooperativa Rápido Internacional
+Cooperativo quien realiza algunas modificaciones en su recorrido, primero,
+desde la Aduana hacia Punta Gorda, y en los años noventa con la inauguración
+del Shopping Portones el recorrido es extendido hacia el mismo, y en 2004 con
+la apertura de la terminal homónima modifica su lugar de destino. En el año
+2016 la cooperativa Raincoop quiebra, por lo cual la línea le es otorgada a la
+compañía Cutcsa^[1] quien al tiempo de iniciar su operación decide modificar
+drásticamente su recorrido, uniendo el Shopping Portones con el Shopping Nuevo
+Centro en el barrio Bolívar.
+
+Dicha modificación se ve justificada debido a que el barrio Bolívar se
+encontraba en el proceso de inaugurar distintos edificios y dependencias que
+iban a necesitar de una mayor conexión con el transporte urbano. Estos
+edificios fueron el Sanatorio del Banco de Seguros, la Jefatura de Policía, el
+Edificio Libertad y la apertura del Instituto de Traumatología, y el Antel
+Arena.
+
+Finalmente en el año 2020, la línea fue definitivamente suprimida, quedando
+fuera de servicio.^[2]^[3]
+
+                                 Imagen externa
+● Línea 77 siendo aún servida por Raincoop
+Atención: este archivo está alojado en un sitio externo, fuera del control de
+la Fundación Wikimedia.
+
+Recorridos
+
+[editar]
+
+Circulaba por los barrios Bolívar, La Blanqueada, La Unión, Malvín Norte, La
+Cruz de Carrasco, y Carrasco.
+
+Su ida fue                              Su vuelta fue
+
+  • ● (Terminal Portones)                 • Nuevocentro Shopping
+  • Avenida María Luisa Saldún de         • Bulevar Artigas
+    Rodríguez                             • Avenida General Flores
+  • Camino Carrasco                       • Avenida Luis Alberto de Herrera
+  • Pirán                                 • Avenida José Pedro Varela
+  • Avenida Corrientes                    • Avenida Dámaso Antonio Larrañaga
+  • 20 de Febrero                         • Joanicó
+  • Avenida 8 de Octubre                  • Mariano Moreno
+  • Avenida Dámaso A.Larrañaga            • Avenida 8 de Octubre
+  • José Serrato                          • Gral. Villagrán
+  • Avenida José Pedro Varela             • José A. Cabrera
+  • Avenida Luis Alberto de Herrera       • 20 de Febrero
+  • Juan Campisteguy                      • Avenida Corrientes
+  • Bulevar Artigas                       • Pirán
+  • Nuevocentro Shopping                  • Camino Carrasco
+                                          • Avenida María Luisa Saldún de
+                                            Rodríguez
+                                          • Avenida Bolivia
+                                          • ● (Terminal Portones)
+
+
+Recorridos anteriores
+
+[editar]
+Ida                                     Vuelta
+
+  • Plaza Independencia                   • ...Siria
+  • Avenida18 de Julio                    • San Nicolás
+  • Avenida 8 de Octubre                  • Avenida Bolivia ● (Terminal
+  • Gral. José Villagrán                    Portones)
+  • José Antonio Cabrera                  • Camino Carrasco
+  • 20 de Febrero                         • 20 de Febrero
+  • Camino Carrasco                       • Avenida 8 de Octubre
+  • Avenida Bolivia ● (Terminal           • Avenida 18 de Julio
+    Portones)                             • Plaza Independencia
+  • Avenida General José Paz              • Juncal, continúa sin espera...
+  • Avenida Gral. Rivera
+  • Priamo
+  • Caramurú
+  • Avenida San Marino
+  • Siria...
+
+
+Referencias
+
+[editar]
+
+ 1. ↑ «Pasajeros en tránsito». la diaria. 14 de junio de 2016. Consultado el 15
+    de octubre de 2022. 
+ 2. ↑ «Se resolvió distribución de las líneas de Raincoop». Uypress. 14 de
+    junio de 2026. Consultado el 2 de setiembre de 2023. 
+ 3. ↑ «Desde este lunes las líneas de ómnibus 77, 173, L41, 79, 174 y 538
+    modifican sus recorridos». 1 de noviembre de 2018. p. Telemundo (noticiero)
+    . Consultado el 3 de setiembre de 2023. 
+
+Enlaces externos
+
+[editar]
+
+ 1. http://www.cutcsa.com.uy/
+
+Control de autoridades   • Proyectos Wikimedia
+                         • Wd Datos: Q16487147
+
+  • Wd Datos: Q16487147
+
+*
+Obtenido de «https://es.wikipedia.org/w/index.php?title=Línea_77_(Montevideo)&
+oldid=164545310»
+Categoría:
+
+  • Líneas de ómnibus de Montevideo fuera de servicio
+
+  • Esta página se editó por última vez el 6 ene 2025 a las 16:20.
+  • La página fue renderizada con Parsoid.
+  • El texto está disponible bajo la Licencia Creative Commons
+    Atribución-CompartirIgual 4.0; pueden aplicarse cláusulas adicionales. Al
+    usar este sitio aceptas nuestros términos de uso y nuestra política de
+    privacidad.
+    Wikipedia® es una marca registrada de la Fundación Wikimedia, una
+    organización sin ánimo de lucro.
+
+  • Política de privacidad
+  • Acerca de Wikipedia
+  • Limitación de responsabilidad
+  • Contacto legal y de seguridad
+  • Código de conducta
+  • Desarrolladores
+  • Estadísticas
+  • Declaración de cookies
+  • Versión para móviles
+
+  • Wikimedia Foundation
+  • Powered by MediaWiki
+
+Buscar
+[                    ]
+Buscar
+[ ] Cambiar a la tabla de contenidos
+Línea 77 (Montevideo)
+       
+Añadir idiomas Añadir tema
+

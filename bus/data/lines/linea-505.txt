@@ -1,0 +1,303 @@
+Ir al contenido
+[ ] Menú principal
+Menú principal
+mover a la barra lateral ocultar
+Navegación
+
+  • Portada
+  • Portal de la comunidad
+  • Actualidad
+  • Cambios recientes
+  • Páginas nuevas
+  • Página aleatoria
+  • Ayuda
+  • Notificar un error
+  • Páginas especiales
+
+[wikipe] Wikipedia La enciclopedia libre
+Buscar
+[                    ]
+Buscar
+
+[ ] Apariencia
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+[ ] Herramientas personales
+
+  • Donaciones
+  • Crear una cuenta
+  • Acceder
+
+Contenidos
+
+mover a la barra lateral ocultar
+
+  • Inicio
+  • 1 Historia
+  • 2 Característica
+    Alternar subsección Característica
+      □ 2.1 Frecuencias
+  • 3 Recorridos
+    Alternar subsección Recorridos
+      □ 3.1 Destinos intermedios
+  • 4 Referencias
+  • 5 Enlaces externos
+
+[ ] Cambiar a la tabla de contenidos
+
+Línea 505 (Montevideo)
+
+[ ] Añadir idiomas
+
+Añadir enlaces
+
+  • Artículo
+  • Discusión
+
+[ ] español
+
+  • Leer
+  • Editar
+  • Ver historial
+
+[ ] Herramientas
+Herramientas
+mover a la barra lateral ocultar
+Acciones
+
+  • Leer
+  • Editar
+  • Ver historial
+
+General
+
+  • Lo que enlaza aquí
+  • Cambios en enlazadas
+  • Subir archivo
+  • Enlace permanente
+  • Información de la página
+  • Citar esta página
+  • Obtener URL acortado
+  • Cambiar al analizador antiguo
+
+Imprimir/exportar
+
+  • Crear un libro
+  • Descargar como PDF
+  • Versión para imprimir
+
+En otros proyectos
+
+  • Elemento de Wikidata
+
+Apariencia
+mover a la barra lateral ocultar
+De Wikipedia, la enciclopedia libre
+
+La línea 505 de la red de transporte urbano de Montevideo une la terminal
+Ciudadela con Manga.
+
+                          495 ← 505 → 522
+Aduana
+━━━━━━━━━━ Andaluz
+Ciudadela
+
+                          Área abastecida
+       Municipios         Montevideo
+                            Descripción
+          Tipo            Urbano
+         Sistema          Urbanos STM
+      Inauguración        1975
+       Reapertura         1992
+                             Operación
+        Longitud          Duración del viaje: 1 hora y 02 minutos.
+                            Explotación
+         Estado           Activo
+                            • AMDET
+
+                          (desde sus inicios)
+
+                            • COTSUR
+        Operador
+                          (hasta 1992)
+
+                            • COMESA
+
+                          (presente)
+                        Sucesión de líneas
+5 Línea 505 (Montevideo)  505
+
+[editar datos en Wikidata]
+
+[250px-Cambios_en_la_circulacion_po]
+Línea 505 en la terminal Ciudadela.
+
+Historia
+
+[editar]
+
+Tiene como antecedente a la entonces línea 5 de tranvías creada en 1907. En los
+años cincuenta -al ser disuelto el servicio de tranvías- la línea comenzó a ser
+operada mediante trolebuses por la Administración Municipal de Transporte. A
+mediados del año 1975, con la creación de la Cooperativa de Transportes del Sur
+, la misma comenzó a prestar su servicio mediante ómnibus, e incluso extendió
+su recorrido, que originalmente iba desde Ciudadela hasta la Avenida General
+Flores e Industria. En 1992 con la disolución de COTSUR, quien hasta ese
+entonces tenía a cargo su operación, la línea pasó a ser prestada por la
+Corporación de Ómnibus Micro-Este, a quien la Intendencia de Montevideo, le
+otorgó su denominación actual de línea 505.^[1]
+
+Característica
+
+[editar]
+
+Tiene su destino en el barrio Manga, precisamente en la intersección del Camino
+al Paso del Andaluz y el Anillo perimetral Wilson Ferreira Aldunate.
+
+Frecuencias
+
+[editar]
+┌──────────────────────────────────────────┬───────────────────┬───────────────────┬───────────────────┬───────────────────┬────────────────┐
+│             Lunes a viernes              │      Salida       │      Palacio      │     Hipódromo     │      Llegada      │    Detalle     │
+│                                          │                   │    Legislativo    │                   │                   │                │
+├──────────────────────────────────────────┼───────────────────┼───────────────────┼───────────────────┼───────────────────┼────────────────┤
+│  Primer salida desde Aduana (nocturno)   │       00:35       │       00:53       │       01:10       │       01:25       │                │
+├──────────────────────────────────────────┼───────────────────┼───────────────────┼───────────────────┼───────────────────┼────────────────┤
+│                                          │                   │                   │                   │                   │   La unidad    │
+│                                          │                   │                   │                   │                   │   cuenta con   │
+│      Primer salida desde Ciudadela       │         X         │       04:49       │       05:09       │       05:24       │ accesibilidad  │
+│                                          │                   │                   │                   │                   │ para personas  │
+│                                          │                   │                   │                   │                   │      con       │
+│                                          │                   │                   │                   │                   │  discapacidad  │
+├──────────────────────────────────────────┼───────────────────┼───────────────────┼───────────────────┼───────────────────┼────────────────┤
+│                                          │                   │                   │                   │                   │   La unidad    │
+│                                          │                   │                   │                   │                   │   cuenta con   │
+│  Última salida desde Aduana (nocturno)   │       08:17       │       08:38       │       09:03       │       09:26       │ accesibilidad  │
+│                                          │                   │                   │                   │                   │ para personas  │
+│                                          │                   │                   │                   │                   │      con       │
+│                                          │                   │                   │                   │                   │  discapacidad  │
+├──────────────────────────────────────────┼───────────────────┼───────────────────┼───────────────────┼───────────────────┼────────────────┤
+│      Última salida desde Ciudadela       │       22:41       │       22:59       │       23:19       │       23:37       │                │
+└──────────────────────────────────────────┴───────────────────┴───────────────────┴───────────────────┴───────────────────┴────────────────┘
+┌──────────────────────────────────────────┬───────────────────┬───────────────────┬───────────────────┬───────────────────┬────────────────┐
+│             Lunes a viernes              │      Salida       │     Hipódromo     │      Palacio      │      Llegada      │    Detalle     │
+│                                          │                   │                   │    Legislativo    │                   │                │
+├──────────────────────────────────────────┼───────────────────┼───────────────────┼───────────────────┼───────────────────┼────────────────┤
+│  Primer salida desde Andaluz (nocturno)  │       01:29       │       01:43       │       01:59       │       02:17       │                │
+├──────────────────────────────────────────┼───────────────────┼───────────────────┼───────────────────┼───────────────────┼────────────────┤
+│       Primer salida desde Andaluz        │       07:10       │       07:32       │       07:55       │       08:19       │                │
+├──────────────────────────────────────────┼───────────────────┼───────────────────┼───────────────────┼───────────────────┼────────────────┤
+│                                          │                   │                   │                   │                   │   La unidad    │
+│                                          │                   │                   │                   │                   │   cuenta con   │
+│  Última salida desde Andaluz (nocturno)  │       06:55       │       07:16       │       07:39       │       08:02       │ accesibilidad  │
+│                                          │                   │                   │                   │                   │ para personas  │
+│                                          │                   │                   │                   │                   │      con       │
+│                                          │                   │                   │                   │                   │  discapacidad  │
+├──────────────────────────────────────────┼───────────────────┼───────────────────┼───────────────────┼───────────────────┼────────────────┤
+│       Última salida desde Andaluz        │       23:08       │       23:22       │       23:41       │       23:58       │                │
+└──────────────────────────────────────────┴───────────────────┴───────────────────┴───────────────────┴───────────────────┴────────────────┘
+
+Recorridos
+
+[editar]
+
+En ambos sentidos circula por los barrios: Ciudadela, Centro, Cordón, Cordón
+Norte, La Aguada, Goes, Jacinto Vera, Cerrito de la Victoria, Pérez Castellanos
+, Las Acacias, Maroñas, Piedras Blancas y Manga.^[2]
+
+Ida                                      Vuelta
+
+  • Ciudadela                              • Camino Al Paso de la Española
+  • Juncal                                 • Avenida de la Aljaba
+  • Piedras                                • Avenida José Belloni
+  • Cerro Largo                            • Corredor General Flores
+  • Florida                                • Avenida General Flores
+  • Mercedes                               • Avenida de las Leyes
+  • Avenida Daniel Fernández Crespo        • Madrid
+  • Avenida de las Leyes                   • Magallanes
+  • Avenida General Flores                 • Miguelete
+  • Corredor General Flores                • Arenal Grande
+  • Avenida José Belloni                   • Avenida Uruguay
+  • Avenida de la Aljaba                   • Eduardo Acevedo
+  • Camino Al Paso de la Española          • Colonia
+  • Camino del Andaluz                     • Río Branco
+  • Terminal Andaluz                       • Avenida Uruguay
+                                           • 25 de Mayo
+                                           • Juncal
+                                           • Ciudadela
+
+
+
+Destinos intermedios
+
+[editar]
+
+Vuelta
+
+  • Avenida General Flores y Avenida Luis Alberto de Herrera
+  • Palacio Legislativo
+  • Aduana
+
+Referencias
+
+[editar]
+
+ 1. ↑ García, Alejandro ((No especifica)). «COMESA - 46 Años de Historia». p. 
+    Grupo ACLO. Consultado el 8 de noviembre de 2021. 
+ 2. ↑ «Modifican y suman líneas de ómnibus en Montevideo para una población
+    objetivo de 28.000 personas». 7 de setiembre de 2021. p. Telemundo
+    (noticiero). 
+
+Enlaces externos
+
+[editar]
+
+ 1. Línea 505
+ 2. Sitio oficial STM
+ 3. Sitio oficial de COMESA
+
+Control de autoridades   • Proyectos Wikimedia
+                         • Wd Datos: Q16493902
+
+  • Wd Datos: Q16493902
+
+*
+Obtenido de «https://es.wikipedia.org/w/index.php?title=Línea_505_(Montevideo)&
+oldid=173204342»
+Categoría:
+
+  • Líneas de ómnibus de Montevideo
+
+  • Esta página se editó por última vez el 28 abr 2026 a las 19:07.
+  • La página fue renderizada con Parsoid.
+  • El texto está disponible bajo la Licencia Creative Commons
+    Atribución-CompartirIgual 4.0; pueden aplicarse cláusulas adicionales. Al
+    usar este sitio aceptas nuestros términos de uso y nuestra política de
+    privacidad.
+    Wikipedia® es una marca registrada de la Fundación Wikimedia, una
+    organización sin ánimo de lucro.
+
+  • Política de privacidad
+  • Acerca de Wikipedia
+  • Limitación de responsabilidad
+  • Contacto legal y de seguridad
+  • Código de conducta
+  • Desarrolladores
+  • Estadísticas
+  • Declaración de cookies
+  • Versión para móviles
+
+  • Wikimedia Foundation
+  • Powered by MediaWiki
+
+Buscar
+[                    ]
+Buscar
+[ ] Cambiar a la tabla de contenidos
+Línea 505 (Montevideo)
+       
+Añadir idiomas Añadir tema
+
