@@ -167,7 +167,7 @@ for party, name in [
 ax.set_xlabel("Año")
 ax.set_ylabel("% de aprobación")
 ax.set_title(
-    "Serie histórica de aprobación del presidente (Uruguay, 1990 – 2026/05)",
+    "Serie histórica de aprobación del presidente (Uruguay, 1990 – 2026/06)",
     fontsize=14,
     fontweight="bold",
 )
